@@ -3,6 +3,18 @@
 
   "name": "Harry Potter",
   "house": "Gryffindor",
+  "dateOfBirth": "31-07-1980",
+  "ancestry": "half-blood",
+  "eyeColour": "green",
+  "hairColour": "black",
+  "wand": {
+            "wood": "holly",
+            "core": "phoenix feather",
+            "length": 11,
+            "notes": "supple"
+
+          },
+  "patronus": "stag",
   "hogwartsStudent": true,
   "actor": "Daniel Radcliffe"
   },
@@ -10,6 +22,18 @@
 
   "name": "Hermione Granger",
   "house": "Gryffindor",
+  "dateOfBirth": "19-09-1979",
+  "ancestry": "muggleborn",
+  "eyeColour": "brown",
+  "hairColour": "brown",
+  "wand": {
+            "wood": "vine",
+            "core": "dragon heartstring",
+            "length": "",
+            "notes": ""
+
+          },
+  "patronus": "otter",
   "hogwartsStudent": true,
   "actor": "Emma Watson"
 
@@ -18,6 +42,18 @@
 
   "name": "Ron Weasley",
   "house": "Gryffindor",
+  "dateOfBirth": "01-03-1980",
+  "ancestry": "pure-blood",
+  "eyeColour": "blue",
+  "hairColour": "red",
+  "wand": {
+            "wood": "willow",
+            "core": "unicorn tail-hair",
+            "length": 14,
+            "notes": ""
+
+          },
+  "patronus": "Jack Russell terrier",
   "hogwartsStudent": true,
   "actor": "Rupert Grint"
 
@@ -25,6 +61,18 @@
   {
 
   "name": "Draco Malfoy",
+  "dateOfBirth": "05-06-1980",
+  "ancestry": "pure-blood",
+  "eyeColour": "grey",
+  "hairColour": "blonde",
+  "wand": {
+            "wood": "hawthorn",
+            "core": "unicorn tail-hair",
+            "length": 10,
+            "notes": "springy"
+
+          },
+  "patronus": "",
   "house": "Slytherin",
   "hogwartsStudent": true,
   "actor": "Tom Felton"
@@ -34,6 +82,18 @@
 
   "name": "Minerva McGonagall",
   "house": "Gryffindor",
+  "dateOfBirth": "04-10-1925",
+  "ancestry": "",
+  "eyeColour": "",
+  "hairColour": "black",
+  "wand": {
+            "wood": "",
+            "core": "",
+            "length": "",
+            "notes": ""
+
+          },
+  "patronus": "tabby cat",
   "hogwartsStudent": false,
   "actor": "Dame Maggie Smith"
 
