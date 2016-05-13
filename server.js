@@ -4,6 +4,9 @@ var path = require('path');
 var fs = require('fs');
 var CHARACTERS_JSON = path.join(__dirname, 'data/characters.json');
 
+app.get('/', function(req,res) {
+  res.sendfile('public/index.html');
+});
 
 app.get('/api/characters', function(req, res){
   fs.readFile(CHARACTERS_JSON, function(err, data){
@@ -41,7 +44,7 @@ app.get('/api/characters/house/:house', function(req, res){
   })
 })
 
-app.use(express.static('client/build'));
+app.use(express.static('public'));
 
 app.set('port', (process.env.PORT || 5000));
 
