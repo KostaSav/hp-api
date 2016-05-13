@@ -1,0 +1,43 @@
+[
+  {
+
+  "name": "Harry Potter",
+  "house": "Gryffindor",
+  "hogwartsStudent": true,
+  "actor": "Daniel Radcliffe"
+  },
+  {
+
+  "name": "Hermione Granger",
+  "house": "Gryffindor",
+  "hogwartsStudent": true,
+  "actor": "Emma Watson"
+
+  },
+  {
+
+  "name": "Ron Weasley",
+  "house": "Gryffindor",
+  "hogwartsStudent": true,
+  "actor": "Rupert Grint"
+
+  },
+  {
+
+  "name": "Draco Malfoy",
+  "house": "Slytherin",
+  "hogwartsStudent": true,
+  "actor": "Tom Felton"
+
+  },
+  {
+
+  "name": "Minerva McGonagall",
+  "house": "Gryffindor",
+  "hogwartsStudent": false,
+  "actor": "Dame Maggie Smith"
+
+  }
+
+
+]

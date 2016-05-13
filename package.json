@@ -1,0 +1,9 @@
+{
+    "name": "harry-potter-api",
+    "description": "Harry Potter API",
+    "version": "0.0.1",
+    "private": true,
+    "dependencies": {
+        "express": "3.x"
+    }
+}
