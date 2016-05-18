@@ -2,102 +2,164 @@
   {
 
   "name": "Harry Potter",
+  "species": "human",
+  "gender": "male",
   "house": "Gryffindor",
   "dateOfBirth": "31-07-1980",
+  "yearOfBirth": 1980,
   "ancestry": "half-blood",
   "eyeColour": "green",
   "hairColour": "black",
   "wand": {
             "wood": "holly",
             "core": "phoenix feather",
-            "length": 11,
-            "notes": "supple"
-
+            "length": 11
           },
   "patronus": "stag",
   "hogwartsStudent": true,
-  "actor": "Daniel Radcliffe"
+  "hogwartsStaff": false,
+  "actor": "Daniel Radcliffe",
+  "alive": true
   },
   {
 
   "name": "Hermione Granger",
+  "species": "human",
+  "gender": "female",
   "house": "Gryffindor",
   "dateOfBirth": "19-09-1979",
+  "yearOfBirth": 1979,
   "ancestry": "muggleborn",
   "eyeColour": "brown",
   "hairColour": "brown",
   "wand": {
             "wood": "vine",
             "core": "dragon heartstring",
-            "length": "",
-            "notes": ""
-
+            "length": ""
           },
   "patronus": "otter",
   "hogwartsStudent": true,
-  "actor": "Emma Watson"
+  "hogwartsStaff": false,
+  "actor": "Emma Watson",
+  "alive": true
 
   },
   {
 
   "name": "Ron Weasley",
+  "species": "human",
+  "gender": "male",
   "house": "Gryffindor",
   "dateOfBirth": "01-03-1980",
+  "yearOfBirth": 1980,
   "ancestry": "pure-blood",
   "eyeColour": "blue",
   "hairColour": "red",
   "wand": {
             "wood": "willow",
             "core": "unicorn tail-hair",
-            "length": 14,
-            "notes": ""
-
+            "length": 14
           },
   "patronus": "Jack Russell terrier",
   "hogwartsStudent": true,
-  "actor": "Rupert Grint"
+  "hogwartsStaff": false,
+  "actor": "Rupert Grint",
+  "alive": true
 
   },
   {
 
   "name": "Draco Malfoy",
+  "species": "human",
+  "gender": "male",
+  "house": "Slytherin",
   "dateOfBirth": "05-06-1980",
+  "yearOfBirth": 1980,
   "ancestry": "pure-blood",
   "eyeColour": "grey",
   "hairColour": "blonde",
   "wand": {
             "wood": "hawthorn",
             "core": "unicorn tail-hair",
-            "length": 10,
-            "notes": "springy"
-
+            "length": 10
           },
   "patronus": "",
-  "house": "Slytherin",
   "hogwartsStudent": true,
-  "actor": "Tom Felton"
+  "hogwartsStaff": false,
+  "actor": "Tom Felton",
+  "alive": true
 
   },
   {
 
   "name": "Minerva McGonagall",
+  "species": "human",
+  "gender": "female",
   "house": "Gryffindor",
   "dateOfBirth": "04-10-1925",
+  "yearOfBirth": 1925,
   "ancestry": "",
   "eyeColour": "",
   "hairColour": "black",
   "wand": {
             "wood": "",
             "core": "",
-            "length": "",
-            "notes": ""
-
+            "length": ""
           },
   "patronus": "tabby cat",
   "hogwartsStudent": false,
-  "actor": "Dame Maggie Smith"
+  "hogwartsStaff": true,
+  "actor": "Dame Maggie Smith",
+  "alive": true
+
+  },  
+  {
+
+  "name": "Cedric Diggory",
+  "species": "human",
+  "gender": "male",
+  "house": "Hufflepuff",
+  "dateOfBirth": "",
+  "yearOfBirth": 1977,
+  "ancestry": "",
+  "eyeColour": "grey",
+  "hairColour": "brown",
+  "wand": {
+            "wood": "ash",
+            "core": "unicorn hair",
+            "length": "12.25"
+          },
+  "patronus": "",
+  "hogwartsStudent": true,
+  "hogwartsStaff": false,
+  "actor": "Robert Pattinson",
+  "alive": false
+
+  },
+  {
+
+  "name": "Cho Chang",
+  "species": "human",
+  "gender": "female",
+  "house": "Ravenclaw",
+  "dateOfBirth": "",
+  "yearOfBirth": "",
+  "ancestry": "",
+  "eyeColour": "brown",
+  "hairColour": "black",
+  "wand": {
+            "wood": "",
+            "core": "",
+            "length": ""
+          },
+  "patronus": "swan",
+  "hogwartsStudent": true,
+  "hogwartsStaff": false,
+  "actor": "Robert Pattinson",
+  "alive": true
 
   }
+
 
 
 ]
