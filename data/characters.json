@@ -388,6 +388,190 @@
   "actor": "Ralph Fiennes",
   "alive": false
 
+  },
+  {
+
+  "name": "Horace Slughorn",
+  "species": "human",
+  "gender": "male",
+  "house": "Slytherin",
+  "dateOfBirth": "",
+  "yearOfBirth": "",
+  "ancestry": "pure-blood",
+  "eyeColour": "green",
+  "hairColour": "blonde",
+  "wand": {
+            "wood": "cedar",
+            "core": "dragon heartstring",
+            "length": 10.25
+          },
+  "patronus": "",
+  "hogwartsStudent": false,
+  "hogwartsStaff": true,
+  "actor": "Jim Broadbent",
+  "alive": true
+
+  },
+  {
+
+  "name": "Kingsley Shacklebolt",
+  "species": "human",
+  "gender": "male",
+  "house": "",
+  "dateOfBirth": "",
+  "yearOfBirth": "",
+  "ancestry": "pure-blood",
+  "eyeColour": "brown",
+  "hairColour": "brown",
+  "wand": {
+            "wood": "",
+            "core": "",
+            "length": ""
+          },
+  "patronus": "lynx",
+  "hogwartsStudent": false,
+  "hogwartsStaff": false,
+  "actor": "George Harris",
+  "alive": true
+
+  },
+  {
+
+  "name": "Dolores Umbridge",
+  "species": "human",
+  "gender": "female",
+  "house": "Slytherin",
+  "dateOfBirth": "",
+  "yearOfBirth": "",
+  "ancestry": "half-blood",
+  "eyeColour": "brown",
+  "hairColour": "grey",
+  "wand": {
+            "wood": "birch",
+            "core": "dragon heartstring",
+            "length": 8
+          },
+  "patronus": "persian cat",
+  "hogwartsStudent": false,
+  "hogwartsStaff": true,
+  "actor": "Imelda Staunton",
+  "alive": true
+
+  },
+  {
+
+  "name": "Lucius Malfoy",
+  "species": "human",
+  "gender": "male",
+  "house": "Slytherin",
+  "dateOfBirth": "",
+  "yearOfBirth": 1954,
+  "ancestry": "pure-blood",
+  "eyeColour": "grey",
+  "hairColour": "blonde",
+  "wand": {
+            "wood": "elm",
+            "core": "dragon heartstring",
+            "length": 18
+          },
+  "patronus": "",
+  "hogwartsStudent": false,
+  "hogwartsStaff": false,
+  "actor": "Jason Isaacs",
+  "alive": true
+
+  },
+  {
+
+  "name": "Vincent Crabbe",
+  "species": "human",
+  "gender": "male",
+  "house": "Slytherin",
+  "dateOfBirth": "",
+  "yearOfBirth": "",
+  "ancestry": "pure-blood",
+  "eyeColour": "black",
+  "hairColour": "black",
+  "wand": {
+            "wood": "",
+            "core": "",
+            "length": ""
+          },
+  "patronus": "",
+  "hogwartsStudent": true,
+  "hogwartsStaff": false,
+  "actor": "Jamie Waylett",
+  "alive": false
+
+  },
+  {
+
+  "name": "Gregory Goyle",
+  "species": "human",
+  "gender": "male",
+  "house": "Slytherin",
+  "dateOfBirth": "",
+  "yearOfBirth": "",
+  "ancestry": "pure-blood",
+  "eyeColour": "",
+  "hairColour": "brown",
+  "wand": {
+            "wood": "",
+            "core": "",
+            "length": ""
+          },
+  "patronus": "",
+  "hogwartsStudent": true,
+  "hogwartsStaff": false,
+  "actor": "Josh Herdman",
+  "alive": true
+
+  },
+  {
+
+  "name": "Mrs Norris",
+  "species": "cat",
+  "gender": "female",
+  "house": "",
+  "dateOfBirth": "",
+  "yearOfBirth": "",
+  "ancestry": "",
+  "eyeColour": "yellow",
+  "hairColour": "brown",
+  "wand": {
+            "wood": "",
+            "core": "",
+            "length": ""
+          },
+  "patronus": "",
+  "hogwartsStudent": false,
+  "hogwartsStaff": true,
+  "actor": "Maxime, Alanis and Tommy the cats",
+  "alive": true
+
+  },
+  {
+
+  "name": "Argus Filch",
+  "species": "human",
+  "gender": "male",
+  "house": "",
+  "dateOfBirth": "",
+  "yearOfBirth": "",
+  "ancestry": "squib",
+  "eyeColour": "",
+  "hairColour": "grey",
+  "wand": {
+            "wood": "",
+            "core": "",
+            "length": ""
+          },
+  "patronus": "",
+  "hogwartsStudent": false,
+  "hogwartsStaff": true,
+  "actor": "David Bradley",
+  "alive": true
+
   }
 
 
