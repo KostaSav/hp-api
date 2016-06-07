@@ -19,7 +19,9 @@
   "hogwartsStudent": true,
   "hogwartsStaff": false,
   "actor": "Daniel Radcliffe",
-  "alive": true
+  "alive": true,
+  "image": "http://hp-api.herokuapp.com/images/harry.jpg"
+  
   },
   {
 
