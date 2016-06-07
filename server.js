@@ -30,6 +30,20 @@ app.get('/api/characters/students', function(req, res){
   })
 })
 
+app.get('/api/characters/staff', function(req, res){
+  fs.readFile(CHARACTERS_JSON, function(err, data){
+    if(err) process.exit(1);
+    json = JSON.parse(data);
+    staff_array = [];
+    for(character of json){
+      if(character.hogwartsStaff == true){
+      staff_array.push(character);
+      }
+    }
+    res.json(staff_array);
+  })
+})
+
 app.get('/api/characters/house/:house', function(req, res){
   fs.readFile(CHARACTERS_JSON, function(err, data){
     if(err) process.exit(1);
