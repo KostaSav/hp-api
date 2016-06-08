@@ -21,7 +21,7 @@
   "actor": "Daniel Radcliffe",
   "alive": true,
   "image": "http://hp-api.herokuapp.com/images/harry.jpg"
-  
+
   },
   {
 
@@ -43,7 +43,8 @@
   "hogwartsStudent": true,
   "hogwartsStaff": false,
   "actor": "Emma Watson",
-  "alive": true
+  "alive": true,
+  "image": "http://hp-api.herokuapp.com/images/hermione.jpeg"
 
   },
   {
@@ -66,7 +67,8 @@
   "hogwartsStudent": true,
   "hogwartsStaff": false,
   "actor": "Rupert Grint",
-  "alive": true
+  "alive": true,
+  "image": "http://hp-api.herokuapp.com/images/ron.jpg"
 
   },
   {
@@ -89,7 +91,8 @@
   "hogwartsStudent": true,
   "hogwartsStaff": false,
   "actor": "Tom Felton",
-  "alive": true
+  "alive": true,
+  "image": "http://hp-api.herokuapp.com/images/draco.jpg"
 
   },
   {
@@ -112,7 +115,8 @@
   "hogwartsStudent": false,
   "hogwartsStaff": true,
   "actor": "Dame Maggie Smith",
-  "alive": true
+  "alive": true,
+  "image": "http://hp-api.herokuapp.com/images/mcgonagall.jpg"
 
   },  
   {
@@ -135,7 +139,8 @@
   "hogwartsStudent": true,
   "hogwartsStaff": false,
   "actor": "Robert Pattinson",
-  "alive": false
+  "alive": false,
+  "image": "http://hp-api.herokuapp.com/images/cedric.png"
 
   },
   {
@@ -158,7 +163,8 @@
   "hogwartsStudent": true,
   "hogwartsStaff": false,
   "actor": "Katie Leung",
-  "alive": true
+  "alive": true,
+  "image": "http://hp-api.herokuapp.com/images/cho.jpg"
 
   },
   {
@@ -181,7 +187,8 @@
   "hogwartsStudent": false,
   "hogwartsStaff": true,
   "actor": "Alan Rickman",
-  "alive": false
+  "alive": false,
+  "image": "http://hp-api.herokuapp.com/images/snape.jpg"
 
   },
   {
@@ -204,7 +211,8 @@
   "hogwartsStudent": false,
   "hogwartsStaff": true,
   "actor": "Robbie Coltrane",
-  "alive": true
+  "alive": true,
+  "image": "http://hp-api.herokuapp.com/images/hagrid.png"
 
   },
   {
@@ -227,7 +235,8 @@
   "hogwartsStudent": true,
   "hogwartsStaff": false,
   "actor": "Matthew Lewis",
-  "alive": true
+  "alive": true,
+  "image": "http://hp-api.herokuapp.com/images/neville.jpg"
 
   },
   {
@@ -250,7 +259,8 @@
   "hogwartsStudent": true,
   "hogwartsStaff": false,
   "actor": "Evanna Lynch",
-  "alive": true
+  "alive": true,
+  "image": "http://hp-api.herokuapp.com/images/luna.jpg"
 
   },
   {
@@ -273,7 +283,8 @@
   "hogwartsStudent": true,
   "hogwartsStaff": false,
   "actor": "Bonnie Wright",
-  "alive": true
+  "alive": true,
+  "image": "http://hp-api.herokuapp.com/images/ginny.jpg"
 
   },
   {
@@ -296,7 +307,8 @@
   "hogwartsStudent": false,
   "hogwartsStaff": false,
   "actor": "Gary Oldman",
-  "alive": false
+  "alive": false,
+  "image": "http://hp-api.herokuapp.com/images/sirius.JPG"
 
   },
   {
@@ -319,7 +331,8 @@
   "hogwartsStudent": false,
   "hogwartsStaff": true,
   "actor": "David Thewlis",
-  "alive": false
+  "alive": false,
+  "image": "http://hp-api.herokuapp.com/images/lupin.jpg"
 
   },
   {
@@ -342,7 +355,8 @@
   "hogwartsStudent": false,
   "hogwartsStaff": false,
   "actor": "Mark Williams",
-  "alive": true
+  "alive": true,
+  "image": "http://hp-api.herokuapp.com/images/arthur.jpg"
 
   },
   {
@@ -365,7 +379,8 @@
   "hogwartsStudent": false,
   "hogwartsStaff": false,
   "actor": "Helena Bonham Carter",
-  "alive": false
+  "alive": false,
+  "image": "http://hp-api.herokuapp.com/images/bellatrix.jpg"
 
   },
   {
@@ -388,7 +403,8 @@
   "hogwartsStudent": false,
   "hogwartsStaff": false,
   "actor": "Ralph Fiennes",
-  "alive": false
+  "alive": false,
+  "image": "http://hp-api.herokuapp.com/images/voldemort.jpg"
 
   },
   {
@@ -411,7 +427,8 @@
   "hogwartsStudent": false,
   "hogwartsStaff": true,
   "actor": "Jim Broadbent",
-  "alive": true
+  "alive": true,
+  "image": "http://hp-api.herokuapp.com/images/slighorn.JPG"
 
   },
   {
@@ -434,7 +451,8 @@
   "hogwartsStudent": false,
   "hogwartsStaff": false,
   "actor": "George Harris",
-  "alive": true
+  "alive": true,
+  "image": "http://hp-api.herokuapp.com/images/kingsley.jpg"
 
   },
   {
@@ -457,7 +475,8 @@
   "hogwartsStudent": false,
   "hogwartsStaff": true,
   "actor": "Imelda Staunton",
-  "alive": true
+  "alive": true,
+  "image": "http://hp-api.herokuapp.com/images/umbridge.jpg"
 
   },
   {
@@ -480,7 +499,8 @@
   "hogwartsStudent": false,
   "hogwartsStaff": false,
   "actor": "Jason Isaacs",
-  "alive": true
+  "alive": true,
+  "image": "http://hp-api.herokuapp.com/images/lucius.jpg"
 
   },
   {
@@ -503,7 +523,8 @@
   "hogwartsStudent": true,
   "hogwartsStaff": false,
   "actor": "Jamie Waylett",
-  "alive": false
+  "alive": false,
+  "image": "http://hp-api.herokuapp.com/images/crabbe.jpg"
 
   },
   {
@@ -526,7 +547,8 @@
   "hogwartsStudent": true,
   "hogwartsStaff": false,
   "actor": "Josh Herdman",
-  "alive": true
+  "alive": true,
+  "image": "http://hp-api.herokuapp.com/images/goyle.jpg"
 
   },
   {
@@ -549,7 +571,8 @@
   "hogwartsStudent": false,
   "hogwartsStaff": true,
   "actor": "Maxime, Alanis and Tommy the cats",
-  "alive": true
+  "alive": true,
+  "image": "http://hp-api.herokuapp.com/images/norris.JPG"
 
   },
   {
@@ -572,7 +595,8 @@
   "hogwartsStudent": false,
   "hogwartsStaff": true,
   "actor": "David Bradley",
-  "alive": true
+  "alive": true,
+  "image": "http://hp-api.herokuapp.com/images/filch.jpg"
 
   }
 
