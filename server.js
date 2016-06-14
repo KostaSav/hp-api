@@ -11,7 +11,7 @@ app.get('/', function(req,res) {
 app.get('/api/characters', function(req, res){
   fs.readFile(CHARACTERS_JSON, function(err, data){
     if(err) process.exit(1);
-
+    res.setHeader('Access-Control-Allow-Origin', '*');
     res.json(JSON.parse(data));
   })
 })
@@ -26,6 +26,7 @@ app.get('/api/characters/students', function(req, res){
       students_array.push(character);
       }
     }
+    res.setHeader('Access-Control-Allow-Origin', '*');
     res.json(students_array);
   })
 })
@@ -40,6 +41,7 @@ app.get('/api/characters/staff', function(req, res){
       staff_array.push(character);
       }
     }
+    res.setHeader('Access-Control-Allow-Origin', '*');
     res.json(staff_array);
   })
 })
@@ -54,6 +56,7 @@ app.get('/api/characters/house/:house', function(req, res){
       house_array.push(character);
       }
     }
+    res.setHeader('Access-Control-Allow-Origin', '*');
     res.json(house_array);
   })
 })
