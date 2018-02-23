@@ -133,7 +133,7 @@
   "wand": {
             "wood": "ash",
             "core": "unicorn hair",
-            "length": "12.25"
+            "length": 12.25
           },
   "patronus": "",
   "hogwartsStudent": true,
