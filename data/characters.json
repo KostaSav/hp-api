@@ -77,18 +77,6 @@
     "harga": 27272, 
     "foto": "http://foodmenu-api.herokuapp.com/images/ChickenNuggets.png"
 
-  },
-  {
-    "id":"2",
-    "nama": "Bacon Keju",	
-    "detail": "Cita rasa yang sangat dalam terdapat di Pink Donuts ini.", 
-    "kategori": "food", 
-    "harga": 27272, 
-    "foto": "http://foodmenu-api.herokuapp.com/images/DoubleCheeseburger.png"
-
-
   }
-
-
 
 ]
