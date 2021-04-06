@@ -29,7 +29,7 @@
     "detail": "Cita rasa yang sangat dalam terdapat di Pink Donuts ini.", 
     "kategori": "food", 
     "harga": 27272, 
-    "foto": "BaconKingJr.png"
+    "foto": "http://foodmenu-api.herokuapp.com/images/BaconKingJr.png"
   },
   {
 
