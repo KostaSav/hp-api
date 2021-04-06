@@ -24,6 +24,14 @@
 
   },
   {
+    "id":"1",
+    "nama": "Bacon Burger",	
+    "detail": "Cita rasa yang sangat dalam terdapat di Pink Donuts ini.", 
+    "kategori": "food", 
+    "harga": 27272, 
+    "foto": "BaconKingJr.png"
+  },
+  {
 
   "name": "Hermione Granger",
   "species": "human",

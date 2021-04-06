@@ -1,6 +1,6 @@
 {
-    "name": "harry-potter-api",
-    "description": "Harry Potter API",
+    "name": "food-menu-api",
+    "description": "Food Menu API",
     "version": "0.0.1",
     "private": true,
     "dependencies": {
