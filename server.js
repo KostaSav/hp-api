@@ -2,7 +2,7 @@ var express = require('express');
 var app = express();
 var path = require('path');
 var fs = require('fs');
-var CHARACTERS_JSON = path.join(__dirname, 'data/characters.json');
+var CHARACTERS_JSON = path.join(__dirname, 'data/menu.json');
 
 app.get('/', function(req,res) {
   res.sendfile('public/index.html');
