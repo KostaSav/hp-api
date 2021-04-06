@@ -1,6 +1,5 @@
-# Harry Potter API
+# Food Menu API
 
-A simple JSON-based API for getting information on Harry Potter characters. 
+A simple JSON-based API for getting information on Food Menu.
 
-Hosted at https://hp-api.herokuapp.com/
-
+Hosted at https://foodmenu-api.herokuapp.com/
