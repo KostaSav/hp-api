@@ -77,6 +77,15 @@
     "harga": 27272, 
     "foto": "http://foodmenu-api.herokuapp.com/images/ChickenNuggets.png"
 
+  },
+   {
+    "id":"9",
+    "nama": "Mie Goreng Jawa",	
+    "detail": "Mie Goreng spesial jawa.", 
+    "kategori": "snack", 
+    "harga": 27272, 
+    "foto": "http://foodmenu-api.herokuapp.com/images/ChickenNuggets.png"
+
   }
 
 ]
