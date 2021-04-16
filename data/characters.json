@@ -618,7 +618,7 @@
   "patronus": "",
   "hogwartsStudent": false,
   "hogwartsStaff": false,
-  "actor": "",
+  "actor": "Richard Griffiths",
   "alive": true,
   "image": ""
 
@@ -642,7 +642,7 @@
   "patronus": "",
   "hogwartsStudent": false,
   "hogwartsStaff": false,
-  "actor": "",
+  "actor": "Fiona Shaw",
   "alive": true,
   "image": ""
 
@@ -666,7 +666,7 @@
   "patronus": "",
   "hogwartsStudent": false,
   "hogwartsStaff": false,
-  "actor": "",
+  "actor": "Harry Melling",
   "alive": true,
   "image": ""
 
@@ -690,7 +690,7 @@
   "patronus": "",
   "hogwartsStudent": false,
   "hogwartsStaff": false,
-  "actor": "",
+  "actor": "Geraldine Somerville",
   "alive": false,
   "image": ""
 
@@ -714,7 +714,7 @@
   "patronus": "",
   "hogwartsStudent": false,
   "hogwartsStaff": false,
-  "actor": "",
+  "actor": "Adrian Rawlins",
   "alive": false,
   "image": ""
 
@@ -762,7 +762,7 @@
   "patronus": "",
   "hogwartsStudent": false,
   "hogwartsStaff": false,
-  "actor": "",
+  "actor": "David Brett",
   "alive": true,
   "image": ""
 
@@ -787,7 +787,7 @@
   "patronus": "",
   "hogwartsStudent": false,
   "hogwartsStaff": true,
-  "actor": "",
+  "actor": "Gemma Jones",
   "alive": true,
   "image": ""
   }
