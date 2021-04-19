@@ -4,80 +4,100 @@
     "nama": "Nasi Ayam Saus Tiram",
     "detail": "Ayam yang dibumbui dengan saus tiram yang lezat.",
     "kategori": "food",
-    "harga": 27272,
-    "rate": 3.4,
-    "foto": "http://foodmenu-api.herokuapp.com/images/menu-1.jpg"
+    "harga": 18000,
+    "rate": 4.4,
+    "foto": "http://foodmenu-api.herokuapp.com/images/food-1.jpg"
   },
   {
     "id": "2",
-    "nama": "Bacon Keju",
-    "detail": "Cita rasa yang sangat dalam terdapat di Pink Donuts ini.",
+    "nama": "Mie Goreng Spesial",
+    "detail": "Mie Goreng spesial yang pernah ada dimuka bumi.",
     "kategori": "food",
-    "harga": 27272,
-    "rate": 3.4,
-    "foto": "http://foodmenu-api.herokuapp.com/images/DoubleCheeseburger.png"
+    "harga": 14500,
+    "rate": 4.2,
+    "foto": "http://foodmenu-api.herokuapp.com/images/food-2.jpg"
   },
   {
     "id": "3",
-    "nama": "Krabby Patty",
-    "detail": "Cita rasa yang sangat dalam terdapat di Pink Donuts ini.",
+    "nama": "Mie Kuah Spesial",
+    "detail": "Mie dengan kuah yang spesial yang pernah ada.",
     "kategori": "food",
-    "harga": 27272,
-    "rate": 3.4,
-    "foto": "http://foodmenu-api.herokuapp.com/images/MorningStarVeggieBurger.png"
+    "harga": 14000,
+    "rate": 4.1,
+    "foto": "http://foodmenu-api.herokuapp.com/images/food-3.jpg"
   },
+
   {
     "id": "4",
-    "nama": "Water Mineral",
-    "detail": "Cita rasa yang sangat dalam terdapat di Pink Donuts ini.",
+    "nama": "Ikan Sambal Merah",
+    "detail": "Ikan yang di import dari bikini bottom.",
     "kategori": "drink",
-    "harga": 27272,
+    "harga": 18000,
     "rate": 3.4,
-    "foto": "http://foodmenu-api.herokuapp.com/images/NestlePureLifeWater.png"
+    "foto": "http://foodmenu-api.herokuapp.com/images/food-4.jpg"
   },
   {
     "id": "5",
-    "nama": "Cola",
-    "detail": "Cita rasa yang sangat dalam terdapat di Pink Donuts ini.",
-    "kategori": "drink",
-    "harga": 27272,
-    "rate": 3.4,
-    "foto": "http://foodmenu-api.herokuapp.com/images/CocaCola.png"
+    "nama": "Nasi Cumi",
+    "detail": "Nimati Cumi dari Bikini Bottomg dengan bumbu spesial.",
+    "kategori": "food",
+    "harga": 20000,
+    "rate": 3.9,
+    "foto": "http://foodmenu-api.herokuapp.com/images/food-5.jpg"
   },
   {
     "id": "6",
-    "nama": "Sprite",
-    "detail": "Cita rasa yang sangat dalam terdapat di Pink Donuts ini.",
+    "nama": "Air mineral",
+    "detail": "Murah kok cuma .",
     "kategori": "drink",
-    "harga": 27272,
+    "harga": 3500,
     "rate": 3.4,
-    "foto": "http://foodmenu-api.herokuapp.com/images/Sprite.png"
+    "foto": "http://foodmenu-api.herokuapp.com/images/drink-1.jpg"
   },
+
   {
     "id": "7",
-    "nama": "Pancakes",
-    "detail": "Cita rasa yang sangat dalam terdapat di Pink Donuts ini.",
-    "kategori": "snack",
-    "harga": 27272,
+    "nama": "Coca-cola",
+    "detail": "Haus? ya minum Coca-cola.",
+    "kategori": "drink",
+    "harga": 5000,
     "rate": 3.4,
-    "foto": "http://foodmenu-api.herokuapp.com/images/PancakesandSausages.png"
+    "foto": "http://foodmenu-api.herokuapp.com/images/drink-2"
   },
   {
     "id": "8",
-    "nama": "Chicken Nugget",
-    "detail": "Cita rasa yang sangat dalam terdapat di Pink Donuts ini.",
-    "kategori": "snack",
-    "harga": 27272,
+    "nama": "Sprite",
+    "detail": "Haus? minum Sprite.",
+    "kategori": "drink",
+    "harga": 5000,
     "rate": 3.4,
-    "foto": "http://foodmenu-api.herokuapp.com/images/ChickenNuggets.png"
+    "foto": "http://foodmenu-api.herokuapp.com/images/drink-3.jpg"
   },
   {
     "id": "9",
-    "nama": "Mie Goreng Jawa",
-    "detail": "Mie Goreng spesial jawa.",
-    "kategori": "snack",
-    "harga": 27272,
+    "nama": "Teh hangat",
+    "detail": "Teh teh tehhh.",
+    "kategori": "drink",
+    "harga": 3000,
     "rate": 3.4,
-    "foto": "http://foodmenu-api.herokuapp.com/images/ChickenNuggets.png"
+    "foto": "http://foodmenu-api.herokuapp.com/images/drink-5.jpg"
+  },
+  {
+    "id": "10",
+    "nama": "Es Teh",
+    "detail": "Teh teh tehhh.",
+    "kategori": "drink",
+    "harga": 3500,
+    "rate": 3.4,
+    "foto": "http://foodmenu-api.herokuapp.com/images/drink-6.jpg"
+  },
+  {
+    "id": "11",
+    "nama": "Pancake",
+    "detail": "Pancake.",
+    "kategori": "snack",
+    "harga": 9000,
+    "rate": 3.4,
+    "foto": "http://foodmenu-api.herokuapp.com/images/snack.png"
   }
 ]
