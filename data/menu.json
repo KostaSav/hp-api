@@ -31,7 +31,7 @@
     "id": "4",
     "nama": "Ikan Sambal Merah",
     "detail": "Ikan yang di import dari bikini bottom.",
-    "kategori": "drink",
+    "kategori": "food",
     "harga": 18000,
     "rate": 3.4,
     "foto": "http://foodmenu-api.herokuapp.com/images/food-4.jpg"
