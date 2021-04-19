@@ -1,91 +1,74 @@
 [
   {
-
-    "id":"1",
-    "nama": "Bacon Burger",	
-    "detail": "Cita rasa yang sangat dalam terdapat di Pink Donuts ini.", 
-    "kategori": "food", 
-    "harga": 27272, 
-    "foto": "http://foodmenu-api.herokuapp.com/images/BaconKingJr.png"
-
+    "id": "1",
+    "nama": "Nasi Ayam Saus Tiram",
+    "detail": "Ayam yang dibumbui dengan saus tiram yang lezat.",
+    "kategori": "food",
+    "harga": 27272,
+    "foto": "http://foodmenu-api.herokuapp.com/images/menu-1"
   },
   {
-    "id":"2",
-    "nama": "Bacon Keju",	
-    "detail": "Cita rasa yang sangat dalam terdapat di Pink Donuts ini.", 
-    "kategori": "food", 
-    "harga": 27272, 
+    "id": "2",
+    "nama": "Bacon Keju",
+    "detail": "Cita rasa yang sangat dalam terdapat di Pink Donuts ini.",
+    "kategori": "food",
+    "harga": 27272,
     "foto": "http://foodmenu-api.herokuapp.com/images/DoubleCheeseburger.png"
   },
   {
-    "id":"3",
-    "nama": "Krabby Patty",	
-    "detail": "Cita rasa yang sangat dalam terdapat di Pink Donuts ini.", 
-    "kategori": "food", 
-    "harga": 27272, 
+    "id": "3",
+    "nama": "Krabby Patty",
+    "detail": "Cita rasa yang sangat dalam terdapat di Pink Donuts ini.",
+    "kategori": "food",
+    "harga": 27272,
     "foto": "http://foodmenu-api.herokuapp.com/images/MorningStarVeggieBurger.png"
-
   },
   {
-
-    "id":"4",
-    "nama": "Water Mineral",	
-    "detail": "Cita rasa yang sangat dalam terdapat di Pink Donuts ini.", 
-    "kategori": "drink", 
-    "harga": 27272, 
+    "id": "4",
+    "nama": "Water Mineral",
+    "detail": "Cita rasa yang sangat dalam terdapat di Pink Donuts ini.",
+    "kategori": "drink",
+    "harga": 27272,
     "foto": "http://foodmenu-api.herokuapp.com/images/NestlePureLifeWater.png"
-
-
   },
   {
-
-    "id":"5",
-    "nama": "Cola",	
-    "detail": "Cita rasa yang sangat dalam terdapat di Pink Donuts ini.", 
-    "kategori": "drink", 
-    "harga": 27272, 
+    "id": "5",
+    "nama": "Cola",
+    "detail": "Cita rasa yang sangat dalam terdapat di Pink Donuts ini.",
+    "kategori": "drink",
+    "harga": 27272,
     "foto": "http://foodmenu-api.herokuapp.com/images/CocaCola.png"
-
-
   },
   {
-
-    "id":"6",
-    "nama": "Sprite",	
-    "detail": "Cita rasa yang sangat dalam terdapat di Pink Donuts ini.", 
-    "kategori": "drink", 
-    "harga": 27272, 
+    "id": "6",
+    "nama": "Sprite",
+    "detail": "Cita rasa yang sangat dalam terdapat di Pink Donuts ini.",
+    "kategori": "drink",
+    "harga": 27272,
     "foto": "http://foodmenu-api.herokuapp.com/images/Sprite.png"
-
-
-  },  
+  },
   {
-    "id":"7",
-    "nama": "Pancakes",	
-    "detail": "Cita rasa yang sangat dalam terdapat di Pink Donuts ini.", 
-    "kategori": "snack", 
-    "harga": 27272, 
+    "id": "7",
+    "nama": "Pancakes",
+    "detail": "Cita rasa yang sangat dalam terdapat di Pink Donuts ini.",
+    "kategori": "snack",
+    "harga": 27272,
     "foto": "http://foodmenu-api.herokuapp.com/images/PancakesandSausages.png"
-
-
   },
   {
-    "id":"8",
-    "nama": "Chicken Nugget",	
-    "detail": "Cita rasa yang sangat dalam terdapat di Pink Donuts ini.", 
-    "kategori": "snack", 
-    "harga": 27272, 
+    "id": "8",
+    "nama": "Chicken Nugget",
+    "detail": "Cita rasa yang sangat dalam terdapat di Pink Donuts ini.",
+    "kategori": "snack",
+    "harga": 27272,
     "foto": "http://foodmenu-api.herokuapp.com/images/ChickenNuggets.png"
-
   },
-   {
-    "id":"9",
-    "nama": "Mie Goreng Jawa",	
-    "detail": "Mie Goreng spesial jawa.", 
-    "kategori": "snack", 
-    "harga": 27272, 
+  {
+    "id": "9",
+    "nama": "Mie Goreng Jawa",
+    "detail": "Mie Goreng spesial jawa.",
+    "kategori": "snack",
+    "harga": 27272,
     "foto": "http://foodmenu-api.herokuapp.com/images/ChickenNuggets.png"
-
   }
-
 ]
