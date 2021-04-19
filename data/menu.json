@@ -43,7 +43,7 @@
     "kategori": "food",
     "harga": 20000,
     "rate": 3.9,
-    "foto": "http://foodmenu-api.herokuapp.com/images/food-5.jpg"
+    "foto": "http://foodmenu-api.herokuapp.com/images/food-5.png"
   },
   {
     "id": "6",
