@@ -52,7 +52,7 @@
     "kategori": "drink",
     "harga": 3500,
     "rate": 3.4,
-    "foto": "http://foodmenu-api.herokuapp.com/images/drink-1.jpg"
+    "foto": "http://foodmenu-api.herokuapp.com/images/drink-1.png"
   },
 
   {
@@ -62,7 +62,7 @@
     "kategori": "drink",
     "harga": 5000,
     "rate": 3.4,
-    "foto": "http://foodmenu-api.herokuapp.com/images/drink-2"
+    "foto": "http://foodmenu-api.herokuapp.com/images/drink-2.png"
   },
   {
     "id": "8",
@@ -71,7 +71,7 @@
     "kategori": "drink",
     "harga": 5000,
     "rate": 3.4,
-    "foto": "http://foodmenu-api.herokuapp.com/images/drink-3.jpg"
+    "foto": "http://foodmenu-api.herokuapp.com/images/drink-3.png"
   },
   {
     "id": "9",
@@ -80,7 +80,7 @@
     "kategori": "drink",
     "harga": 3000,
     "rate": 3.4,
-    "foto": "http://foodmenu-api.herokuapp.com/images/drink-5.jpg"
+    "foto": "http://foodmenu-api.herokuapp.com/images/drink-4.jpg"
   },
   {
     "id": "10",
@@ -89,7 +89,7 @@
     "kategori": "drink",
     "harga": 3500,
     "rate": 3.4,
-    "foto": "http://foodmenu-api.herokuapp.com/images/drink-6.jpg"
+    "foto": "http://foodmenu-api.herokuapp.com/images/drink-5.jpg"
   },
   {
     "id": "11",
@@ -98,6 +98,6 @@
     "kategori": "snack",
     "harga": 9000,
     "rate": 3.4,
-    "foto": "http://foodmenu-api.herokuapp.com/images/snack.png"
+    "foto": "http://foodmenu-api.herokuapp.com/images/snack-1.png"
   }
 ]
