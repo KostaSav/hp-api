@@ -103,10 +103,28 @@
   {
     "id": "12",
     "nama": "Nasi Goreng Pete",
-    "detail": "Nasi goreng dengann toping pete",
+    "detail": "Nasi goreng dengan toping pete",
     "kategori": "food",
     "harga": 15000,
     "rate": 3.6,
     "foto": "http://foodmenu-api.herokuapp.com/images/food-6.jpg"
+  },
+  {
+    "id": "13",
+    "nama": "Nasi Goreng Vegetarian",
+    "detail": "Nasi goreng dengan toping sayur sayuran",
+    "kategori": "food",
+    "harga": 16000,
+    "rate": 3.6,
+    "foto": "http://foodmenu-api.herokuapp.com/images/food-7.jpg"
+  },
+  {
+    "id": "14",
+    "nama": "Nasi Goreng Ori",
+    "detail": "Nasi goreng dengan toping pete",
+    "kategori": "food",
+    "harga": 15000,
+    "rate": 3.6,
+    "foto": "http://foodmenu-api.herokuapp.com/images/food-8.jpg"
   }
 ]
