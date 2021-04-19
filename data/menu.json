@@ -5,6 +5,7 @@
     "detail": "Ayam yang dibumbui dengan saus tiram yang lezat.",
     "kategori": "food",
     "harga": 27272,
+    "rate": 3.4,
     "foto": "http://foodmenu-api.herokuapp.com/images/menu-1.jpg"
   },
   {
@@ -13,6 +14,7 @@
     "detail": "Cita rasa yang sangat dalam terdapat di Pink Donuts ini.",
     "kategori": "food",
     "harga": 27272,
+    "rate": 3.4,
     "foto": "http://foodmenu-api.herokuapp.com/images/DoubleCheeseburger.png"
   },
   {
@@ -21,6 +23,7 @@
     "detail": "Cita rasa yang sangat dalam terdapat di Pink Donuts ini.",
     "kategori": "food",
     "harga": 27272,
+    "rate": 3.4,
     "foto": "http://foodmenu-api.herokuapp.com/images/MorningStarVeggieBurger.png"
   },
   {
@@ -29,6 +32,7 @@
     "detail": "Cita rasa yang sangat dalam terdapat di Pink Donuts ini.",
     "kategori": "drink",
     "harga": 27272,
+    "rate": 3.4,
     "foto": "http://foodmenu-api.herokuapp.com/images/NestlePureLifeWater.png"
   },
   {
@@ -37,6 +41,7 @@
     "detail": "Cita rasa yang sangat dalam terdapat di Pink Donuts ini.",
     "kategori": "drink",
     "harga": 27272,
+    "rate": 3.4,
     "foto": "http://foodmenu-api.herokuapp.com/images/CocaCola.png"
   },
   {
@@ -45,6 +50,7 @@
     "detail": "Cita rasa yang sangat dalam terdapat di Pink Donuts ini.",
     "kategori": "drink",
     "harga": 27272,
+    "rate": 3.4,
     "foto": "http://foodmenu-api.herokuapp.com/images/Sprite.png"
   },
   {
@@ -53,6 +59,7 @@
     "detail": "Cita rasa yang sangat dalam terdapat di Pink Donuts ini.",
     "kategori": "snack",
     "harga": 27272,
+    "rate": 3.4,
     "foto": "http://foodmenu-api.herokuapp.com/images/PancakesandSausages.png"
   },
   {
@@ -61,6 +68,7 @@
     "detail": "Cita rasa yang sangat dalam terdapat di Pink Donuts ini.",
     "kategori": "snack",
     "harga": 27272,
+    "rate": 3.4,
     "foto": "http://foodmenu-api.herokuapp.com/images/ChickenNuggets.png"
   },
   {
@@ -69,6 +77,7 @@
     "detail": "Mie Goreng spesial jawa.",
     "kategori": "snack",
     "harga": 27272,
+    "rate": 3.4,
     "foto": "http://foodmenu-api.herokuapp.com/images/ChickenNuggets.png"
   }
 ]
