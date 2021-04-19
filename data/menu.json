@@ -99,5 +99,14 @@
     "harga": 9000,
     "rate": 3.4,
     "foto": "http://foodmenu-api.herokuapp.com/images/snack-1.png"
+  },
+  {
+    "id": "12",
+    "nama": "Nasi Goreng Pete",
+    "detail": "Nasi goreng dengann toping pete",
+    "kategori": "food",
+    "harga": 15000,
+    "rate": 3.6,
+    "foto": "http://foodmenu-api.herokuapp.com/images/food-6.jpg"
   }
 ]
