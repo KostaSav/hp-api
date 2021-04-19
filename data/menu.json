@@ -105,7 +105,7 @@
     "nama": "Nasi Goreng Pete",
     "detail": "Nasi goreng dengan toping pete",
     "kategori": "food",
-    "harga": 15000,
+    "harga": 15500,
     "rate": 3.6,
     "foto": "http://foodmenu-api.herokuapp.com/images/food-6.jpg"
   },
@@ -115,7 +115,7 @@
     "detail": "Nasi goreng dengan toping sayur sayuran",
     "kategori": "food",
     "harga": 16000,
-    "rate": 3.6,
+    "rate": 3.5,
     "foto": "http://foodmenu-api.herokuapp.com/images/food-7.jpg"
   },
   {
@@ -124,7 +124,43 @@
     "detail": "Nasi goreng dengan toping pete",
     "kategori": "food",
     "harga": 15000,
-    "rate": 3.6,
+    "rate": 3.9,
     "foto": "http://foodmenu-api.herokuapp.com/images/food-8.jpg"
+  },
+  {
+    "id": "15",
+    "nama": "Nasi Goreng Pete",
+    "detail": "Nasi goreng dengann toping pete",
+    "kategori": "food",
+    "harga": 15000,
+    "rate": 3.6,
+    "foto": "http://foodmenu-api.herokuapp.com/images/food-6.jpg"
+  },
+  {
+    "id": "16",
+    "nama": "Sate Taichan",
+    "detail": "Taichan taichan taichan....",
+    "kategori": "food",
+    "harga": 16000,
+    "rate": 4.3,
+    "foto": "http://foodmenu-api.herokuapp.com/images/food-9.jpg"
+  },
+  {
+    "id": "17",
+    "nama": "Sate Padang",
+    "detail": "Yang dari padang juga ada disini, ya sate padang",
+    "kategori": "food",
+    "harga": 18000,
+    "rate": 3,
+    "foto": "http://foodmenu-api.herokuapp.com/images/food-10.jpg"
+  },
+  {
+    "id": "18",
+    "nama": "Dimsum",
+    "detail": "Dimsum dengan berbagai varian isi",
+    "kategori": "snack",
+    "harga": 16000,
+    "rate": 4.2,
+    "foto": "http://foodmenu-api.herokuapp.com/images/food-11.jpg"
   }
 ]
