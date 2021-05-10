@@ -46,7 +46,7 @@
     "category": "Animator",
     "description": "Riles Jones is an artist combining different styles, mixing figurative with the surreal.",
     "fediverse": "@unibrawn@mastodon.art",
-    "link": "@unibrawn@mastodon.art",
+    "link": "https://mastodon.art/@unibrawn",
     "image": ""
   },
   {
@@ -82,9 +82,9 @@
   {
     "name": "Chris Were Digital",
     "alternate_names": "",
-    "gender": "Tech-Linux",
-    "category": "Chris makes videos about Linux, open source software, Game of Thrones and many other topics.",
-    "description": "",
+    "gender": "",
+    "category": "Tech-Linux",
+    "description": "Chris makes videos about Linux, open source software, Game of Thrones and many other topics.",
     "fediverse": "chriswere@share.tube",
     "link": "https://share.tube/accounts/chriswere/video-channels",
     "image": ""
@@ -126,7 +126,7 @@
     "category": "Tech-Linux",
     "description": "Geotechland makes videos about foss, opensource technology, community funded projects, gaming, fediverse, and everything linux.",
     "fediverse": "geotechland@peertube.social",
-    "link": "https://github.com/fediversewiki/fediversewiki.github.io/blob/main",
+    "link": "https://peertube.social/accounts/geotechland/video-channels",
     "image": ""
   },
   {
