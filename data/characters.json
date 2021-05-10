@@ -37,7 +37,7 @@
     "description": "Monarobot is an artist and illustrator who reinterprets modern concepts using the style of Mayan script.",
     "fediverse": "@monarobot@mastodon.art",
     "link": "https://mastodon.art/@monarobot",
-    "image": "monarobot.jpeg"
+    "image": "https://fediversewiki-api.herokuapp.com/images/monarobot.jpeg"
   },
   {
     "name": "Riles Jones",
@@ -67,7 +67,7 @@
     "description": "A group of writers dedicated to featuring the finest video game, anime, and geek culture news.",
     "fediverse": "@damagecontrolblog@mastodon.social",
     "link": "https://mastodon.social/@damagecontrolblog",
-    "image": "damage-control.png"
+    "image": "https://fediversewiki-api.herokuapp.com/images/damage-control.png"
   },
   {
     "name": "Luke Smith",
@@ -77,7 +77,7 @@
     "description": "Luke makes linux and software videos and make tutorials on them. he makes alot of lifestyle videos. has a podcast called Not Related! on more important topics.",
     "fediverse": "@luke@videos.lukesmith.xyz",
     "link": "https://videos.lukesmith.xyz/accounts/luke/video-channels",
-    "image": "luke-smith.png"
+    "image": "https://fediversewiki-api.herokuapp.com/images/luke-smith.png"
   },
   {
     "name": "Chris Were Digital",
