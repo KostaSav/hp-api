@@ -1,15 +1,5 @@
 [
   {
-    "name": "Gwynne Seisyll",
-    "alternate_names": "",
-    "gender": "Male",
-    "category": "Novelist",
-    "description": "",
-    "fediverse": "@Gwynne@mastodon.online",
-    "link": "https://mastodon.online/@Gwynne",
-    "image": "https://fediversewiki-api.herokuapp.com/images/gwynne-seisyll.png"
-  },
-    {
     "name": "Danielle Kogan",
     "alternate_names": "",
     "gender": "Male",
@@ -38,6 +28,16 @@
     "fediverse": "@monarobot@mastodon.art",
     "link": "https://mastodon.art/@monarobot",
     "image": "https://fediversewiki-api.herokuapp.com/images/monarobot.jpeg"
+  },
+  {
+    "name": "Gwynne Seisyll",
+    "alternate_names": "",
+    "gender": "Male",
+    "category": "Novelist",
+    "description": "",
+    "fediverse": "@Gwynne@mastodon.online",
+    "link": "https://mastodon.online/@Gwynne",
+    "image": "https://fediversewiki-api.herokuapp.com/images/gwynne-seisyll.png"
   },
   {
     "name": "Riles Jones",
