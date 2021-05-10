@@ -7,7 +7,8 @@
     "description": "Danielle animates weird short little films",
     "fediverse": "@danielle@greatview.video",
     "link": "https://greatview.video/accounts/danielle",
-    "image": "https://fediversewiki-api.herokuapp.com/images/danielle-kogan.jpg"
+    "image": "https://fediversewiki-api.herokuapp.com/images/danielle-kogan.jpg",
+    "language": "English"
   },
   {
     "name": "Joe Gran",
@@ -17,7 +18,8 @@
     "description": "Joe Gran is an animator who does fun, surreal short videos.",
     "fediverse": "@joe@greatview.video",
     "link": "https://greatview.video/accounts/joe",
-    "image": "https://fediversewiki-api.herokuapp.com/images/joe-gran.jpg"
+    "image": "https://fediversewiki-api.herokuapp.com/images/joe-gran.jpg",
+    "language": "English"
   },
   {
     "name": "Monarobot",
@@ -27,7 +29,8 @@
     "description": "Monarobot is an artist and illustrator who reinterprets modern concepts using the style of Mayan script.",
     "fediverse": "@monarobot@mastodon.art",
     "link": "https://mastodon.art/@monarobot",
-    "image": "https://fediversewiki-api.herokuapp.com/images/monarobot.jpeg"
+    "image": "https://fediversewiki-api.herokuapp.com/images/monarobot.jpeg",
+    "language": "English"
   },
   {
     "name": "Gwynne Seisyll",
@@ -37,7 +40,8 @@
     "description": "",
     "fediverse": "@Gwynne@mastodon.online",
     "link": "https://mastodon.online/@Gwynne",
-    "image": "https://fediversewiki-api.herokuapp.com/images/gwynne-seisyll.png"
+    "image": "https://fediversewiki-api.herokuapp.com/images/gwynne-seisyll.png",
+    "language": "English"
   },
   {
     "name": "Riles Jones",
@@ -47,7 +51,8 @@
     "description": "Riles Jones is an artist combining different styles, mixing figurative with the surreal.",
     "fediverse": "@unibrawn@mastodon.art",
     "link": "https://mastodon.art/@unibrawn",
-    "image": "https://fediversewiki-api.herokuapp.com/images/riles-jones.jpg"
+    "image": "https://fediversewiki-api.herokuapp.com/images/riles-jones.jpg",
+    "language": "English"
   },
   {
     "name": "Yatoimtop",
@@ -57,7 +62,8 @@
     "description": "Yatoimtop is an animator, artist, musician and game developer.",
     "fediverse": "@yatoimtop@greatview.video",
     "link": "https://greatview.video/accounts/yatoimtop/video-channels",
-    "image": "https://fediversewiki-api.herokuapp.com/images/yatoimtop.jpg"
+    "image": "https://fediversewiki-api.herokuapp.com/images/yatoimtop.jpg",
+    "language": "English"
   },
   {
     "name": "Damage Control",
@@ -67,7 +73,8 @@
     "description": "A group of writers dedicated to featuring the finest video game, anime, and geek culture news.",
     "fediverse": "@damagecontrolblog@mastodon.social",
     "link": "https://mastodon.social/@damagecontrolblog",
-    "image": "https://fediversewiki-api.herokuapp.com/images/damage-control.png"
+    "image": "https://fediversewiki-api.herokuapp.com/images/damage-control.png",
+    "language": "English"
   },
   {
     "name": "Luke Smith",
@@ -77,7 +84,8 @@
     "description": "Luke makes linux and software videos and make tutorials on them. he makes alot of lifestyle videos. has a podcast called Not Related! on more important topics.",
     "fediverse": "@luke@videos.lukesmith.xyz",
     "link": "https://videos.lukesmith.xyz/accounts/luke/video-channels",
-    "image": "https://fediversewiki-api.herokuapp.com/images/luke-smith.png"
+    "image": "https://fediversewiki-api.herokuapp.com/images/luke-smith.png",
+    "language": "English"
   },
   {
     "name": "Chris Were Digital",
@@ -87,7 +95,8 @@
     "description": "Chris makes videos about Linux, open source software, Game of Thrones and many other topics.",
     "fediverse": "chriswere@share.tube",
     "link": "https://share.tube/accounts/chriswere/video-channels",
-    "image": "https://fediversewiki-api.herokuapp.com/images/chris-were-digital.jpg"
+    "image": "https://fediversewiki-api.herokuapp.com/images/chris-were-digital.jpg",
+    "language": "English"
   },
   {
     "name": "HexDSL",
@@ -97,7 +106,8 @@
     "description": "Linux Gamer - Video Creator - Community member - Dude.",
     "fediverse": "hexdsl@share.tube",
     "link": "https://share.tube/accounts/hexdsl/video-channels",
-    "image": "https://fediversewiki-api.herokuapp.com/images/hexdsl.png"
+    "image": "https://fediversewiki-api.herokuapp.com/images/hexdsl.png",
+    "language": "English"
   },
   {
     "name": "Sun Knudsen",
@@ -107,7 +117,8 @@
     "description": "Sun is a Privacy and security researcher, technologist for hire and vlogger.",
     "fediverse": "sunknudsen@peertube.sunknudsen.com",
     "link": "https://peertube.sunknudsen.com/accounts/sunknudsen/video-channels",
-    "image": "https://fediversewiki-api.herokuapp.com/images/sun-knudsen.jpg"
+    "image": "https://fediversewiki-api.herokuapp.com/images/sun-knudsen.jpg",
+    "language": "English"
   },
   {
     "name": "Art",
@@ -117,7 +128,8 @@
     "description": "Arthur makes videos about linux and general software, and alot of hardware stuff.",
     "fediverse": "art@peertube.linuxrocks.online",
     "link": "https://peertube.linuxrocks.online/accounts/art/video-channels",
-    "image": "https://fediversewiki-api.herokuapp.com/images/arthur-linux.jpg"
+    "image": "https://fediversewiki-api.herokuapp.com/images/arthur-linux.jpg",
+    "language": "English"
   },
   {
     "name": "geotechland",
@@ -127,7 +139,8 @@
     "description": "Geotechland makes videos about foss, opensource technology, community funded projects, gaming, fediverse, and everything linux.",
     "fediverse": "geotechland@peertube.social",
     "link": "https://peertube.social/accounts/geotechland/video-channels",
-    "image": "https://fediversewiki-api.herokuapp.com/images/geotechland.jpg"
+    "image": "https://fediversewiki-api.herokuapp.com/images/geotechland.jpg",
+    "language": "English"
   },
   {
     "name": "Techlore",
@@ -137,7 +150,8 @@
     "description": "Techlore is spreading privacy and security to the masses.",
     "fediverse": "techlore@tube.privacytools.io",
     "link": "https://tube.privacytools.io/accounts/techlore/video-channels",
-    "image": "https://fediversewiki-api.herokuapp.com/images/techlore.jpg"
+    "image": "https://fediversewiki-api.herokuapp.com/images/techlore.jpg",
+    "language": "English"
   },
   {
     "name": "OverCoat",
@@ -147,7 +161,8 @@
     "description": "Cyberpunk music Producer who makes music for games",
     "fediverse": "@overcoat@mastodon.social",
     "link": "https://mastodon.social/@overcoat",
-    "image": "https://fediversewiki-api.herokuapp.com/images/overcoat.gif"
+    "image": "https://fediversewiki-api.herokuapp.com/images/overcoat.gif",
+    "language": "English"
   },
   {
     "name": "Krad",
@@ -157,7 +172,8 @@
     "description": "Zines / comic art. villains & Leather.",
     "fediverse": "@kradeelav@mastodon.social",
     "link": "https://mastodon.social/@kradeelav",
-    "image": "https://fediversewiki-api.herokuapp.com/images/krad.png"
+    "image": "https://fediversewiki-api.herokuapp.com/images/krad.png",
+    "language": "English"
   },
   {
     "name": "Anderjak",
@@ -167,7 +183,8 @@
     "description": "Comic artist and illustrationist",
     "fediverse": "@Anderjak@mastodon.social",
     "link": "https://mastodon.social/@Anderjak",
-    "image": "https://fediversewiki-api.herokuapp.com/images/anderjak.png"
+    "image": "https://fediversewiki-api.herokuapp.com/images/anderjak.png",
+    "language": "English"
   },
   {
     "name": "Pen Merch",
@@ -177,7 +194,8 @@
     "description": "Comics and cartoons, pixel art.",
     "fediverse": "@idesofmerch@mastodon.social",
     "link": "https://mastodon.social/@idesofmerch",
-    "image": "https://fediversewiki-api.herokuapp.com/images/pen-march.png"
+    "image": "https://fediversewiki-api.herokuapp.com/images/pen-march.png",
+    "language": "English"
   },
   {
     "name": "Matthew Bogart",
@@ -187,7 +205,8 @@
     "description": "Matthew Bogart is a cartoonist and creator of the Incredible Doom webcomic and graphic novel set in the 1990s",
     "fediverse": "@matthewbogart@mastodon.social, @matthewbogart@mastodon.art",
     "link": "https://mastodon.social/@matthewbogart",
-    "image": "https://fediversewiki-api.herokuapp.com/images/matthew-bogart.jpg"
+    "image": "https://fediversewiki-api.herokuapp.com/images/matthew-bogart.jpg",
+    "language": "English"
   },
   {
     "name": "Spearhafoc",
@@ -197,7 +216,8 @@
     "description": "Spearhafoc is a comic book creator currently focusing on pulp interpretations of classic characters from history and literature.",
     "fediverse": "@Spearhafoc@mastodon.social",
     "link": "https://mastodon.social/@Spearhafoc/media",
-    "image": "https://fediversewiki-api.herokuapp.com/images/spearhafoc.jpg"
+    "image": "https://fediversewiki-api.herokuapp.com/images/spearhafoc.jpg",
+    "language": "English"
   },
   {
     "name": "David Revoy",
@@ -207,7 +227,8 @@
     "description": "David Revoy is a talented illustrator, creator of the Pepper & Carrot webcomic, Krita instructor and supporter of libre projects.",
     "fediverse": "@davidrevoy@framapiaf.org",
     "link": "https://framapiaf.org/@davidrevoy",
-    "image": "https://fediversewiki-api.herokuapp.com/images/david-revoy.jpg"
+    "image": "https://fediversewiki-api.herokuapp.com/images/david-revoy.jpg",
+    "language": "English"
   },
   {
     "name": "Jake Lawrence",
@@ -217,7 +238,8 @@
     "description": "Lake Lawrence is an artist, cartoonist and creator of the Nice Long Walk webcomic series.",
     "fediverse": "@timecowboy@mastodon.social",
     "link": "https://mastodon.social/@timecowboy",
-    "image": "https://fediversewiki-api.herokuapp.com/images/jake-lawrence.png"
+    "image": "https://fediversewiki-api.herokuapp.com/images/jake-lawrence.png",
+    "language": "English"
   },
   {
     "name": "Katie Ampersand",
@@ -227,7 +249,8 @@
     "description": "Katie makes languages, stories, sometimes drawings and currently making a webcomic called Survivor’s 9-Step Guide To Conquering The Multiverse. She's also working on a game called Treize, which currently has a released playable demo on itch.",
     "fediverse": "@TheAndSys@koyu.space",
     "link": "https://koyu.space/@TheAndSys",
-    "image": "https://fediversewiki-api.herokuapp.com/images/katie-ampersand.png"
+    "image": "https://fediversewiki-api.herokuapp.com/images/katie-ampersand.png",
+    "language": "English"
   },
   {
     "name": "RAPIDPUNCHES",
@@ -237,7 +260,8 @@
     "description": " Illustrator, chiptune composer, pixel artist, sprite animator, programmer, fiber artist.",
     "fediverse": "@RAPIDPUNCHES@mastodon.social",
     "link": "https://mastodon.social/@RAPIDPUNCHES",
-    "image": "https://fediversewiki-api.herokuapp.com/images/rapidpunches.png"
+    "image": "https://fediversewiki-api.herokuapp.com/images/rapidpunches.png",
+    "language": "English"
   },
   {
     "name": "Davit Masia",
@@ -247,7 +271,8 @@
     "description": " a game designer/artist and coder. He uses MsPaint for pixel art.",
     "fediverse": "@DavitMasia@mastodon.social",
     "link": "https://mastodon.social/@DavitMasia",
-    "image": "https://fediversewiki-api.herokuapp.com/images/davit-masia.png"
+    "image": "https://fediversewiki-api.herokuapp.com/images/davit-masia.png",
+    "language": "English"
   },
   {
     "name": "Zughy",
@@ -257,7 +282,8 @@
     "description": " Zughy is a pixel artist and creator of mods for Minetest.",
     "fediverse": "@zughy@mastodon.art",
     "link": "https://mastodon.art/@zughy",
-    "image": "https://fediversewiki-api.herokuapp.com/images/zughy.png"
+    "image": "https://fediversewiki-api.herokuapp.com/images/zughy.png",
+    "language": "English"
   },
   {
     "name": "Canine",
@@ -267,7 +293,8 @@
     "description": " Canine draws fun pixel art, especially of dogs and other animals.",
     "fediverse": "@TheCanine@mstdn.social",
     "link": "https://mstdn.social/@TheCanine",
-    "image": "https://fediversewiki-api.herokuapp.com/images/canine.png"
+    "image": "https://fediversewiki-api.herokuapp.com/images/canine.png",
+    "language": "English"
   },
   {
     "name": "Benjamin Brinckmann",
@@ -277,7 +304,8 @@
     "description": " Benjamin Brinckmann is an artist and illustrator who draws digitally in a fairly naturalistic style, often depicting wildlife or landscapes.",
     "fediverse": "@BenjaminBrinckmann@mastodon.art",
     "link": "https://mastodon.art/@BenjaminBrinckmann",
-    "image": "https://fediversewiki-api.herokuapp.com/images/benjamin-brinckmann.png"
+    "image": "https://fediversewiki-api.herokuapp.com/images/benjamin-brinckmann.png",
+    "language": "English"
   },
   {
     "name": " H. McGill",
@@ -287,7 +315,8 @@
     "description": " H. McGill is an illustrator who creates strange, Hieronymous Bosch-like works often inspired by medieval originals.",
     "fediverse": "@hannahcomb@mastodon.art",
     "link": "https://mastodon.art/@hannahcomb",
-    "image": "https://fediversewiki-api.herokuapp.com/images/h-mcgill.png"
+    "image": "https://fediversewiki-api.herokuapp.com/images/h-mcgill.png",
+    "language": "English"
   },
   {
     "name": "Ionas",
@@ -297,7 +326,8 @@
     "description": " Ionas is an artist who draws stylised fantastic creatures, often in bright high contast colours.",
     "fediverse": "@violetmagician@mastodon.art",
     "link": "https://mastodon.art/@violetmagician",
-    "image": "https://fediversewiki-api.herokuapp.com/images/ionas.png"
+    "image": "https://fediversewiki-api.herokuapp.com/images/ionas.png",
+    "language": "English"
   },
   {
     "name": " Emily L'Orange",
@@ -307,7 +337,8 @@
     "description": " Emily L'Orange is a freelance illustrator who works in both realistic and cartoon-like styles. ",
     "fediverse": "@emilylorange@mastodon.art",
     "link": "https://mastodon.art/@emilylorange",
-    "image": "https://fediversewiki-api.herokuapp.com/images/emily-lorange.jpg"
+    "image": "https://fediversewiki-api.herokuapp.com/images/emily-lorange.jpg",
+    "language": "English"
   },
   {
     "name": "Sajan Rai",
@@ -317,7 +348,8 @@
     "description": " Sajan Rai is an artist who draws surreal illustrations with a distinctive style, mixing modern subjects, 1950s colours and an Asian aesthetic.",
     "fediverse": "@sajan@mastodon.art",
     "link": "https://mastodon.art/@sajan",
-    "image": "https://fediversewiki-api.herokuapp.com/images/sajan-rai.png"
+    "image": "https://fediversewiki-api.herokuapp.com/images/sajan-rai.png",
+    "language": "English"
   },
   {
     "name": "JohannC",
@@ -327,7 +359,8 @@
     "description": " JohannC draws detailed black and white cartoon illustrations using Libre software such as @inkscape and open vector graphics standards. ",
     "fediverse": "@johannc@mamot.fr",
     "link": "https://mamot.fr/@johannc",
-    "image": "https://fediversewiki-api.herokuapp.com/images/johannc.png"
+    "image": "https://fediversewiki-api.herokuapp.com/images/johannc.png",
+    "language": "English"
   },
   {
     "name": "Kathaja",
@@ -337,7 +370,8 @@
     "description": " Kathaja is an artist who draws Gigeresque alien and fantasy creatures, mostly in monochrome or muted colours. ",
     "fediverse": "@Kathaja@mastodon.art",
     "link": "https://mastodon.art/@Kathaja",
-    "image": "https://fediversewiki-api.herokuapp.com/images/kathaja.jpg"
+    "image": "https://fediversewiki-api.herokuapp.com/images/kathaja.jpg",
+    "language": "English"
   },
   {
     "name": "rnadness",
@@ -347,7 +381,8 @@
     "description": " rnadness is a painter who uses traditional techniques to make psychedelic art.",
     "fediverse": "@rnadness@mastodon.art",
     "link": "https://mastodon.art/@rnadness",
-    "image": "https://fediversewiki-api.herokuapp.com/images/rnadness.png"
+    "image": "https://fediversewiki-api.herokuapp.com/images/rnadness.png",
+    "language": "English"
   },
   {
     "name": "Helvetica Blanc",
@@ -357,7 +392,8 @@
     "description": "Helvetica Blanc is an artist that creates minimalist but fascinating images with bright pure colours.",
     "fediverse": "@helveticablanc@merveilles.town",
     "link": "https://merveilles.town/@helveticablanc",
-    "image": "https://fediversewiki-api.herokuapp.com/images/helvetica-blanc.png"
+    "image": "https://fediversewiki-api.herokuapp.com/images/helvetica-blanc.png",
+    "language": "English"
   },
   {
     "name": "Xzyolotl",
@@ -367,7 +403,8 @@
     "description": "Xzyolotl is an artist who creates wonderfully intricate and colourful 2D drawings and 3D renderings of surreal, fantastic monsters.",
     "fediverse": "@xzyolotl@mastodon.art",
     "link": "https://mastodon.art/@xzyolotl",
-    "image": "https://fediversewiki-api.herokuapp.com/images/xzyolotl.jpg"
+    "image": "https://fediversewiki-api.herokuapp.com/images/xzyolotl.jpg",
+    "language": "English"
   },
   {
     "name": "Plume",
@@ -377,7 +414,8 @@
     "description": "Plume is an artist and illustrator who draws in a variety of colourful styles, often featuring chibi figures and/or cartoon animals.",
     "fediverse": "@prismplume@mastodon.art",
     "link": "https://mastodon.art/@prismplume",
-    "image": "https://fediversewiki-api.herokuapp.com/images/plume.jpg"
+    "image": "https://fediversewiki-api.herokuapp.com/images/plume.jpg",
+    "language": "English"
   },
   {
     "name": "Amôgurumi",
@@ -387,7 +425,8 @@
     "description": "Amôgurumi creates cute crochet amigurumi figures.",
     "fediverse": "@amogurumi@pixelfed.social",
     "link": "https://pixelfed.social/amogurumi",
-    "image": "https://fediversewiki-api.herokuapp.com/images/amogurumi.png"
+    "image": "https://fediversewiki-api.herokuapp.com/images/amogurumi.png",
+    "language": "English"
   },
   {
     "name": "Silk_Drone",
@@ -397,7 +436,8 @@
     "description": " Silk_Drone is a drone photographer in Japan who takes beautiful overhead pictures. ",
     "fediverse": "@silkandfire@mstdn.tokyocameraclub.com",
     "link": "https://mstdn.tokyocameraclub.com/@silkandfire",
-    "image": "https://fediversewiki-api.herokuapp.com/images/silk_drone.jpeg"
+    "image": "https://fediversewiki-api.herokuapp.com/images/silk_drone.jpeg",
+    "language": "English"
   },
   {
     "name": "Kunihito Ohtsubo",
@@ -407,7 +447,8 @@
     "description": "Kunihito Ohtsubo is a Japanese photographer of nature and landscapes, and part of the excellent Tokyo Camera Club instance",
     "fediverse": "@kunihito_ohtsubo@mstdn.tokyocameraclub.com",
     "link": "https://mstdn.tokyocameraclub.com/@kunihito_ohtsubo",
-    "image": "https://fediversewiki-api.herokuapp.com/images/kunihito-ohtsubo.jpeg"
+    "image": "https://fediversewiki-api.herokuapp.com/images/kunihito-ohtsubo.jpeg",
+    "language": "English"
   },
   {
     "name": "Yukihito Ono",
@@ -417,7 +458,8 @@
     "description": " Yukihito Ono is an award-winning photographer from Japan, mainly doing landscapes/cityscapes. ",
     "fediverse": "@onotch@mstdn.tokyocameraclub.com",
     "link": "https://mstdn.tokyocameraclub.com/@onotch",
-    "image": "https://fediversewiki-api.herokuapp.com/images/yukihito-ono.jpg"
+    "image": "https://fediversewiki-api.herokuapp.com/images/yukihito-ono.jpg",
+    "language": "English"
   },
   {
     "name": "James Bean",
@@ -427,7 +469,8 @@
     "description": "A host at Sant Mat Satsang Podcast, and Spiritual Awakening Radio Podcasts. Does Spiritual and Meditational Podcasts.",
     "fediverse": "@SantMat@mastodon.social",
     "link": "https://mastodon.social/@SantMat",
-    "image": "https://fediversewiki-api.herokuapp.com/images/james-bean.jpg"
+    "image": "https://fediversewiki-api.herokuapp.com/images/james-bean.jpg",
+    "language": "English"
   },
   {
     "name": "Sayuri Firebrand",
@@ -437,6 +480,7 @@
     "description": " Author of LandTraveller, an animal-ear themed constructive action RPG on Steam ",
     "fediverse": "@wolfcoder@mastodon.social",
     "link": "https://mastodon.social/@wolfcoder",
-    "image": "https://fediversewiki-api.herokuapp.com/images/sayuri-firebrand.png"
+    "image": "https://fediversewiki-api.herokuapp.com/images/sayuri-firebrand.png",
+    "language": "English"
   }
 ]
