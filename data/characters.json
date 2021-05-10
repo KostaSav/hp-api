@@ -218,5 +218,15 @@
     "fediverse": "@timecowboy@mastodon.social",
     "link": "https://mastodon.social/@timecowboy",
     "image": ""
+  },
+  {
+    "name": "Katie Ampersand",
+    "alternate_names": "",
+    "gender": "",
+    "category": "Novelist",
+    "description": "Katie makes languages, stories, sometimes drawings and currently making a webcomic called Survivor’s 9-Step Guide To Conquering The Multiverse. She's also working on a game called Treize, which currently has a released playable demo on itch.",
+    "fediverse": "@TheAndSys@koyu.space",
+    "link": "https://koyu.space/@TheAndSys",
+    "image": ""
   }
 ]
