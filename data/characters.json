@@ -228,5 +228,215 @@
     "fediverse": "@TheAndSys@koyu.space",
     "link": "https://koyu.space/@TheAndSys",
     "image": "https://fediversewiki-api.herokuapp.com/images/katie-ampersand.png"
+  },
+  {
+    "name": "RAPIDPUNCHES",
+    "alternate_names": "",
+    "gender": "",
+    "category": "Pixel art",
+    "description": " Illustrator, chiptune composer, pixel artist, sprite animator, programmer, fiber artist.",
+    "fediverse": "@RAPIDPUNCHES@mastodon.social",
+    "link": "https://mastodon.social/@RAPIDPUNCHES",
+    "image": "https://fediversewiki-api.herokuapp.com/images/rapidpunches.png"
+  },
+  {
+    "name": "Davit Masia",
+    "alternate_names": "",
+    "gender": "",
+    "category": "Pixel art",
+    "description": " a game designer/artist and coder. He uses MsPaint for pixel art.",
+    "fediverse": "@DavitMasia@mastodon.social",
+    "link": "https://mastodon.social/@DavitMasia",
+    "image": "https://fediversewiki-api.herokuapp.com/images/davit-masia.png"
+  },
+  {
+    "name": "Zughy",
+    "alternate_names": "",
+    "gender": "",
+    "category": "Pixel art",
+    "description": " Zughy is a pixel artist and creator of mods for Minetest.",
+    "fediverse": "@zughy@mastodon.art",
+    "link": "https://mastodon.art/@zughy",
+    "image": "https://fediversewiki-api.herokuapp.com/images/zughy.png"
+  },
+  {
+    "name": "Canine",
+    "alternate_names": "",
+    "gender": "",
+    "category": "Pixel art",
+    "description": " Canine draws fun pixel art, especially of dogs and other animals.",
+    "fediverse": "@TheCanine@mstdn.social",
+    "link": "https://mstdn.social/@TheCanine",
+    "image": "https://fediversewiki-api.herokuapp.com/images/canine.png"
+  },
+  {
+    "name": "Benjamin Brinckmann",
+    "alternate_names": "",
+    "gender": "",
+    "category": "Illustrator",
+    "description": " Benjamin Brinckmann is an artist and illustrator who draws digitally in a fairly naturalistic style, often depicting wildlife or landscapes.",
+    "fediverse": "@BenjaminBrinckmann@mastodon.art",
+    "link": "https://mastodon.art/@BenjaminBrinckmann",
+    "image": "https://fediversewiki-api.herokuapp.com/images/benjamin-brinckmann.png"
+  },
+  {
+    "name": " H. McGill",
+    "alternate_names": "",
+    "gender": "",
+    "category": "Illustrator",
+    "description": " H. McGill is an illustrator who creates strange, Hieronymous Bosch-like works often inspired by medieval originals.",
+    "fediverse": "@hannahcomb@mastodon.art",
+    "link": "https://mastodon.art/@hannahcomb",
+    "image": "https://fediversewiki-api.herokuapp.com/images/h-mcgill.png"
+  },
+  {
+    "name": "Ionas",
+    "alternate_names": "",
+    "gender": "",
+    "category": "Illustrator",
+    "description": " Ionas is an artist who draws stylised fantastic creatures, often in bright high contast colours.",
+    "fediverse": "@violetmagician@mastodon.art",
+    "link": "https://mastodon.art/@violetmagician",
+    "image": "https://fediversewiki-api.herokuapp.com/images/ionas.png"
+  },
+  {
+    "name": " Emily L'Orange",
+    "alternate_names": "",
+    "gender": "",
+    "category": "Illustrator",
+    "description": " Emily L'Orange is a freelance illustrator who works in both realistic and cartoon-like styles. ",
+    "fediverse": "@emilylorange@mastodon.art",
+    "link": "https://mastodon.art/@emilylorange",
+    "image": "https://fediversewiki-api.herokuapp.com/images/emily-lorange.png"
+  },
+  {
+    "name": "Sajan Rai",
+    "alternate_names": "",
+    "gender": "",
+    "category": "Illustrator",
+    "description": " Sajan Rai is an artist who draws surreal illustrations with a distinctive style, mixing modern subjects, 1950s colours and an Asian aesthetic.",
+    "fediverse": "@sajan@mastodon.art",
+    "link": "https://mastodon.art/@sajan",
+    "image": "https://fediversewiki-api.herokuapp.com/images/sajan-rai.png"
+  },
+  {
+    "name": "JohannC",
+    "alternate_names": "",
+    "gender": "",
+    "category": "Illustrator",
+    "description": " JohannC draws detailed black and white cartoon illustrations using Libre software such as @inkscape and open vector graphics standards. ",
+    "fediverse": "@johannc@mamot.fr",
+    "link": "https://mamot.fr/@johannc",
+    "image": "https://fediversewiki-api.herokuapp.com/images/johannc.png"
+  },
+  {
+    "name": "Kathaja",
+    "alternate_names": "",
+    "gender": "",
+    "category": "Illustrator",
+    "description": " Kathaja is an artist who draws Gigeresque alien and fantasy creatures, mostly in monochrome or muted colours. ",
+    "fediverse": "@Kathaja@mastodon.art",
+    "link": "https://mastodon.art/@Kathaja",
+    "image": "https://fediversewiki-api.herokuapp.com/images/kathaja.jpg"
+  },
+  {
+    "name": "rnadness",
+    "alternate_names": "",
+    "gender": "",
+    "category": "Illustrator",
+    "description": " rnadness is a painter who uses traditional techniques to make psychedelic art.",
+    "fediverse": "@rnadness@mastodon.art",
+    "link": "https://mastodon.art/@rnadness",
+    "image": "https://fediversewiki-api.herokuapp.com/images/rnadness.png"
+  },
+  {
+    "name": "Helvetica Blanc",
+    "alternate_names": "",
+    "gender": "",
+    "category": "Illustrator",
+    "description": "Helvetica Blanc is an artist that creates minimalist but fascinating images with bright pure colours.",
+    "fediverse": "@helveticablanc@merveilles.town",
+    "link": "https://merveilles.town/@helveticablanc",
+    "image": "https://fediversewiki-api.herokuapp.com/images/helvetica-blanc.png"
+  },
+  {
+    "name": "Xzyolotl",
+    "alternate_names": "",
+    "gender": "",
+    "category": "Illustrator",
+    "description": "Xzyolotl is an artist who creates wonderfully intricate and colourful 2D drawings and 3D renderings of surreal, fantastic monsters.",
+    "fediverse": "@xzyolotl@mastodon.art",
+    "link": "https://mastodon.art/@xzyolotl",
+    "image": "https://fediversewiki-api.herokuapp.com/images/xzyolotl.jpg"
+  },
+  {
+    "name": "Plume",
+    "alternate_names": "",
+    "gender": "",
+    "category": "Illustrator",
+    "description": "Plume is an artist and illustrator who draws in a variety of colourful styles, often featuring chibi figures and/or cartoon animals.",
+    "fediverse": "@prismplume@mastodon.art",
+    "link": "https://mastodon.art/@prismplume",
+    "image": "https://fediversewiki-api.herokuapp.com/images/plume.jpg"
+  },
+  {
+    "name": "Amôgurumi",
+    "alternate_names": "",
+    "gender": "",
+    "category": "Hand Craft Artist",
+    "description": "Amôgurumi creates cute crochet amigurumi figures.",
+    "fediverse": "@amogurumi@pixelfed.social",
+    "link": "https://pixelfed.social/amogurumi",
+    "image": "https://fediversewiki-api.herokuapp.com/images/amogurumi.png"
+  },
+  {
+    "name": "Silk_Drone",
+    "alternate_names": "",
+    "gender": "",
+    "category": "Photography",
+    "description": " Silk_Drone is a drone photographer in Japan who takes beautiful overhead pictures. ",
+    "fediverse": "@silkandfire@mstdn.tokyocameraclub.com",
+    "link": "https://mstdn.tokyocameraclub.com/@silkandfire",
+    "image": "https://fediversewiki-api.herokuapp.com/images/silk_drone.jpeg"
+  },
+  {
+    "name": "Kunihito Ohtsubo",
+    "alternate_names": "",
+    "gender": "",
+    "category": "Photography",
+    "description": "Kunihito Ohtsubo is a Japanese photographer of nature and landscapes, and part of the excellent Tokyo Camera Club instance",
+    "fediverse": "@kunihito_ohtsubo@mstdn.tokyocameraclub.com",
+    "link": "https://mstdn.tokyocameraclub.com/@kunihito_ohtsubo",
+    "image": "https://fediversewiki-api.herokuapp.com/images/kunihito-ohtsube.jpeg"
+  },
+  {
+    "name": "Yukihito Ono",
+    "alternate_names": "",
+    "gender": "",
+    "category": "Photography",
+    "description": " Yukihito Ono is an award-winning photographer from Japan, mainly doing landscapes/cityscapes. ",
+    "fediverse": "@onotch@mstdn.tokyocameraclub.com",
+    "link": "https://mstdn.tokyocameraclub.com/@onotch",
+    "image": "https://fediversewiki-api.herokuapp.com/images/yukihito-ono.jpg"
+  },
+  {
+    "name": "James Bean",
+    "alternate_names": "",
+    "gender": "",
+    "category": "Spiritual-Podcasts",
+    "description": "A host at Sant Mat Satsang Podcast, and Spiritual Awakening Radio Podcasts. Does Spiritual and Meditational Podcasts.",
+    "fediverse": "@SantMat@mastodon.social",
+    "link": "https://mastodon.social/@SantMat",
+    "image": "https://fediversewiki-api.herokuapp.com/images/james-bean.png"
+  },
+  {
+    "name": "Sayuri Firebrand",
+    "alternate_names": "",
+    "gender": "",
+    "category": "",
+    "description": " Author of LandTraveller, an animal-ear themed constructive action RPG on Steam ",
+    "fediverse": "@wolfcoder@mastodon.social",
+    "link": "https://mastodon.social/@wolfcoder",
+    "image": "https://fediversewiki-api.herokuapp.com/images/sayuri-firebrand.png"
   }
 ]
