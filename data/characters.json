@@ -10,14 +10,14 @@
     "image": "https://fediversewiki-api.herokuapp.com/images/gwynne-seisyll.png"
   },
     {
-    "name": "Danielle",
+    "name": "Danielle Kogan",
     "alternate_names": "",
     "gender": "Male",
     "category": "Animator",
     "description": "Danielle animates weird short little films",
     "fediverse": "@danielle@greatview.video",
     "link": "https://greatview.video/accounts/danielle",
-    "image": ""
+    "image": "https://fediversewiki-api.herokuapp.com/images/danielle-kogan.jpg"
   },
   {
     "name": "Joe Gran",
@@ -27,7 +27,7 @@
     "description": "Joe Gran is an animator who does fun, surreal short videos.",
     "fediverse": "@joe@greatview.video",
     "link": "https://greatview.video/accounts/joe",
-    "image": ""
+    "image": "https://fediversewiki-api.herokuapp.com/images/joe-gran.jpg"
   },
   {
     "name": "Monarobot",
@@ -37,7 +37,7 @@
     "description": "Monarobot is an artist and illustrator who reinterprets modern concepts using the style of Mayan script.",
     "fediverse": "@monarobot@mastodon.art",
     "link": "https://mastodon.art/@monarobot",
-    "image": ""
+    "image": "monarobot.jpeg"
   },
   {
     "name": "Riles Jones",
@@ -47,7 +47,7 @@
     "description": "Riles Jones is an artist combining different styles, mixing figurative with the surreal.",
     "fediverse": "@unibrawn@mastodon.art",
     "link": "https://mastodon.art/@unibrawn",
-    "image": ""
+    "image": "https://fediversewiki-api.herokuapp.com/images/riles-jones.jpg"
   },
   {
     "name": "Yatoimtop",
@@ -57,7 +57,7 @@
     "description": "Yatoimtop is an animator, artist, musician and game developer.",
     "fediverse": "@yatoimtop@greatview.video",
     "link": "https://greatview.video/accounts/yatoimtop/video-channels",
-    "image": ""
+    "image": "https://fediversewiki-api.herokuapp.com/images/yatoimtop.jpg"
   },
   {
     "name": "Damage Control",
@@ -67,7 +67,7 @@
     "description": "A group of writers dedicated to featuring the finest video game, anime, and geek culture news.",
     "fediverse": "@damagecontrolblog@mastodon.social",
     "link": "https://mastodon.social/@damagecontrolblog",
-    "image": ""
+    "image": "damage-control.png"
   },
   {
     "name": "Luke Smith",
@@ -77,7 +77,7 @@
     "description": "Luke makes linux and software videos and make tutorials on them. he makes alot of lifestyle videos. has a podcast called Not Related! on more important topics.",
     "fediverse": "@luke@videos.lukesmith.xyz",
     "link": "https://videos.lukesmith.xyz/accounts/luke/video-channels",
-    "image": ""
+    "image": "luke-smith.png"
   },
   {
     "name": "Chris Were Digital",
@@ -87,7 +87,7 @@
     "description": "Chris makes videos about Linux, open source software, Game of Thrones and many other topics.",
     "fediverse": "chriswere@share.tube",
     "link": "https://share.tube/accounts/chriswere/video-channels",
-    "image": ""
+    "image": "https://fediversewiki-api.herokuapp.com/images/chris-were-digital.jpg"
   },
   {
     "name": "HexDSL",
@@ -97,7 +97,7 @@
     "description": "Linux Gamer - Video Creator - Community member - Dude.",
     "fediverse": "hexdsl@share.tube",
     "link": "https://share.tube/accounts/hexdsl/video-channels",
-    "image": ""
+    "image": "https://fediversewiki-api.herokuapp.com/images/hexdsl.png"
   },
   {
     "name": "Sun Knudsen",
@@ -107,17 +107,17 @@
     "description": "Sun is a Privacy and security researcher, technologist for hire and vlogger.",
     "fediverse": "sunknudsen@peertube.sunknudsen.com",
     "link": "https://peertube.sunknudsen.com/accounts/sunknudsen/video-channels",
-    "image": ""
+    "image": "https://fediversewiki-api.herokuapp.com/images/sun-knudsen.jpg"
   },
   {
-    "name": "Art ",
+    "name": "Art",
     "alternate_names": "",
     "gender": "",
     "category": "Tech-Linux",
     "description": "Arthur makes videos about linux and general software, and alot of hardware stuff.",
     "fediverse": "art@peertube.linuxrocks.online",
     "link": "https://peertube.linuxrocks.online/accounts/art/video-channels",
-    "image": ""
+    "image": "https://fediversewiki-api.herokuapp.com/images/arthur-linux.jpg"
   },
   {
     "name": "geotechland",
@@ -127,7 +127,7 @@
     "description": "Geotechland makes videos about foss, opensource technology, community funded projects, gaming, fediverse, and everything linux.",
     "fediverse": "geotechland@peertube.social",
     "link": "https://peertube.social/accounts/geotechland/video-channels",
-    "image": ""
+    "image": "https://fediversewiki-api.herokuapp.com/images/geotechland.jpg"
   },
   {
     "name": "Techlore",
@@ -137,7 +137,7 @@
     "description": "Techlore is spreading privacy and security to the masses.",
     "fediverse": "techlore@tube.privacytools.io",
     "link": "https://tube.privacytools.io/accounts/techlore/video-channels",
-    "image": ""
+    "image": "https://fediversewiki-api.herokuapp.com/images/techlore.jpg"
   },
   {
     "name": "OverCoat",
@@ -147,7 +147,7 @@
     "description": "Cyberpunk music Producer who makes music for games",
     "fediverse": "@overcoat@mastodon.social",
     "link": "https://mastodon.social/@overcoat",
-    "image": ""
+    "image": "https://fediversewiki-api.herokuapp.com/images/overcoat.gif"
   },
   {
     "name": "Krad",
@@ -157,7 +157,7 @@
     "description": "Zines / comic art. villains & Leather.",
     "fediverse": "@kradeelav@mastodon.social",
     "link": "https://mastodon.social/@kradeelav",
-    "image": ""
+    "image": "https://fediversewiki-api.herokuapp.com/images/krad.png"
   },
   {
     "name": "Anderjak",
@@ -167,7 +167,7 @@
     "description": "Comic artist and illustrationist",
     "fediverse": "@Anderjak@mastodon.social",
     "link": "https://mastodon.social/@Anderjak",
-    "image": ""
+    "image": "https://fediversewiki-api.herokuapp.com/images/anderjak.png"
   },
   {
     "name": "Pen Merch",
@@ -177,7 +177,7 @@
     "description": "Comics and cartoons, pixel art.",
     "fediverse": "@idesofmerch@mastodon.social",
     "link": "https://mastodon.social/@idesofmerch",
-    "image": ""
+    "image": "https://fediversewiki-api.herokuapp.com/images/pen-march.png"
   },
   {
     "name": "Matthew Bogart",
@@ -187,7 +187,7 @@
     "description": "Matthew Bogart is a cartoonist and creator of the Incredible Doom webcomic and graphic novel set in the 1990s",
     "fediverse": "@matthewbogart@mastodon.social, @matthewbogart@mastodon.art",
     "link": "https://mastodon.social/@matthewbogart",
-    "image": ""
+    "image": "https://fediversewiki-api.herokuapp.com/images/matthew-bogart.jpg"
   },
   {
     "name": "Spearhafoc",
@@ -197,7 +197,7 @@
     "description": "Spearhafoc is a comic book creator currently focusing on pulp interpretations of classic characters from history and literature.",
     "fediverse": "@Spearhafoc@mastodon.social",
     "link": "https://mastodon.social/@Spearhafoc/media",
-    "image": ""
+    "image": "https://fediversewiki-api.herokuapp.com/images/spearhafoc.jpg"
   },
   {
     "name": "David Revoy",
@@ -207,7 +207,7 @@
     "description": "David Revoy is a talented illustrator, creator of the Pepper & Carrot webcomic, Krita instructor and supporter of libre projects.",
     "fediverse": "@davidrevoy@framapiaf.org",
     "link": "https://framapiaf.org/@davidrevoy",
-    "image": ""
+    "image": "https://fediversewiki-api.herokuapp.com/images/david-revoy.jpg"
   },
   {
     "name": "Jake Lawrence",
@@ -217,7 +217,7 @@
     "description": "Lake Lawrence is an artist, cartoonist and creator of the Nice Long Walk webcomic series.",
     "fediverse": "@timecowboy@mastodon.social",
     "link": "https://mastodon.social/@timecowboy",
-    "image": ""
+    "image": "https://fediversewiki-api.herokuapp.com/images/jake-lawrence.png"
   },
   {
     "name": "Katie Ampersand",
@@ -227,6 +227,6 @@
     "description": "Katie makes languages, stories, sometimes drawings and currently making a webcomic called Survivor’s 9-Step Guide To Conquering The Multiverse. She's also working on a game called Treize, which currently has a released playable demo on itch.",
     "fediverse": "@TheAndSys@koyu.space",
     "link": "https://koyu.space/@TheAndSys",
-    "image": ""
+    "image": "https://fediversewiki-api.herokuapp.com/images/katie-ampersand.png"
   }
 ]
