@@ -19,6 +19,10 @@ To add a creator to the API, add these variables to [data/characters.json](https
     "link": "https://instance.tld/@JohnDoe",
     "image": "https://fediversewiki-api.herokuapp.com/images/john-doe.jpg",
     "language": "English"
+    "user": true,
+    "group" : false,
+    "creator": true,
+    "company-organization": false
   }
 ```
   and also add a corresponding profile picture in [public/images](https://github.com/fediversewiki/fediversewiki-api/tree/master/public/images) with a 1x1 aspect ratio.
