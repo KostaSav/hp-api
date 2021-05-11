@@ -8,7 +8,11 @@
     "fediverse": "@danielle@greatview.video",
     "link": "https://greatview.video/accounts/danielle",
     "image": "https://fediversewiki-api.herokuapp.com/images/danielle-kogan.jpg",
-    "language": "English"
+    "language": "English",
+    "user": true,
+    "group" : false,
+    "creator": true,
+    "companyOrganization": false
   },
   {
     "name": "Joe Gran",
@@ -19,7 +23,11 @@
     "fediverse": "@joe@greatview.video",
     "link": "https://greatview.video/accounts/joe",
     "image": "https://fediversewiki-api.herokuapp.com/images/joe-gran.jpg",
-    "language": "English"
+    "language": "English",
+    "user": true,
+    "group" : false,
+    "creator": true,
+    "companyOrganization": false
   },
   {
     "name": "Monarobot",
@@ -30,7 +38,11 @@
     "fediverse": "@monarobot@mastodon.art",
     "link": "https://mastodon.art/@monarobot",
     "image": "https://fediversewiki-api.herokuapp.com/images/monarobot.jpeg",
-    "language": "English"
+    "language": "English",
+    "user": true,
+    "group" : false,
+    "creator": true,
+    "companyOrganization": false
   },
   {
     "name": "Gwynne Seisyll",
@@ -41,7 +53,11 @@
     "fediverse": "@Gwynne@mastodon.online",
     "link": "https://mastodon.online/@Gwynne",
     "image": "https://fediversewiki-api.herokuapp.com/images/gwynne-seisyll.png",
-    "language": "English"
+    "language": "English",
+    "user": true,
+    "group" : false,
+    "creator": true,
+    "companyOrganization": false
   },
   {
     "name": "Riles Jones",
@@ -52,7 +68,11 @@
     "fediverse": "@unibrawn@mastodon.art",
     "link": "https://mastodon.art/@unibrawn",
     "image": "https://fediversewiki-api.herokuapp.com/images/riles-jones.jpg",
-    "language": "English"
+    "language": "English",
+    "user": true,
+    "group" : false,
+    "creator": true,
+    "companyOrganization": false
   },
   {
     "name": "Yatoimtop",
@@ -63,7 +83,11 @@
     "fediverse": "@yatoimtop@greatview.video",
     "link": "https://greatview.video/accounts/yatoimtop/video-channels",
     "image": "https://fediversewiki-api.herokuapp.com/images/yatoimtop.jpg",
-    "language": "English"
+    "language": "English",
+    "user": true,
+    "group" : false,
+    "creator": true,
+    "companyOrganization": false
   },
   {
     "name": "Damage Control",
@@ -74,7 +98,11 @@
     "fediverse": "@damagecontrolblog@mastodon.social",
     "link": "https://mastodon.social/@damagecontrolblog",
     "image": "https://fediversewiki-api.herokuapp.com/images/damage-control.png",
-    "language": "English"
+    "language": "English",
+    "user": true,
+    "group" : false,
+    "creator": true,
+    "companyOrganization": false
   },
   {
     "name": "Luke Smith",
@@ -85,7 +113,11 @@
     "fediverse": "@luke@videos.lukesmith.xyz",
     "link": "https://videos.lukesmith.xyz/accounts/luke/video-channels",
     "image": "https://fediversewiki-api.herokuapp.com/images/luke-smith.png",
-    "language": "English"
+    "language": "English",
+    "user": true,
+    "group" : false,
+    "creator": true,
+    "companyOrganization": false
   },
   {
     "name": "Chris Were Digital",
@@ -96,7 +128,11 @@
     "fediverse": "chriswere@share.tube",
     "link": "https://share.tube/accounts/chriswere/video-channels",
     "image": "https://fediversewiki-api.herokuapp.com/images/chris-were-digital.jpg",
-    "language": "English"
+    "language": "English",
+    "user": true,
+    "group" : false,
+    "creator": true,
+    "companyOrganization": false
   },
   {
     "name": "HexDSL",
@@ -107,7 +143,11 @@
     "fediverse": "hexdsl@share.tube",
     "link": "https://share.tube/accounts/hexdsl/video-channels",
     "image": "https://fediversewiki-api.herokuapp.com/images/hexdsl.png",
-    "language": "English"
+    "language": "English",
+    "user": true,
+    "group" : false,
+    "creator": true,
+    "companyOrganization": false
   },
   {
     "name": "Sun Knudsen",
@@ -118,7 +158,11 @@
     "fediverse": "sunknudsen@peertube.sunknudsen.com",
     "link": "https://peertube.sunknudsen.com/accounts/sunknudsen/video-channels",
     "image": "https://fediversewiki-api.herokuapp.com/images/sun-knudsen.jpg",
-    "language": "English"
+    "language": "English",
+    "user": true,
+    "group" : false,
+    "creator": true,
+    "companyOrganization": false
   },
   {
     "name": "Art",
@@ -129,7 +173,11 @@
     "fediverse": "art@peertube.linuxrocks.online",
     "link": "https://peertube.linuxrocks.online/accounts/art/video-channels",
     "image": "https://fediversewiki-api.herokuapp.com/images/arthur-linux.jpg",
-    "language": "English"
+    "language": "English",
+    "user": true,
+    "group" : false,
+    "creator": true,
+    "companyOrganization": false
   },
   {
     "name": "geotechland",
@@ -140,7 +188,11 @@
     "fediverse": "geotechland@peertube.social",
     "link": "https://peertube.social/accounts/geotechland/video-channels",
     "image": "https://fediversewiki-api.herokuapp.com/images/geotechland.jpg",
-    "language": "English"
+    "language": "English",
+    "user": true,
+    "group" : false,
+    "creator": true,
+    "companyOrganization": false
   },
   {
     "name": "Techlore",
@@ -151,7 +203,11 @@
     "fediverse": "techlore@tube.privacytools.io",
     "link": "https://tube.privacytools.io/accounts/techlore/video-channels",
     "image": "https://fediversewiki-api.herokuapp.com/images/techlore.jpg",
-    "language": "English"
+    "language": "English",
+    "user": true,
+    "group" : false,
+    "creator": true,
+    "companyOrganization": false
   },
   {
     "name": "OverCoat",
@@ -162,7 +218,11 @@
     "fediverse": "@overcoat@mastodon.social",
     "link": "https://mastodon.social/@overcoat",
     "image": "https://fediversewiki-api.herokuapp.com/images/overcoat.gif",
-    "language": "English"
+    "language": "English",
+    "user": true,
+    "group" : false,
+    "creator": true,
+    "companyOrganization": false
   },
   {
     "name": "Krad",
@@ -173,7 +233,11 @@
     "fediverse": "@kradeelav@mastodon.social",
     "link": "https://mastodon.social/@kradeelav",
     "image": "https://fediversewiki-api.herokuapp.com/images/krad.png",
-    "language": "English"
+    "language": "English",
+    "user": true,
+    "group" : false,
+    "creator": true,
+    "companyOrganization": false
   },
   {
     "name": "Anderjak",
@@ -184,7 +248,11 @@
     "fediverse": "@Anderjak@mastodon.social",
     "link": "https://mastodon.social/@Anderjak",
     "image": "https://fediversewiki-api.herokuapp.com/images/anderjak.png",
-    "language": "English"
+    "language": "English",
+    "user": true,
+    "group" : false,
+    "creator": true,
+    "companyOrganization": false
   },
   {
     "name": "Pen Merch",
@@ -195,7 +263,11 @@
     "fediverse": "@idesofmerch@mastodon.social",
     "link": "https://mastodon.social/@idesofmerch",
     "image": "https://fediversewiki-api.herokuapp.com/images/pen-march.png",
-    "language": "English"
+    "language": "English",
+    "user": true,
+    "group" : false,
+    "creator": true,
+    "companyOrganization": false
   },
   {
     "name": "Matthew Bogart",
@@ -206,7 +278,11 @@
     "fediverse": "@matthewbogart@mastodon.social, @matthewbogart@mastodon.art",
     "link": "https://mastodon.social/@matthewbogart",
     "image": "https://fediversewiki-api.herokuapp.com/images/matthew-bogart.jpg",
-    "language": "English"
+    "language": "English",
+    "user": true,
+    "group" : false,
+    "creator": true,
+    "companyOrganization": false
   },
   {
     "name": "Spearhafoc",
@@ -217,7 +293,11 @@
     "fediverse": "@Spearhafoc@mastodon.social",
     "link": "https://mastodon.social/@Spearhafoc/media",
     "image": "https://fediversewiki-api.herokuapp.com/images/spearhafoc.jpg",
-    "language": "English"
+    "language": "English",
+    "user": true,
+    "group" : false,
+    "creator": true,
+    "companyOrganization": false
   },
   {
     "name": "David Revoy",
@@ -228,7 +308,11 @@
     "fediverse": "@davidrevoy@framapiaf.org",
     "link": "https://framapiaf.org/@davidrevoy",
     "image": "https://fediversewiki-api.herokuapp.com/images/david-revoy.jpg",
-    "language": "English"
+    "language": "English",
+    "user": true,
+    "group" : false,
+    "creator": true,
+    "companyOrganization": false
   },
   {
     "name": "Jake Lawrence",
@@ -239,7 +323,11 @@
     "fediverse": "@timecowboy@mastodon.social",
     "link": "https://mastodon.social/@timecowboy",
     "image": "https://fediversewiki-api.herokuapp.com/images/jake-lawrence.png",
-    "language": "English"
+    "language": "English",
+    "user": true,
+    "group" : false,
+    "creator": true,
+    "companyOrganization": false
   },
   {
     "name": "Katie Ampersand",
@@ -250,7 +338,11 @@
     "fediverse": "@TheAndSys@koyu.space",
     "link": "https://koyu.space/@TheAndSys",
     "image": "https://fediversewiki-api.herokuapp.com/images/katie-ampersand.png",
-    "language": "English"
+    "language": "English",
+    "user": true,
+    "group" : false,
+    "creator": true,
+    "companyOrganization": false
   },
   {
     "name": "RAPIDPUNCHES",
@@ -261,7 +353,11 @@
     "fediverse": "@RAPIDPUNCHES@mastodon.social",
     "link": "https://mastodon.social/@RAPIDPUNCHES",
     "image": "https://fediversewiki-api.herokuapp.com/images/rapidpunches.png",
-    "language": "English"
+    "language": "English",
+    "user": true,
+    "group" : false,
+    "creator": true,
+    "companyOrganization": false
   },
   {
     "name": "Davit Masia",
@@ -272,7 +368,11 @@
     "fediverse": "@DavitMasia@mastodon.social",
     "link": "https://mastodon.social/@DavitMasia",
     "image": "https://fediversewiki-api.herokuapp.com/images/davit-masia.png",
-    "language": "English"
+    "language": "English",
+    "user": true,
+    "group" : false,
+    "creator": true,
+    "companyOrganization": false
   },
   {
     "name": "Zughy",
@@ -283,7 +383,11 @@
     "fediverse": "@zughy@mastodon.art",
     "link": "https://mastodon.art/@zughy",
     "image": "https://fediversewiki-api.herokuapp.com/images/zughy.png",
-    "language": "English"
+    "language": "English",
+    "user": true,
+    "group" : false,
+    "creator": true,
+    "companyOrganization": false
   },
   {
     "name": "Canine",
@@ -294,7 +398,11 @@
     "fediverse": "@TheCanine@mstdn.social",
     "link": "https://mstdn.social/@TheCanine",
     "image": "https://fediversewiki-api.herokuapp.com/images/canine.png",
-    "language": "English"
+    "language": "English",
+    "user": true,
+    "group" : false,
+    "creator": true,
+    "companyOrganization": false
   },
   {
     "name": "Benjamin Brinckmann",
@@ -305,7 +413,11 @@
     "fediverse": "@BenjaminBrinckmann@mastodon.art",
     "link": "https://mastodon.art/@BenjaminBrinckmann",
     "image": "https://fediversewiki-api.herokuapp.com/images/benjamin-brinckmann.jpg",
-    "language": "English"
+    "language": "English",
+    "user": true,
+    "group" : false,
+    "creator": true,
+    "companyOrganization": false
   },
   {
     "name": " H. McGill",
@@ -316,7 +428,11 @@
     "fediverse": "@hannahcomb@mastodon.art",
     "link": "https://mastodon.art/@hannahcomb",
     "image": "https://fediversewiki-api.herokuapp.com/images/h-mcgill.png",
-    "language": "English"
+    "language": "English",
+    "user": true,
+    "group" : false,
+    "creator": true,
+    "companyOrganization": false
   },
   {
     "name": "Ionas",
@@ -327,7 +443,11 @@
     "fediverse": "@violetmagician@mastodon.art",
     "link": "https://mastodon.art/@violetmagician",
     "image": "https://fediversewiki-api.herokuapp.com/images/ionas.png",
-    "language": "English"
+    "language": "English",
+    "user": true,
+    "group" : false,
+    "creator": true,
+    "companyOrganization": false
   },
   {
     "name": " Emily L'Orange",
@@ -338,7 +458,11 @@
     "fediverse": "@emilylorange@mastodon.art",
     "link": "https://mastodon.art/@emilylorange",
     "image": "https://fediversewiki-api.herokuapp.com/images/emily-lorange.jpg",
-    "language": "English"
+    "language": "English",
+    "user": true,
+    "group" : false,
+    "creator": true,
+    "companyOrganization": false
   },
   {
     "name": "Sajan Rai",
@@ -349,7 +473,11 @@
     "fediverse": "@sajan@mastodon.art",
     "link": "https://mastodon.art/@sajan",
     "image": "https://fediversewiki-api.herokuapp.com/images/sajan-rai.png",
-    "language": "English"
+    "language": "English",
+    "user": true,
+    "group" : false,
+    "creator": true,
+    "companyOrganization": false
   },
   {
     "name": "JohannC",
@@ -360,7 +488,11 @@
     "fediverse": "@johannc@mamot.fr",
     "link": "https://mamot.fr/@johannc",
     "image": "https://fediversewiki-api.herokuapp.com/images/johannc.png",
-    "language": "English"
+    "language": "English",
+    "user": true,
+    "group" : false,
+    "creator": true,
+    "companyOrganization": false
   },
   {
     "name": "Kathaja",
@@ -371,7 +503,11 @@
     "fediverse": "@Kathaja@mastodon.art",
     "link": "https://mastodon.art/@Kathaja",
     "image": "https://fediversewiki-api.herokuapp.com/images/kathaja.jpg",
-    "language": "English"
+    "language": "English",
+    "user": true,
+    "group" : false,
+    "creator": true,
+    "companyOrganization": false
   },
   {
     "name": "rnadness",
@@ -382,7 +518,11 @@
     "fediverse": "@rnadness@mastodon.art",
     "link": "https://mastodon.art/@rnadness",
     "image": "https://fediversewiki-api.herokuapp.com/images/rnadness.png",
-    "language": "English"
+    "language": "English",
+    "user": true,
+    "group" : false,
+    "creator": true,
+    "companyOrganization": false
   },
   {
     "name": "Helvetica Blanc",
@@ -393,7 +533,11 @@
     "fediverse": "@helveticablanc@merveilles.town",
     "link": "https://merveilles.town/@helveticablanc",
     "image": "https://fediversewiki-api.herokuapp.com/images/helvetica-blanc.png",
-    "language": "English"
+    "language": "English",
+    "user": true,
+    "group" : false,
+    "creator": true,
+    "companyOrganization": false
   },
   {
     "name": "Xzyolotl",
@@ -404,7 +548,11 @@
     "fediverse": "@xzyolotl@mastodon.art",
     "link": "https://mastodon.art/@xzyolotl",
     "image": "https://fediversewiki-api.herokuapp.com/images/xzyolotl.jpg",
-    "language": "English"
+    "language": "English",
+    "user": true,
+    "group" : false,
+    "creator": true,
+    "companyOrganization": false
   },
   {
     "name": "Plume",
@@ -415,7 +563,11 @@
     "fediverse": "@prismplume@mastodon.art",
     "link": "https://mastodon.art/@prismplume",
     "image": "https://fediversewiki-api.herokuapp.com/images/plume.jpg",
-    "language": "English"
+    "language": "English",
+    "user": true,
+    "group" : false,
+    "creator": true,
+    "companyOrganization": false
   },
   {
     "name": "Amôgurumi",
@@ -426,7 +578,11 @@
     "fediverse": "@amogurumi@pixelfed.social",
     "link": "https://pixelfed.social/amogurumi",
     "image": "https://fediversewiki-api.herokuapp.com/images/amogurumi.png",
-    "language": "English"
+    "language": "English",
+    "user": true,
+    "group" : false,
+    "creator": true,
+    "companyOrganization": false
   },
   {
     "name": "Silk_Drone",
@@ -437,7 +593,11 @@
     "fediverse": "@silkandfire@mstdn.tokyocameraclub.com",
     "link": "https://mstdn.tokyocameraclub.com/@silkandfire",
     "image": "https://fediversewiki-api.herokuapp.com/images/silk_drone.jpeg",
-    "language": "English"
+    "language": "English",
+    "user": true,
+    "group" : false,
+    "creator": true,
+    "companyOrganization": false
   },
   {
     "name": "Kunihito Ohtsubo",
@@ -448,7 +608,11 @@
     "fediverse": "@kunihito_ohtsubo@mstdn.tokyocameraclub.com",
     "link": "https://mstdn.tokyocameraclub.com/@kunihito_ohtsubo",
     "image": "https://fediversewiki-api.herokuapp.com/images/kunihito-ohtsubo.jpeg",
-    "language": "Japanese"
+    "language": "Japanese",
+    "user": true,
+    "group" : false,
+    "creator": true,
+    "companyOrganization": false
   },
   {
     "name": "Yukihito Ono",
@@ -459,7 +623,11 @@
     "fediverse": "@onotch@mstdn.tokyocameraclub.com",
     "link": "https://mstdn.tokyocameraclub.com/@onotch",
     "image": "https://fediversewiki-api.herokuapp.com/images/yukihito-ono.jpg",
-    "language": "Japanese"
+    "language": "Japanese",
+    "user": true,
+    "group" : false,
+    "creator": true,
+    "companyOrganization": false
   },
   {
     "name": "James Bean",
@@ -470,7 +638,11 @@
     "fediverse": "@SantMat@mastodon.social",
     "link": "https://mastodon.social/@SantMat",
     "image": "https://fediversewiki-api.herokuapp.com/images/james-bean.jpg",
-    "language": "English"
+    "language": "English",
+    "user": true,
+    "group" : false,
+    "creator": true,
+    "companyOrganization": false
   },
   {
     "name": "Sayuri Firebrand",
@@ -481,6 +653,10 @@
     "fediverse": "@wolfcoder@mastodon.social",
     "link": "https://mastodon.social/@wolfcoder",
     "image": "https://fediversewiki-api.herokuapp.com/images/sayuri-firebrand.png",
-    "language": "English"
+    "language": "English",
+    "user": true,
+    "group" : false,
+    "creator": true,
+    "companyOrganization": false
   }
 ]
