@@ -1,12 +1,12 @@
-# Fediverse Creators API
+# Fediverse Wiki API
 
-A simple JSON-based API for getting information on Fediverse Creators. 
+A simple JSON-based API for getting information on all things Fediverse. 
 
 Hosted at https://fediversewiki-api.herokuapp.com/
 
 
 # Contributing
-To add a creator to the API, add these variables to [data/characters.json](https://github.com/fediversewiki/fediversewiki-api/blob/master/data/characters.json)
+To add a search result to the API, add these variables to [data/characters.json](https://github.com/fediversewiki/fediversewiki-api/blob/master/data/characters.json)
 
 ```
   {
