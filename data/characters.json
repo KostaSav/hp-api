@@ -2715,5 +2715,80 @@
     "alternate_actors": [],
     "alive": true,
     "image": ""
+  },
+  {
+    "name": "Elfrick the Eager",
+    "alternate_names": [],
+    "species": "goblin",
+    "gender": "male",
+    "house": "",
+    "dateOfBirth": "",
+    "yearOfBirth": "",
+    "wizard": true,
+    "ancestry": "",
+    "eyeColour": "",
+    "hairColour": "",
+    "wand": {
+      "wood": "",
+      "core": "",
+      "length": ""
+    },
+    "patronus": "",
+    "hogwartsStudent": false,
+    "hogwartsStaff": false,
+    "actor": "",
+    "alternate_actors": [],
+    "alive": false,
+    "image": ""
+  },
+  {
+    "name": "Perenelle Flamel",
+    "alternate_names": [],
+    "species": "human",
+    "gender": "female",
+    "house": "",
+    "dateOfBirth": "",
+    "yearOfBirth": "",
+    "wizard": true,
+    "ancestry": "",
+    "eyeColour": "",
+    "hairColour": "",
+    "wand": {
+      "wood": "",
+      "core": "",
+      "length": ""
+    },
+    "patronus": "",
+    "hogwartsStudent": false,
+    "hogwartsStaff": false,
+    "actor": "",
+    "alternate_actors": [],
+    "alive": false,
+    "image": ""
+  },
+  {
+    "name": "Bertie Bott",
+    "alternate_names": [],
+    "species": "human",
+    "gender": "male",
+    "house": "",
+    "dateOfBirth": "",
+    "yearOfBirth": "",
+    "wizard": true,
+    "ancestry": "",
+    "eyeColour": "",
+    "hairColour": "",
+    "wand": {
+      "wood": "",
+      "core": "",
+      "length": ""
+    },
+    "patronus": "",
+    "hogwartsStudent": false,
+    "hogwartsStaff": false,
+    "actor": "",
+    "alternate_actors": [],
+    "alive": true,
+    "image": ""
   }
 ]
