@@ -142,37 +142,61 @@
   },
   {
     "id": "15",
-    "nama": "Nasi Goreng Pete",
-    "detail": "Nasi goreng dengann toping pete",
+    "nama": "Sushi Fray Roll",
+    "detail": "......",
     "kategori": "food",
     "harga": 15000,
-    "rate": 3.6,
+    "kedai": "Panoshi Sushi",
+    "rate": 4.6,
     "foto": "https://foodmenu-api.herokuapp.com/images/food-6.jpg"
   },
   {
     "id": "16",
-    "nama": "Sate Taichan",
-    "detail": "Taichan taichan taichan....",
+    "nama": "Kakiage",
+    "detail": "........",
     "kategori": "food",
+    "kedai": "Panoshi Sushi",
     "harga": 16000,
     "rate": 4.3,
     "foto": "https://foodmenu-api.herokuapp.com/images/food-9.jpg"
   },
   {
     "id": "17",
-    "nama": "Sate Padang",
-    "detail": "Yang dari padang juga ada disini, ya sate padang",
+    "nama": "Triple Heaven",
+    "detail": "....",
     "kategori": "food",
-    "harga": 18000,
+    "kedai": "Panoshi Sushi",
+    "harga": 20000,
     "rate": 3,
     "foto": "https://foodmenu-api.herokuapp.com/images/food-10.jpg"
   },
   {
     "id": "18",
-    "nama": "Dimsum",
-    "detail": "Dimsum dengan berbagai varian isi",
-    "kategori": "snack",
-    "harga": 16000,
+    "nama": "Spicy Tuna Paradise",
+    "detail": "....",
+    "kategori": "food",
+    "harga": 20000,
+    "kedai": "Panoshi Sushi",
+    "rate": 4.2,
+    "foto": "https://foodmenu-api.herokuapp.com/images/snack-2.jpg"
+  },
+  {
+    "id": "19",
+    "nama": "Classicc Crispy",
+    "detail": "....",
+    "kategori": "food",
+    "harga": 20000,
+    "kedai": "Panoshi Sushi",
+    "rate": 4.2,
+    "foto": "https://foodmenu-api.herokuapp.com/images/snack-2.jpg"
+  },
+  {
+    "id": "20",
+    "nama": "Golden gate",
+    "detail": "....",
+    "kategori": "food",
+    "harga": 20000,
+    "kedai": "Panoshi Sushi",
     "rate": 4.2,
     "foto": "https://foodmenu-api.herokuapp.com/images/snack-2.jpg"
   }
