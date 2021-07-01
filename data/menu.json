@@ -211,7 +211,7 @@
     "foto": "https://foodmenu-api.herokuapp.com/images/sate_taichan.jpg"
   },
   {
-    "id": "21",
+    "id": "22",
     "nama": "Kebab Daging/Sosis",
     "detail": "....",
     "kategori": "food",
@@ -221,7 +221,7 @@
     "foto": "https://foodmenu-api.herokuapp.com/images/kebab_daging.jpg"
   },
   {
-    "id": "21",
+    "id": "23",
     "nama": "Nasi Ayam Kremes Goreng/bakar",
     "detail": "....",
     "kategori": "food",
@@ -231,7 +231,7 @@
     "foto": "https://foodmenu-api.herokuapp.com/images/ayam_kremes.jpg"
   },
   {
-    "id": "21",
+    "id": "24",
     "nama": "Nasi Ayam Goreng Kalasan",
     "detail": "....",
     "kategori": "food",
@@ -241,7 +241,7 @@
     "foto": "https://foodmenu-api.herokuapp.com/images/ayam_kalasan.jpg"
   },
   {
-    "id": "22",
+    "id": "25",
     "nama": "Kuta Subbaem",
     "detail": "......",
     "kategori": "drink",
@@ -251,7 +251,7 @@
     "foto": "https://foodmenu-api.herokuapp.com/images/noimage.png"
   },
   {
-    "id": "23",
+    "id": "26",
     "nama": "Camouflage",
     "detail": "......",
     "kategori": "drink",
@@ -261,7 +261,7 @@
     "foto": "https://foodmenu-api.herokuapp.com/images/noimage.png"
   },
   {
-    "id": "24",
+    "id": "27",
     "nama": "Summer Party",
     "detail": "......",
     "kategori": "drink",
@@ -271,7 +271,7 @@
     "foto": "https://foodmenu-api.herokuapp.com/images/noimage.png"
   },
   {
-    "id": "24",
+    "id": "28",
     "nama": "Coffee Unicorn",
     "detail": "......",
     "kategori": "drink",
@@ -281,7 +281,7 @@
     "foto": "https://foodmenu-api.herokuapp.com/images/noimage.png"
   },
   {
-    "id": "24",
+    "id": "29",
     "nama": "Red Velvet",
     "detail": "......",
     "kategori": "drink",
