@@ -2,7 +2,7 @@
   {
     "id": "1",
     "nama": "Single Beef",
-    "detail": ".......",
+    "detail": "Burger berisi beef",
     "kategori": "snack",
     "harga": 19000,
     "kedai": "Burger Bulgel",
@@ -12,7 +12,7 @@
   {
     "id": "2",
     "nama": "Single Beef Cheese",
-    "detail": "........",
+    "detail": "Burger berisi beef + Keju",
     "kategori": "snack",
     "harga": 25000,
     "kedai": "Burger Bulgel",
@@ -22,7 +22,7 @@
   {
     "id": "3",
     "nama": "Double Beef",
-    "detail": ".........",
+    "detail": "Burger dengan double beef",
     "kategori": "snack",
     "harga": 30000,
     "kedai": "Burger Bulgel",
@@ -33,7 +33,7 @@
   {
     "id": "4",
     "nama": "Double Beef Cheese",
-    "detail": ".......",
+    "detail": "Burger dengan double beef dan cheese",
     "kategori": "snack",
     "kedai": "Burger Bulgel",
     "harga": 35000,
@@ -43,97 +43,97 @@
   {
     "id": "5",
     "nama": "Chocomaltine Keju",
-    "detail": "...................",
+    "detail": "Roti bakar dengan Chocomaltine dan Keju",
     "kategori": "snack",
     "kedai": "Roti Bakar bandung",
     "harga": 20000,
     "rate": 4.1,
-    "foto": "https://foodmenu-api.herokuapp.com/images/noimage.png"
+    "foto": "https://foodmenu-api.herokuapp.com/images/Bakar_Chocomaltine_Keju.jpg"
   },
   {
     "id": "6",
     "nama": "Cheese Red Velvet",
-    "detail": ".......",
+    "detail": "Roti bakar dengan Cheese dan Red Velvet",
     "kategori": "snack",
     "kedai": "Roti Bakar bandung",
     "harga": 18000,
     "rate": 4,
-    "foto": "https://foodmenu-api.herokuapp.com/images/noimage.png"
+    "foto": "https://foodmenu-api.herokuapp.com/images/Bakar_Red.jpg"
   },
 
   {
     "id": "7",
     "nama": "Milo Cream Cheese",
-    "detail": ".......",
+    "detail": "Roti Bakar dengan Milo Cream dan Cheese",
     "kategori": "snack",
     "kedai": "Roti Bakar bandung",
     "harga": 18000,
     "rate": 4,
-    "foto": "https://foodmenu-api.herokuapp.com/images/noimage.png"
+    "foto": "https://foodmenu-api.herokuapp.com/images/Bakar_Milo.jpg"
   },
   {
     "id": "8",
     "nama": "Chocomaltine",
-    "detail": "......",
+    "detail": "Roti Bakar degan Chocomaltine",
     "kategori": "snack",
     "kedai": "Roti Bakar bandung",
     "harga": 16000,
     "rate": 4,
-    "foto": "https://foodmenu-api.herokuapp.com/images/noimage.png"
+    "foto": "https://foodmenu-api.herokuapp.com/images/Bakar_Chocomaltine.jpg"
   },
   {
     "id": "9",
     "nama": "Choco Crunchy",
-    "detail": ".....",
+    "detail": "Roti Bakar dengan Choco Crunchy",
     "kategori": "snack",
     "kedai": "Roti Bakar bandung",
     "harga": 15000,
     "rate": 3.8,
-    "foto": "https://foodmenu-api.herokuapp.com/images/noimage.png"
+    "foto": "https://foodmenu-api.herokuapp.com/images/Bakar_Coklat.jpg"
   },
   {
     "id": "10",
     "nama": "Coklat Keju",
-    "detail": ".....",
+    "detail": "Roti Bakar Coklat Keju",
     "kategori": "snack",
     "kedai": "Roti Bakar bandung",
     "harga": 15000,
     "rate": 4.4,
-    "foto": "https://foodmenu-api.herokuapp.com/images/noimage.png"
+    "foto": "https://foodmenu-api.herokuapp.com/images/Bakar_Coklat_Keju.jpg"
   },
   {
     "id": "11",
     "nama": "Tiramisu",
-    "detail": "......",
+    "detail": "Roti Bakar Tiramisu",
     "kategori": "snack",
     "kedai": "Roti Bakar bandung",
     "harga": 15000,
     "rate": 4,
-    "foto": "https://foodmenu-api.herokuapp.com/images/noimage.png"
+    "foto": "https://foodmenu-api.herokuapp.com/images/Bakar_Tiramisu.jpg"
   },
   {
     "id": "12",
     "nama": "Coklat Kacang",
-    "detail": ".....",
+    "detail": "Roti Bakar Coklat Kacang",
     "kategori": "snack",
     "harga": 15000,
     "rate": 4,
-    "foto": "https://foodmenu-api.herokuapp.com/images/noimage.png"
+    "foto": "https://foodmenu-api.herokuapp.com/images/Bakar_Coklat.jpg"
   },
   {
     "id": "13",
     "nama": "Cream Cheese",
-    "detail": ".....",
+    "detail": "Roti Bakar dengan Cream Cheese",
     "kategori": "snack",
     "kedai": "Roti Bakar bandung",
     "harga": 15000,
     "rate": 4,
-    "foto": "https://foodmenu-api.herokuapp.com/images/noimage.png"
+    "foto": "https://foodmenu-api.herokuapp.com/images/Bakar_Keju.jpg"
   },
   {
     "id": "14",
     "nama": "Srikaya",
-    "detail": "......",
+    "detail": "Roti Bakar Srikaya",
     "kategori": "snack",
     "kedai": "Roti Bakar bandung",
     "harga": 15000,
@@ -143,17 +143,17 @@
   {
     "id": "15",
     "nama": "Chocolate Mint",
-    "detail": "......",
+    "detail": "Minuman segar dengan Chocolate Min",
     "kategori": "drink",
     "harga": 12000,
     "kedai": "Manja Artisan Cheese Tea",
     "rate": 4,
-    "foto": "https://foodmenu-api.herokuapp.com/images/noimage.png"
+    "foto": "https://foodmenu-api.herokuapp.com/images/Coklat_Mint.png"
   },
   {
     "id": "16",
     "nama": "Kebab Durian Original",
-    "detail": "........",
+    "detail": "Kebab Toping Durian",
     "kategori": "snack",
     "kedai": "Kebab Durian Becek",
     "harga": 15000,
@@ -163,7 +163,7 @@
   {
     "id": "17",
     "nama": "Kebab Durian Oreo",
-    "detail": "....",
+    "detail": "Kebab Toping Durian + Oreo",
     "kategori": "snack",
     "kedai": "Kebab Durian Becek",
     "harga": 17000,
@@ -173,7 +173,7 @@
   {
     "id": "18",
     "nama": "Kebab Durian Ice Cream",
-    "detail": "....",
+    "detail": "Kebab Durian toping Ice Cream",
     "kategori": "snack",
     "harga": 18000,
     "kedai": "Kebab Durian Becek",
@@ -183,8 +183,8 @@
   {
     "id": "19",
     "nama": "Kebab Durian Ovaltine",
-    "detail": "....",
-    "kategori": "food",
+    "detail": "Kebab dengan toping Durian + Ovaltine",
+    "kategori": "snack",
     "harga": 20000,
     "kedai": "Kebab Durian Becek",
     "rate": 4,
@@ -193,17 +193,17 @@
   {
     "id": "20",
     "nama": "Chocolate Lava",
-    "detail": "....",
+    "detail": "Minuman segar dengan toping Chocolate Lava",
     "kategori": "drink",
     "harga": 12000,
     "kedai": "Manja Artisan Cheese Tea",
     "rate": 4,
-    "foto": "https://foodmenu-api.herokuapp.com/images/noimage.png"
+    "foto": "https://foodmenu-api.herokuapp.com/images/Red_Lava.png"
   },
   {
     "id": "21",
     "nama": "Sate Taichan",
-    "detail": "....",
+    "detail": "Sate Taichan",
     "kategori": "food",
     "harga": 20000,
     "kedai": "Dapur Omah",
@@ -213,8 +213,8 @@
   {
     "id": "22",
     "nama": "Kebab Daging/Sosis",
-    "detail": "....",
-    "kategori": "food",
+    "detail": "Kebab dengan toping  Daging/Sosis",
+    "kategori": "snack",
     "harga": 13000,
     "kedai": "Dapur Omah",
     "rate": 3.8,
@@ -223,7 +223,7 @@
   {
     "id": "23",
     "nama": "Nasi Ayam Kremes Goreng/bakar",
-    "detail": "....",
+    "detail": "Nasi + Ayam Kremes Goren/Bakar",
     "kategori": "food",
     "harga": 20000,
     "kedai": "Dapur Omah",
@@ -233,7 +233,7 @@
   {
     "id": "24",
     "nama": "Nasi Ayam Goreng Kalasan",
-    "detail": "....",
+    "detail": "Nasi + Ayam goreng kalasan",
     "kategori": "food",
     "harga": 20000,
     "kedai": "Dapur Omah",
@@ -243,42 +243,42 @@
   {
     "id": "25",
     "nama": "Kuta Subbaem",
-    "detail": "......",
+    "detail": "Minuman segar ala bali",
     "kategori": "drink",
     "harga": 12000,
     "kedai": "Manja Artisan Cheese Tea",
     "rate": 4,
-    "foto": "https://foodmenu-api.herokuapp.com/images/noimage.png"
+    "foto": "https://foodmenu-api.herokuapp.com/images/kuta.png"
   },
   {
     "id": "26",
     "nama": "Camouflage",
-    "detail": "......",
+    "detail": "Minaman segar ala california",
     "kategori": "drink",
     "harga": 12000,
     "kedai": "Manja Artisan Cheese Tea",
     "rate": 4,
-    "foto": "https://foodmenu-api.herokuapp.com/images/noimage.png"
+    "foto": "https://foodmenu-api.herokuapp.com/images/camuf.png"
   },
   {
     "id": "27",
     "nama": "Summer Party",
-    "detail": "......",
+    "detail": "Minuman suasana musim panas",
     "kategori": "drink",
     "harga": 12000,
     "kedai": "Manja Artisan Cheese Tea",
     "rate": 4,
-    "foto": "https://foodmenu-api.herokuapp.com/images/noimage.png"
+    "foto": "https://foodmenu-api.herokuapp.com/images/Summer.png"
   },
   {
     "id": "28",
     "nama": "Coffee Unicorn",
-    "detail": "......",
+    "detail": "Minuman segar kopi anak muda",
     "kategori": "drink",
     "harga": 12000,
     "kedai": "Manja Artisan Cheese Tea",
     "rate": 4,
-    "foto": "https://foodmenu-api.herokuapp.com/images/noimage.png"
+    "foto": "https://foodmenu-api.herokuapp.com/images/coffe.png"
   },
   {
     "id": "29",
@@ -288,6 +288,6 @@
     "harga": 12000,
     "kedai": "Manja Artisan Cheese Tea",
     "rate": 3.9,
-    "foto": "https://foodmenu-api.herokuapp.com/images/noimage.png"
+    "foto": "https://foodmenu-api.herokuapp.com/images/Red_Velvet.png"
   }
 ]
