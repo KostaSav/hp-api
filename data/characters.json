@@ -1,7 +1,7 @@
 [
   {
     "name": "Harry Potter",
-    "alternate_names": [""],
+    "alternate_names": [],
     "species": "human",
     "gender": "male",
     "house": "Gryffindor",
@@ -26,7 +26,7 @@
   },
   {
     "name": "Hermione Granger",
-    "alternate_names": [""],
+    "alternate_names": [],
     "species": "human",
     "gender": "female",
     "house": "Gryffindor",
@@ -51,7 +51,7 @@
   },
   {
     "name": "Ron Weasley",
-    "alternate_names": [""],
+    "alternate_names": [],
     "species": "human",
     "gender": "male",
     "house": "Gryffindor",
@@ -76,7 +76,7 @@
   },
   {
     "name": "Draco Malfoy",
-    "alternate_names": [""],
+    "alternate_names": [],
     "species": "human",
     "gender": "male",
     "house": "Slytherin",
@@ -101,7 +101,7 @@
   },
   {
     "name": "Minerva McGonagall",
-    "alternate_names": [""],
+    "alternate_names": [],
     "species": "human",
     "gender": "female",
     "house": "Gryffindor",
@@ -126,7 +126,7 @@
   },
   {
     "name": "Cedric Diggory",
-    "alternate_names": [""],
+    "alternate_names": [],
     "species": "human",
     "gender": "male",
     "house": "Hufflepuff",
@@ -151,7 +151,7 @@
   },
   {
     "name": "Cho Chang",
-    "alternate_names": [""],
+    "alternate_names": [],
     "species": "human",
     "gender": "female",
     "house": "Ravenclaw",
@@ -176,7 +176,7 @@
   },
   {
     "name": "Severus Snape",
-    "alternate_names": [""],
+    "alternate_names": [],
     "species": "human",
     "gender": "male",
     "house": "Slytherin",
@@ -201,7 +201,7 @@
   },
   {
     "name": "Rubeus Hagrid",
-    "alternate_names": [""],
+    "alternate_names": [],
     "species": "half-giant",
     "gender": "male",
     "house": "Gryffindor",
@@ -226,7 +226,7 @@
   },
   {
     "name": "Neville Longbottom",
-    "alternate_names": [""],
+    "alternate_names": [],
     "species": "human",
     "gender": "male",
     "house": "Gryffindor",
@@ -251,7 +251,7 @@
   },
   {
     "name": "Luna Lovegood",
-    "alternate_names": [""],
+    "alternate_names": [],
     "species": "human",
     "gender": "female",
     "house": "Ravenclaw",
@@ -276,7 +276,7 @@
   },
   {
     "name": "Ginny Weasley",
-    "alternate_names": [""],
+    "alternate_names": [],
     "species": "human",
     "gender": "female",
     "house": "Gryffindor",
@@ -351,7 +351,7 @@
   },
   {
     "name": "Arthur Weasley",
-    "alternate_names": [""],
+    "alternate_names": [],
     "species": "human",
     "gender": "male",
     "house": "Gryffindor",
@@ -376,7 +376,7 @@
   },
   {
     "name": "Bellatrix Lestrange",
-    "alternate_names": [""],
+    "alternate_names": [],
     "species": "human",
     "gender": "female",
     "house": "Slytherin",
@@ -426,7 +426,7 @@
   },
   {
     "name": "Horace Slughorn",
-    "alternate_names": [""],
+    "alternate_names": [],
     "species": "human",
     "gender": "male",
     "house": "Slytherin",
@@ -451,7 +451,7 @@
   },
   {
     "name": "Kingsley Shacklebolt",
-    "alternate_names": [""],
+    "alternate_names": [],
     "species": "human",
     "gender": "male",
     "house": "",
@@ -476,7 +476,7 @@
   },
   {
     "name": "Dolores Umbridge",
-    "alternate_names": [""],
+    "alternate_names": [],
     "species": "human",
     "gender": "female",
     "house": "Slytherin",
@@ -501,7 +501,7 @@
   },
   {
     "name": "Lucius Malfoy",
-    "alternate_names": [""],
+    "alternate_names": [],
     "species": "human",
     "gender": "male",
     "house": "Slytherin",
@@ -526,7 +526,7 @@
   },
   {
     "name": "Vincent Crabbe",
-    "alternate_names": [""],
+    "alternate_names": [],
     "species": "human",
     "gender": "male",
     "house": "Slytherin",
@@ -551,7 +551,7 @@
   },
   {
     "name": "Gregory Goyle",
-    "alternate_names": [""],
+    "alternate_names": [],
     "species": "human",
     "gender": "male",
     "house": "Slytherin",
@@ -576,7 +576,7 @@
   },
   {
     "name": "Mrs Norris",
-    "alternate_names": [""],
+    "alternate_names": [],
     "species": "cat",
     "gender": "female",
     "house": "",
@@ -601,7 +601,7 @@
   },
   {
     "name": "Argus Filch",
-    "alternate_names": [""],
+    "alternate_names": [],
     "species": "human",
     "gender": "male",
     "house": "",
@@ -626,7 +626,7 @@
   },
   {
     "name": "Vernon Dursley",
-    "alternate_names": [""],
+    "alternate_names": [],
     "species": "human",
     "gender": "male",
     "house": "",
@@ -651,7 +651,7 @@
   },
   {
     "name": "Petunia Dursley",
-    "alternate_names": [""],
+    "alternate_names": [],
     "species": "human",
     "gender": "female",
     "house": "",
@@ -676,7 +676,7 @@
   },
   {
     "name": "Dudley Dursley",
-    "alternate_names": [""],
+    "alternate_names": [],
     "species": "human",
     "gender": "male",
     "house": "",
@@ -701,7 +701,7 @@
   },
   {
     "name": "Lily Potter",
-    "alternate_names": [""],
+    "alternate_names": [],
     "species": "human",
     "gender": "female",
     "house": "Gryffindor",
@@ -726,7 +726,7 @@
   },
   {
     "name": "James Potter",
-    "alternate_names": [""],
+    "alternate_names": [],
     "species": "human",
     "gender": "male",
     "house": "Gryffindor",
@@ -751,7 +751,7 @@
   },
   {
     "name": "Albus Dumbledore",
-    "alternate_names": [""],
+    "alternate_names": [],
     "species": "human",
     "gender": "male",
     "house": "Gryffindor",
@@ -776,7 +776,7 @@
   },
   {
     "name": "Dedalus Diggle",
-    "alternate_names": [""],
+    "alternate_names": [],
     "species": "human",
     "gender": "male",
     "house": "",
@@ -881,7 +881,7 @@
   },
   {
     "name": "Yvonne",
-    "alternate_names": [""],
+    "alternate_names": [],
     "species": "human",
     "gender": "female",
     "house": "",
@@ -906,7 +906,7 @@
   },
   {
     "name": "Piers Polkiss",
-    "alternate_names": [""],
+    "alternate_names": [],
     "species": "human",
     "gender": "male",
     "house": "",
@@ -931,7 +931,7 @@
   },
   {
     "name": "Dennis",
-    "alternate_names": [""],
+    "alternate_names": [],
     "species": "human",
     "gender": "male",
     "house": "",
@@ -956,7 +956,7 @@
   },
   {
     "name": "Malcolm",
-    "alternate_names": [""],
+    "alternate_names": [],
     "species": "human",
     "gender": "male",
     "house": "",
@@ -981,7 +981,7 @@
   },
   {
     "name": "Gordon",
-    "alternate_names": [""],
+    "alternate_names": [],
     "species": "human",
     "gender": "male",
     "house": "",
@@ -1006,7 +1006,7 @@
   },
   {
     "name": "Miranda Gaushawk",
-    "alternate_names": [""],
+    "alternate_names": [],
     "species": "human",
     "gender": "female",
     "house": "",
@@ -1031,7 +1031,7 @@
   },
   {
     "name": "Bathilda Bagshot",
-    "alternate_names": [""],
+    "alternate_names": [],
     "species": "human",
     "gender": "female",
     "house": "",
@@ -1056,7 +1056,7 @@
   },
   {
     "name": "Adalbert Waffling",
-    "alternate_names": [""],
+    "alternate_names": [],
     "species": "human",
     "gender": "male",
     "house": "",
@@ -1081,7 +1081,7 @@
   },
   {
     "name": "Emeric Switch",
-    "alternate_names": [""],
+    "alternate_names": [],
     "species": "human",
     "gender": "male",
     "house": "",
@@ -1131,7 +1131,7 @@
   },
   {
     "name": "Arsenius Jigger",
-    "alternate_names": [""],
+    "alternate_names": [],
     "species": "human",
     "gender": "male",
     "house": "",
@@ -1181,7 +1181,7 @@
   },
   {
     "name": "Quentin Trimble",
-    "alternate_names": [""],
+    "alternate_names": [],
     "species": "human",
     "gender": "male",
     "house": "",
@@ -1206,7 +1206,7 @@
   },
   {
     "name": "Tom",
-    "alternate_names": [""],
+    "alternate_names": [],
     "species": "human",
     "gender": "male",
     "house": "",
@@ -1231,7 +1231,7 @@
   },
   {
     "name": "Doris Crockford",
-    "alternate_names": [""],
+    "alternate_names": [],
     "species": "human",
     "gender": "female",
     "house": "",
@@ -1281,7 +1281,7 @@
   },
   {
     "name": "Griphook",
-    "alternate_names": [""],
+    "alternate_names": [],
     "species": "goblin",
     "gender": "male",
     "house": "",
@@ -1306,7 +1306,7 @@
   },
   {
     "name": "Madam Malkin",
-    "alternate_names": [""],
+    "alternate_names": [],
     "species": "human",
     "gender": "female",
     "house": "",
@@ -1331,7 +1331,7 @@
   },
   {
     "name": "Vindictus Viridian",
-    "alternate_names": [""],
+    "alternate_names": [],
     "species": "human",
     "gender": "male",
     "house": "",
@@ -1356,7 +1356,7 @@
   },
   {
     "name": "Garrick Ollivander",
-    "alternate_names": [""],
+    "alternate_names": [],
     "species": "human",
     "gender": "male",
     "house": "",
@@ -1381,7 +1381,7 @@
   },
   {
     "name": "Hedwig",
-    "alternate_names": [""],
+    "alternate_names": [],
     "species": "owl",
     "gender": "female",
     "house": "",
@@ -1464,7 +1464,7 @@
   },
   {
     "name": "Fred Weasley",
-    "alternate_names": [""],
+    "alternate_names": [],
     "species": "human",
     "gender": "male",
     "house": "Gryffindor",
@@ -1489,7 +1489,7 @@
   },
   {
     "name": "George Weasley",
-    "alternate_names": [""],
+    "alternate_names": [],
     "species": "human",
     "gender": "male",
     "house": "Gryffindor",
@@ -1514,7 +1514,7 @@
   },
   {
     "name": "Lee Jordan",
-    "alternate_names": [""],
+    "alternate_names": [],
     "species": "human",
     "gender": "male",
     "house": "Gryffindor",
@@ -1589,7 +1589,7 @@
   },
   {
     "name": "Fat Friar",
-    "alternate_names": [""],
+    "alternate_names": [],
     "species": "ghost",
     "gender": "male",
     "house": "Hufflepuff",
@@ -1614,7 +1614,7 @@
   },
   {
     "name": "Peeves",
-    "alternate_names": [""],
+    "alternate_names": [],
     "species": "poltergeist",
     "gender": "male",
     "house": "",
@@ -1639,7 +1639,7 @@
   },
   {
     "name": "Hannah Abbott",
-    "alternate_names": [""],
+    "alternate_names": [],
     "species": "human",
     "gender": "female",
     "house": "Hufflepuff",
@@ -1664,7 +1664,7 @@
   },
   {
     "name": "Susan Bones",
-    "alternate_names": [""],
+    "alternate_names": [],
     "species": "human",
     "gender": "female",
     "house": "Hufflepuff",
@@ -1689,7 +1689,7 @@
   },
   {
     "name": "Terry Boot",
-    "alternate_names": [""],
+    "alternate_names": [],
     "species": "human",
     "gender": "male",
     "house": "Ravenclaw",
@@ -1714,7 +1714,7 @@
   },
   {
     "name": "Mandy Brocklehurst",
-    "alternate_names": [""],
+    "alternate_names": [],
     "species": "human",
     "gender": "female",
     "house": "Ravenclaw",
@@ -1739,7 +1739,7 @@
   },
   {
     "name": "Lavender Brown",
-    "alternate_names": [""],
+    "alternate_names": [],
     "species": "human",
     "gender": "female",
     "house": "Gryffindor",
@@ -1764,7 +1764,7 @@
   },
   {
     "name": "Millicent Bulstrode",
-    "alternate_names": [""],
+    "alternate_names": [],
     "species": "human",
     "gender": "female",
     "house": "Slytherin",
@@ -1789,7 +1789,7 @@
   },
   {
     "name": "Justin Finch-Fletchley",
-    "alternate_names": [""],
+    "alternate_names": [],
     "species": "human",
     "gender": "male",
     "house": "Hufflepuff",
@@ -1839,7 +1839,7 @@
   },
   {
     "name": "Morag MacDougal",
-    "alternate_names": [""],
+    "alternate_names": [],
     "species": "human",
     "gender": "female",
     "house": "",
@@ -1864,7 +1864,7 @@
   },
   {
     "name": "Lily Moon",
-    "alternate_names": [""],
+    "alternate_names": [],
     "species": "human",
     "gender": "female",
     "house": "",
@@ -1889,7 +1889,7 @@
   },
   {
     "name": "Theodore Nott",
-    "alternate_names": [""],
+    "alternate_names": [],
     "species": "human",
     "gender": "male",
     "house": "Slytherin",
@@ -1914,7 +1914,7 @@
   },
   {
     "name": "Pansy Parkinson",
-    "alternate_names": [""],
+    "alternate_names": [],
     "species": "human",
     "gender": "female",
     "house": "Slytherin",
@@ -1939,7 +1939,7 @@
   },
   {
     "name": "Parvati Patil",
-    "alternate_names": [""],
+    "alternate_names": [],
     "species": "human",
     "gender": "female",
     "house": "Gryffindor",
@@ -1964,7 +1964,7 @@
   },
   {
     "name": "Padma Patil",
-    "alternate_names": [""],
+    "alternate_names": [],
     "species": "human",
     "gender": "female",
     "house": "Ravenclaw",
@@ -1989,7 +1989,7 @@
   },
   {
     "name": "Sally-Anne Perks",
-    "alternate_names": [""],
+    "alternate_names": [],
     "species": "human",
     "gender": "female",
     "house": "",
@@ -2014,7 +2014,7 @@
   },
   {
     "name": "Lisa Turpin",
-    "alternate_names": [""],
+    "alternate_names": [],
     "species": "human",
     "gender": "female",
     "house": "Ravenclaw",
@@ -2039,7 +2039,7 @@
   },
   {
     "name": "Blaise Zabini",
-    "alternate_names": [""],
+    "alternate_names": [],
     "species": "human",
     "gender": "male",
     "house": "Slytherin",
