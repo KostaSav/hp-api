@@ -7540,5 +7540,30 @@
     "alternate_actors": [],
     "alive": true,
     "image": ""
+  },
+  {
+    "name": "Magorian",
+    "alternate_names": [],
+    "species": "centaur",
+    "gender": "male",
+    "house": "",
+    "dateOfBirth": "",
+    "yearOfBirth": "",
+    "wizard": true,
+    "ancestry": "",
+    "eyeColour": "",
+    "hairColour": "black",
+    "wand": {
+      "wood": "",
+      "core": "",
+      "length": ""
+    },
+    "patronus": "",
+    "hogwartsStudent": false,
+    "hogwartsStaff": false,
+    "actor": "Michael Wildman",
+    "alternate_actors": [],
+    "alive": true,
+    "image": ""
   }
 ]
