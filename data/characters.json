@@ -20,7 +20,7 @@
     "hogwartsStudent": true,
     "hogwartsStaff": false,
     "actor": "Daniel Radcliffe",
-    "alternate_actors": [""],
+    "alternate_actors": [],
     "alive": true,
     "image": "http://hp-api.herokuapp.com/images/harry.jpg"
   },
@@ -45,7 +45,7 @@
     "hogwartsStudent": true,
     "hogwartsStaff": false,
     "actor": "Emma Watson",
-    "alternate_actors": [""],
+    "alternate_actors": [],
     "alive": true,
     "image": "http://hp-api.herokuapp.com/images/hermione.jpeg"
   },
@@ -70,7 +70,7 @@
     "hogwartsStudent": true,
     "hogwartsStaff": false,
     "actor": "Rupert Grint",
-    "alternate_actors": [""],
+    "alternate_actors": [],
     "alive": true,
     "image": "http://hp-api.herokuapp.com/images/ron.jpg"
   },
@@ -95,7 +95,7 @@
     "hogwartsStudent": true,
     "hogwartsStaff": false,
     "actor": "Tom Felton",
-    "alternate_actors": [""],
+    "alternate_actors": [],
     "alive": true,
     "image": "http://hp-api.herokuapp.com/images/draco.jpg"
   },
@@ -120,7 +120,7 @@
     "hogwartsStudent": false,
     "hogwartsStaff": true,
     "actor": "Dame Maggie Smith",
-    "alternate_actors": [""],
+    "alternate_actors": [],
     "alive": true,
     "image": "http://hp-api.herokuapp.com/images/mcgonagall.jpg"
   },
@@ -145,7 +145,7 @@
     "hogwartsStudent": true,
     "hogwartsStaff": false,
     "actor": "Robert Pattinson",
-    "alternate_actors": [""],
+    "alternate_actors": [],
     "alive": false,
     "image": "http://hp-api.herokuapp.com/images/cedric.png"
   },
@@ -170,7 +170,7 @@
     "hogwartsStudent": true,
     "hogwartsStaff": false,
     "actor": "Katie Leung",
-    "alternate_actors": [""],
+    "alternate_actors": [],
     "alive": true,
     "image": "http://hp-api.herokuapp.com/images/cho.jpg"
   },
@@ -195,7 +195,7 @@
     "hogwartsStudent": false,
     "hogwartsStaff": true,
     "actor": "Alan Rickman",
-    "alternate_actors": [""],
+    "alternate_actors": [],
     "alive": false,
     "image": "http://hp-api.herokuapp.com/images/snape.jpg"
   },
@@ -220,7 +220,7 @@
     "hogwartsStudent": false,
     "hogwartsStaff": true,
     "actor": "Robbie Coltrane",
-    "alternate_actors": [""],
+    "alternate_actors": [],
     "alive": true,
     "image": "http://hp-api.herokuapp.com/images/hagrid.png"
   },
@@ -245,7 +245,7 @@
     "hogwartsStudent": true,
     "hogwartsStaff": false,
     "actor": "Matthew Lewis",
-    "alternate_actors": [""],
+    "alternate_actors": [],
     "alive": true,
     "image": "http://hp-api.herokuapp.com/images/neville.jpg"
   },
@@ -270,7 +270,7 @@
     "hogwartsStudent": true,
     "hogwartsStaff": false,
     "actor": "Evanna Lynch",
-    "alternate_actors": [""],
+    "alternate_actors": [],
     "alive": true,
     "image": "http://hp-api.herokuapp.com/images/luna.jpg"
   },
@@ -295,7 +295,7 @@
     "hogwartsStudent": true,
     "hogwartsStaff": false,
     "actor": "Bonnie Wright",
-    "alternate_actors": [""],
+    "alternate_actors": [],
     "alive": true,
     "image": "http://hp-api.herokuapp.com/images/ginny.jpg"
   },
@@ -345,7 +345,7 @@
     "hogwartsStudent": false,
     "hogwartsStaff": true,
     "actor": "David Thewlis",
-    "alternate_actors": [""],
+    "alternate_actors": [],
     "alive": false,
     "image": "http://hp-api.herokuapp.com/images/lupin.jpg"
   },
@@ -370,13 +370,13 @@
     "hogwartsStudent": false,
     "hogwartsStaff": false,
     "actor": "Mark Williams",
-    "alternate_actors": [""],
+    "alternate_actors": [],
     "alive": true,
     "image": "http://hp-api.herokuapp.com/images/arthur.jpg"
   },
   {
     "name": "Bellatrix Lestrange",
-    "alternate_names": [],
+    "alternate_names": ["Bella"],
     "species": "human",
     "gender": "female",
     "house": "Slytherin",
@@ -395,7 +395,7 @@
     "hogwartsStudent": false,
     "hogwartsStaff": false,
     "actor": "Helena Bonham Carter",
-    "alternate_actors": [""],
+    "alternate_actors": [],
     "alive": false,
     "image": "http://hp-api.herokuapp.com/images/bellatrix.jpg"
   },
@@ -420,7 +420,7 @@
     "hogwartsStudent": false,
     "hogwartsStaff": false,
     "actor": "Ralph Fiennes",
-    "alternate_actors": [""],
+    "alternate_actors": [],
     "alive": false,
     "image": "http://hp-api.herokuapp.com/images/voldemort.jpg"
   },
@@ -445,7 +445,7 @@
     "hogwartsStudent": false,
     "hogwartsStaff": true,
     "actor": "Jim Broadbent",
-    "alternate_actors": [""],
+    "alternate_actors": [],
     "alive": true,
     "image": "http://hp-api.herokuapp.com/images/slughorn.JPG"
   },
@@ -470,7 +470,7 @@
     "hogwartsStudent": false,
     "hogwartsStaff": false,
     "actor": "George Harris",
-    "alternate_actors": [""],
+    "alternate_actors": [],
     "alive": true,
     "image": "http://hp-api.herokuapp.com/images/kingsley.jpg"
   },
@@ -495,7 +495,7 @@
     "hogwartsStudent": false,
     "hogwartsStaff": true,
     "actor": "Imelda Staunton",
-    "alternate_actors": [""],
+    "alternate_actors": [],
     "alive": true,
     "image": "http://hp-api.herokuapp.com/images/umbridge.jpg"
   },
@@ -520,7 +520,7 @@
     "hogwartsStudent": false,
     "hogwartsStaff": false,
     "actor": "Jason Isaacs",
-    "alternate_actors": [""],
+    "alternate_actors": [],
     "alive": true,
     "image": "http://hp-api.herokuapp.com/images/lucius.jpg"
   },
@@ -545,7 +545,7 @@
     "hogwartsStudent": true,
     "hogwartsStaff": false,
     "actor": "Jamie Waylett",
-    "alternate_actors": [""],
+    "alternate_actors": [],
     "alive": false,
     "image": "http://hp-api.herokuapp.com/images/crabbe.jpg"
   },
@@ -570,7 +570,7 @@
     "hogwartsStudent": true,
     "hogwartsStaff": false,
     "actor": "Josh Herdman",
-    "alternate_actors": [""],
+    "alternate_actors": [],
     "alive": true,
     "image": "http://hp-api.herokuapp.com/images/goyle.jpg"
   },
@@ -595,7 +595,7 @@
     "hogwartsStudent": false,
     "hogwartsStaff": true,
     "actor": "Maxime, Alanis and Tommy the cats",
-    "alternate_actors": [""],
+    "alternate_actors": [],
     "alive": true,
     "image": "http://hp-api.herokuapp.com/images/norris.JPG"
   },
@@ -620,7 +620,7 @@
     "hogwartsStudent": false,
     "hogwartsStaff": true,
     "actor": "David Bradley",
-    "alternate_actors": [""],
+    "alternate_actors": [],
     "alive": true,
     "image": "http://hp-api.herokuapp.com/images/filch.jpg"
   },
@@ -645,7 +645,7 @@
     "hogwartsStudent": false,
     "hogwartsStaff": false,
     "actor": "Richard Griffiths",
-    "alternate_actors": [""],
+    "alternate_actors": [],
     "alive": true,
     "image": ""
   },
@@ -670,7 +670,7 @@
     "hogwartsStudent": false,
     "hogwartsStaff": false,
     "actor": "Fiona Shaw",
-    "alternate_actors": [""],
+    "alternate_actors": [],
     "alive": true,
     "image": ""
   },
@@ -695,7 +695,7 @@
     "hogwartsStudent": false,
     "hogwartsStaff": false,
     "actor": "Harry Melling",
-    "alternate_actors": [""],
+    "alternate_actors": [],
     "alive": true,
     "image": ""
   },
@@ -720,7 +720,7 @@
     "hogwartsStudent": false,
     "hogwartsStaff": false,
     "actor": "Geraldine Somerville",
-    "alternate_actors": [""],
+    "alternate_actors": [],
     "alive": false,
     "image": ""
   },
@@ -745,7 +745,7 @@
     "hogwartsStudent": false,
     "hogwartsStaff": false,
     "actor": "Adrian Rawlins",
-    "alternate_actors": [""],
+    "alternate_actors": [],
     "alive": false,
     "image": ""
   },
@@ -795,7 +795,7 @@
     "hogwartsStudent": false,
     "hogwartsStaff": false,
     "actor": "David Brett",
-    "alternate_actors": [""],
+    "alternate_actors": [],
     "alive": true,
     "image": ""
   },
@@ -820,7 +820,7 @@
     "hogwartsStudent": false,
     "hogwartsStaff": true,
     "actor": "Gemma Jones",
-    "alternate_actors": [""],
+    "alternate_actors": [],
     "alive": true,
     "image": ""
   },
@@ -845,7 +845,7 @@
     "hogwartsStudent": false,
     "hogwartsStaff": false,
     "actor": "Kathryn Hunter",
-    "alternate_actors": [""],
+    "alternate_actors": [],
     "alive": true,
     "image": ""
   },
@@ -875,7 +875,7 @@
     "hogwartsStudent": false,
     "hogwartsStaff": false,
     "actor": "Pam Ferris",
-    "alternate_actors": [""],
+    "alternate_actors": [],
     "alive": true,
     "image": ""
   },
@@ -900,7 +900,7 @@
     "hogwartsStudent": false,
     "hogwartsStaff": false,
     "actor": "",
-    "alternate_actors": [""],
+    "alternate_actors": [],
     "alive": true,
     "image": ""
   },
@@ -925,7 +925,7 @@
     "hogwartsStudent": false,
     "hogwartsStaff": false,
     "actor": "Jason Boyd",
-    "alternate_actors": [""],
+    "alternate_actors": [],
     "alive": true,
     "image": ""
   },
@@ -950,7 +950,7 @@
     "hogwartsStudent": false,
     "hogwartsStaff": false,
     "actor": "Christopher Rithin",
-    "alternate_actors": [""],
+    "alternate_actors": [],
     "alive": true,
     "image": ""
   },
@@ -975,7 +975,7 @@
     "hogwartsStudent": false,
     "hogwartsStaff": false,
     "actor": "Richard Macklin",
-    "alternate_actors": [""],
+    "alternate_actors": [],
     "alive": true,
     "image": ""
   },
@@ -1000,7 +1000,7 @@
     "hogwartsStudent": false,
     "hogwartsStaff": false,
     "actor": "",
-    "alternate_actors": [""],
+    "alternate_actors": [],
     "alive": true,
     "image": ""
   },
@@ -1025,7 +1025,7 @@
     "hogwartsStudent": false,
     "hogwartsStaff": false,
     "actor": "",
-    "alternate_actors": [""],
+    "alternate_actors": [],
     "alive": false,
     "image": ""
   },
@@ -1050,7 +1050,7 @@
     "hogwartsStudent": false,
     "hogwartsStaff": false,
     "actor": "",
-    "alternate_actors": [""],
+    "alternate_actors": [],
     "alive": false,
     "image": ""
   },
@@ -1075,7 +1075,7 @@
     "hogwartsStudent": false,
     "hogwartsStaff": false,
     "actor": "",
-    "alternate_actors": [""],
+    "alternate_actors": [],
     "alive": false,
     "image": ""
   },
@@ -1100,7 +1100,7 @@
     "hogwartsStudent": false,
     "hogwartsStaff": false,
     "actor": "",
-    "alternate_actors": [""],
+    "alternate_actors": [],
     "alive": false,
     "image": ""
   },
@@ -1125,7 +1125,7 @@
     "hogwartsStudent": false,
     "hogwartsStaff": false,
     "actor": "",
-    "alternate_actors": [""],
+    "alternate_actors": [],
     "alive": false,
     "image": ""
   },
@@ -1150,7 +1150,7 @@
     "hogwartsStudent": false,
     "hogwartsStaff": false,
     "actor": "",
-    "alternate_actors": [""],
+    "alternate_actors": [],
     "alive": false,
     "image": ""
   },
@@ -1200,7 +1200,7 @@
     "hogwartsStudent": false,
     "hogwartsStaff": false,
     "actor": "",
-    "alternate_actors": [""],
+    "alternate_actors": [],
     "alive": false,
     "image": ""
   },
@@ -1250,7 +1250,7 @@
     "hogwartsStudent": false,
     "hogwartsStaff": false,
     "actor": "Nina Young",
-    "alternate_actors": [""],
+    "alternate_actors": [],
     "alive": true,
     "image": ""
   },
@@ -1275,7 +1275,7 @@
     "hogwartsStudent": false,
     "hogwartsStaff": true,
     "actor": "Ian Hart",
-    "alternate_actors": [""],
+    "alternate_actors": [],
     "alive": false,
     "image": ""
   },
@@ -1325,7 +1325,7 @@
     "hogwartsStudent": false,
     "hogwartsStaff": false,
     "actor": "",
-    "alternate_actors": [""],
+    "alternate_actors": [],
     "alive": true,
     "image": ""
   },
@@ -1350,7 +1350,7 @@
     "hogwartsStudent": false,
     "hogwartsStaff": false,
     "actor": "",
-    "alternate_actors": [""],
+    "alternate_actors": [],
     "alive": false,
     "image": ""
   },
@@ -1375,7 +1375,7 @@
     "hogwartsStudent": false,
     "hogwartsStaff": false,
     "actor": "John Hurt",
-    "alternate_actors": [""],
+    "alternate_actors": [],
     "alive": true,
     "image": ""
   },
@@ -1414,7 +1414,7 @@
   },
   {
     "name": "Molly Weasley",
-    "alternate_names": ["Molly Prewett"],
+    "alternate_names": ["Molly Prewett", "Mollywabbles"],
     "species": "human",
     "gender": "female",
     "house": "Gryffindor",
@@ -1433,7 +1433,7 @@
     "hogwartsStudent": false,
     "hogwartsStaff": false,
     "actor": "Julie Walters",
-    "alternate_actors": [""],
+    "alternate_actors": [],
     "alive": true,
     "image": ""
   },
@@ -1458,7 +1458,7 @@
     "hogwartsStudent": true,
     "hogwartsStaff": false,
     "actor": "Chris Rankin",
-    "alternate_actors": [""],
+    "alternate_actors": [],
     "alive": true,
     "image": ""
   },
@@ -1483,7 +1483,7 @@
     "hogwartsStudent": true,
     "hogwartsStaff": false,
     "actor": "James Phelps",
-    "alternate_actors": [""],
+    "alternate_actors": [],
     "alive": false,
     "image": ""
   },
@@ -1508,7 +1508,7 @@
     "hogwartsStudent": true,
     "hogwartsStaff": false,
     "actor": "Oliver Phelps",
-    "alternate_actors": [""],
+    "alternate_actors": [],
     "alive": true,
     "image": ""
   },
@@ -1533,7 +1533,7 @@
     "hogwartsStudent": true,
     "hogwartsStaff": false,
     "actor": "Luke Youngblood",
-    "alternate_actors": [""],
+    "alternate_actors": [],
     "alive": true,
     "image": ""
   },
@@ -1583,7 +1583,7 @@
     "hogwartsStudent": false,
     "hogwartsStaff": false,
     "actor": "Alex Crockford",
-    "alternate_actors": [""],
+    "alternate_actors": [],
     "alive": true,
     "image": ""
   },
@@ -1608,7 +1608,7 @@
     "hogwartsStudent": false,
     "hogwartsStaff": false,
     "actor": "Simon Fisher-Becker",
-    "alternate_actors": [""],
+    "alternate_actors": [],
     "alive": false,
     "image": ""
   },
@@ -1633,7 +1633,7 @@
     "hogwartsStudent": false,
     "hogwartsStaff": false,
     "actor": "",
-    "alternate_actors": [""],
+    "alternate_actors": [],
     "alive": false,
     "image": ""
   },
@@ -1708,7 +1708,7 @@
     "hogwartsStudent": true,
     "hogwartsStaff": false,
     "actor": "Kevin Lee Yi",
-    "alternate_actors": [""],
+    "alternate_actors": [],
     "alive": true,
     "image": ""
   },
@@ -1733,7 +1733,7 @@
     "hogwartsStudent": true,
     "hogwartsStaff": false,
     "actor": "Christina Petrou",
-    "alternate_actors": [""],
+    "alternate_actors": [],
     "alive": true,
     "image": ""
   },
@@ -1783,7 +1783,7 @@
     "hogwartsStudent": true,
     "hogwartsStaff": false,
     "actor": "Helen Stuart",
-    "alternate_actors": [""],
+    "alternate_actors": [],
     "alive": true,
     "image": ""
   },
@@ -1808,7 +1808,7 @@
     "hogwartsStudent": true,
     "hogwartsStaff": false,
     "actor": "Edward Randell",
-    "alternate_actors": [""],
+    "alternate_actors": [],
     "alive": true,
     "image": ""
   },
@@ -1833,7 +1833,7 @@
     "hogwartsStudent": true,
     "hogwartsStaff": false,
     "actor": "Devon Murray",
-    "alternate_actors": [""],
+    "alternate_actors": [],
     "alive": true,
     "image": ""
   },
@@ -1858,7 +1858,7 @@
     "hogwartsStudent": true,
     "hogwartsStaff": false,
     "actor": "",
-    "alternate_actors": [""],
+    "alternate_actors": [],
     "alive": true,
     "image": ""
   },
@@ -1883,7 +1883,7 @@
     "hogwartsStudent": true,
     "hogwartsStaff": false,
     "actor": "",
-    "alternate_actors": [""],
+    "alternate_actors": [],
     "alive": true,
     "image": ""
   },
@@ -1908,7 +1908,7 @@
     "hogwartsStudent": true,
     "hogwartsStaff": false,
     "actor": "",
-    "alternate_actors": [""],
+    "alternate_actors": [],
     "alive": true,
     "image": ""
   },
@@ -2008,7 +2008,7 @@
     "hogwartsStudent": true,
     "hogwartsStaff": false,
     "actor": "",
-    "alternate_actors": [""],
+    "alternate_actors": [],
     "alive": true,
     "image": ""
   },
@@ -2033,7 +2033,7 @@
     "hogwartsStudent": true,
     "hogwartsStaff": false,
     "actor": "",
-    "alternate_actors": [""],
+    "alternate_actors": [],
     "alive": true,
     "image": ""
   },
@@ -2058,7 +2058,7 @@
     "hogwartsStudent": true,
     "hogwartsStaff": false,
     "actor": "Louis Cordice",
-    "alternate_actors": [""],
+    "alternate_actors": [],
     "alive": true,
     "image": ""
   },
@@ -2087,7 +2087,7 @@
     "hogwartsStudent": false,
     "hogwartsStaff": false,
     "actor": "John Cleese",
-    "alternate_actors": [""],
+    "alternate_actors": [],
     "alive": false,
     "image": ""
   },
@@ -2112,7 +2112,7 @@
     "hogwartsStudent": false,
     "hogwartsStaff": false,
     "actor": "Terence Bayler",
-    "alternate_actors": [""],
+    "alternate_actors": [],
     "alive": false,
     "image": ""
   },
@@ -3718,7 +3718,7 @@
   },
   {
     "name": "Buckbeak",
-    "alternate_names": ["Beaky"],
+    "alternate_names": ["Beaky", "Witherwings"],
     "species": "hippogriff",
     "gender": "male",
     "house": "",
@@ -7562,6 +7562,256 @@
     "hogwartsStudent": false,
     "hogwartsStaff": false,
     "actor": "Michael Wildman",
+    "alternate_actors": [],
+    "alive": true,
+    "image": ""
+  },
+  {
+    "name": "Emmeline Vance",
+    "alternate_names": [],
+    "species": "human",
+    "gender": "female",
+    "house": "",
+    "dateOfBirth": "",
+    "yearOfBirth": "",
+    "wizard": true,
+    "ancestry": "",
+    "eyeColour": "",
+    "hairColour": "",
+    "wand": {
+      "wood": "",
+      "core": "",
+      "length": ""
+    },
+    "patronus": "",
+    "hogwartsStudent": false,
+    "hogwartsStaff": false,
+    "actor": "Brigitte Millar",
+    "alternate_actors": [],
+    "alive": false,
+    "image": ""
+  },
+  {
+    "name": "Herbert Chorley",
+    "alternate_names": [],
+    "species": "human",
+    "gender": "male",
+    "house": "",
+    "dateOfBirth": "",
+    "yearOfBirth": "",
+    "wizard": false,
+    "ancestry": "muggle",
+    "eyeColour": "",
+    "hairColour": "",
+    "wand": {
+      "wood": "",
+      "core": "",
+      "length": ""
+    },
+    "patronus": "",
+    "hogwartsStudent": false,
+    "hogwartsStaff": false,
+    "actor": "",
+    "alternate_actors": [],
+    "alive": true,
+    "image": ""
+  },
+  {
+    "name": "Rufus Scrimgeour",
+    "alternate_names": [],
+    "species": "human",
+    "gender": "male",
+    "house": "",
+    "dateOfBirth": "",
+    "yearOfBirth": "",
+    "wizard": true,
+    "ancestry": "",
+    "eyeColour": "yellowish",
+    "hairColour": "tawny",
+    "wand": {
+      "wood": "",
+      "core": "",
+      "length": ""
+    },
+    "patronus": "",
+    "hogwartsStudent": false,
+    "hogwartsStaff": false,
+    "actor": "Bill Nighy",
+    "alternate_actors": [],
+    "alive": false,
+    "image": ""
+  },
+  {
+    "name": "Corban Yaxley",
+    "alternate_names": [],
+    "species": "human",
+    "gender": "male",
+    "house": "",
+    "dateOfBirth": "",
+    "yearOfBirth": "",
+    "wizard": true,
+    "ancestry": "",
+    "eyeColour": "blue",
+    "hairColour": "blond",
+    "wand": {
+      "wood": "",
+      "core": "",
+      "length": ""
+    },
+    "patronus": "",
+    "hogwartsStudent": false,
+    "hogwartsStaff": false,
+    "actor": "Peter Mullan",
+    "alternate_actors": [],
+    "alive": true,
+    "image": ""
+  },
+  {
+    "name": "Fenrir Greyback",
+    "alternate_names": [],
+    "species": "werewolf",
+    "gender": "male",
+    "house": "",
+    "dateOfBirth": "",
+    "yearOfBirth": "",
+    "wizard": true,
+    "ancestry": "",
+    "eyeColour": "",
+    "hairColour": "grey",
+    "wand": {
+      "wood": "",
+      "core": "",
+      "length": ""
+    },
+    "patronus": "",
+    "hogwartsStudent": false,
+    "hogwartsStaff": false,
+    "actor": "Dave Legeno",
+    "alternate_actors": [],
+    "alive": true,
+    "image": ""
+  },
+  {
+    "name": "Dirk Cresswell",
+    "alternate_names": [],
+    "species": "human",
+    "gender": "male",
+    "house": "",
+    "dateOfBirth": "",
+    "yearOfBirth": "",
+    "wizard": true,
+    "ancestry": "muggleborn",
+    "eyeColour": "",
+    "hairColour": "",
+    "wand": {
+      "wood": "",
+      "core": "",
+      "length": ""
+    },
+    "patronus": "",
+    "hogwartsStudent": false,
+    "hogwartsStaff": false,
+    "actor": "",
+    "alternate_actors": [],
+    "alive": false,
+    "image": ""
+  },
+  {
+    "name": "Barnabas Cuffe",
+    "alternate_names": [],
+    "species": "human",
+    "gender": "male",
+    "house": "",
+    "dateOfBirth": "",
+    "yearOfBirth": "",
+    "wizard": true,
+    "ancestry": "",
+    "eyeColour": "",
+    "hairColour": "",
+    "wand": {
+      "wood": "",
+      "core": "",
+      "length": ""
+    },
+    "patronus": "",
+    "hogwartsStudent": false,
+    "hogwartsStaff": false,
+    "actor": "Roger C. Bailey",
+    "alternate_actors": [],
+    "alive": true,
+    "image": ""
+  },
+  {
+    "name": "Ambrosius Flume",
+    "alternate_names": [],
+    "species": "human",
+    "gender": "male",
+    "house": "",
+    "dateOfBirth": "",
+    "yearOfBirth": "",
+    "wizard": true,
+    "ancestry": "",
+    "eyeColour": "",
+    "hairColour": "bald",
+    "wand": {
+      "wood": "",
+      "core": "",
+      "length": ""
+    },
+    "patronus": "",
+    "hogwartsStudent": false,
+    "hogwartsStaff": false,
+    "actor": "",
+    "alternate_actors": [],
+    "alive": true,
+    "image": ""
+  },
+  {
+    "name": "Gwenog Jones",
+    "alternate_names": [],
+    "species": "human",
+    "gender": "female",
+    "house": "",
+    "dateOfBirth": "",
+    "yearOfBirth": "",
+    "wizard": true,
+    "ancestry": "",
+    "eyeColour": "brown",
+    "hairColour": "brown",
+    "wand": {
+      "wood": "",
+      "core": "",
+      "length": ""
+    },
+    "patronus": "",
+    "hogwartsStudent": false,
+    "hogwartsStaff": false,
+    "actor": "",
+    "alternate_actors": [],
+    "alive": true,
+    "image": ""
+  },
+  {
+    "name": "Arkie Philpott",
+    "alternate_names": [],
+    "species": "human",
+    "gender": "male",
+    "house": "",
+    "dateOfBirth": "",
+    "yearOfBirth": "",
+    "wizard": true,
+    "ancestry": "",
+    "eyeColour": "",
+    "hairColour": "",
+    "wand": {
+      "wood": "",
+      "core": "",
+      "length": ""
+    },
+    "patronus": "",
+    "hogwartsStudent": false,
+    "hogwartsStaff": false,
+    "actor": "",
     "alternate_actors": [],
     "alive": true,
     "image": ""
