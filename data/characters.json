@@ -1,4 +1,5 @@
-[
+{ 
+  "characters" : [
   {
     "name": "Harry Potter",
     "alternate_names": [],
@@ -8817,3 +8818,4 @@
     "image": ""
   }
 ]
+}
