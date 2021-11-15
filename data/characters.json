@@ -1896,7 +1896,7 @@
     "dateOfBirth": "",
     "yearOfBirth": "",
     "wizard": true,
-    "ancestry": "",
+    "ancestry": "pure-blood",
     "eyeColour": "",
     "hairColour": "",
     "wand": {
@@ -7176,31 +7176,6 @@
     "yearOfBirth": "",
     "wizard": true,
     "ancestry": "",
-    "eyeColour": "",
-    "hairColour": "",
-    "wand": {
-      "wood": "",
-      "core": "",
-      "length": ""
-    },
-    "patronus": "",
-    "hogwartsStudent": true,
-    "hogwartsStaff": false,
-    "actor": "",
-    "alternate_actors": [],
-    "alive": true,
-    "image": ""
-  },
-  {
-    "name": "Theodore Nott",
-    "alternate_names": [],
-    "species": "human",
-    "gender": "male",
-    "house": "Slythetin",
-    "dateOfBirth": "",
-    "yearOfBirth": "",
-    "wizard": true,
-    "ancestry": "pure-blood",
     "eyeColour": "",
     "hairColour": "",
     "wand": {
