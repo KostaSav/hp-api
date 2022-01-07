@@ -1106,7 +1106,7 @@
   },
   {
     "name": "Phyllida Spore",
-    "alternate_names": "Dame Phyllida Spore",
+    "alternate_names": ["Dame Phyllida Spore"],
     "species": "human",
     "gender": "female",
     "house": "",
