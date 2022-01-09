@@ -8309,7 +8309,7 @@
       "length": ""
     },
     "patronus": "",
-    "hogwartsStudent": true,
+    "hogwartsStudent": false,
     "hogwartsStaff": false,
     "actor": "",
     "alternate_actors": [],
@@ -8334,7 +8334,7 @@
       "length": ""
     },
     "patronus": "",
-    "hogwartsStudent": true,
+    "hogwartsStudent": false,
     "hogwartsStaff": false,
     "actor": "",
     "alternate_actors": [],
