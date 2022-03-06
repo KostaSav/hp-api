@@ -775,31 +775,6 @@
     "image": ""
   },
   {
-    "name": "Dedalus Diggle",
-    "alternate_names": [],
-    "species": "human",
-    "gender": "male",
-    "house": "",
-    "dateOfBirth": "",
-    "yearOfBirth": "",
-    "wizard": true,
-    "ancestry": "",
-    "eyeColour": "",
-    "hairColour": "",
-    "wand": {
-      "wood": "",
-      "core": "",
-      "length": ""
-    },
-    "patronus": "",
-    "hogwartsStudent": false,
-    "hogwartsStaff": false,
-    "actor": "David Brett",
-    "alternate_actors": [],
-    "alive": true,
-    "image": ""
-  },
-  {
     "name": "Madam Pomfrey",
     "alternate_names": ["Poppy Pomfrey"],
     "species": "human",
@@ -5467,31 +5442,6 @@
     "image": ""
   },
   {
-    "name": "Rodolphus Lestrange",
-    "alternate_names": [],
-    "species": "human",
-    "gender": "male",
-    "house": "Slytherin",
-    "dateOfBirth": "",
-    "yearOfBirth": "",
-    "wizard": true,
-    "ancestry": "pure-blood",
-    "eyeColour": "",
-    "hairColour": "",
-    "wand": {
-      "wood": "",
-      "core": "",
-      "length": ""
-    },
-    "patronus": "",
-    "hogwartsStudent": false,
-    "hogwartsStaff": false,
-    "actor": "",
-    "alternate_actors": [],
-    "alive": true,
-    "image": ""
-  },
-  {
     "name": "Avery",
     "alternate_names": [],
     "species": "human",
@@ -5864,31 +5814,6 @@
     "actor": "David Brett",
     "alternate_actors": [],
     "alive": true,
-    "image": ""
-  },
-  {
-    "name": "Emmeline Vance",
-    "alternate_names": [],
-    "species": "human",
-    "gender": "female",
-    "house": "",
-    "dateOfBirth": "",
-    "yearOfBirth": "",
-    "wizard": true,
-    "ancestry": "",
-    "eyeColour": "",
-    "hairColour": "",
-    "wand": {
-      "wood": "",
-      "core": "",
-      "length": ""
-    },
-    "patronus": "",
-    "hogwartsStudent": false,
-    "hogwartsStaff": false,
-    "actor": "Brigitte Millar",
-    "alternate_actors": [],
-    "alive": false,
     "image": ""
   },
   {
