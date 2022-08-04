@@ -3,6 +3,7 @@ var app = express();
 var path = require('path');
 var fs = require('fs');
 var CHARACTERS_JSON = path.join(__dirname, 'data/characters.json');
+var SPELLS_JSON = path.join(__dirname, 'data/spells.json');
 
 app.get('/', function(req,res) {
   res.sendfile('public/index.html');
@@ -58,6 +59,14 @@ app.get('/api/characters/house/:house', function(req, res){
     }
     res.setHeader('Access-Control-Allow-Origin', '*');
     res.json(house_array);
+  })
+})
+
+app.get('/api/spells', function(req, res){
+  fs.readFile(SPELLS_JSON, function(err, data){
+    if(err) process.exit(1);
+    res.setHeader('Access-Control-Allow-Origin', '*');
+    res.json(JSON.parse(data));
   })
 })
 
