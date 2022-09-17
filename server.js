@@ -3,29 +3,28 @@ var app = express();
 
 var characters = require('./data/characters.json')
 
-app.get('/', function(req,res) {
-  res.sendfile('public/index.html');
-});
+app.get('/', function(req, res) { res.sendfile('public/index.html'); });
 
-app.get('/api/characters', function(req, res){
+app.get('/api/characters', function(req, res) {
   res.setHeader('Access-Control-Allow-Origin', '*');
   res.json(characters);
 })
 
-app.get('/api/characters/students', function(req, res){
+app.get('/api/characters/students', function(req, res) {
   res.setHeader('Access-Control-Allow-Origin', '*');
   res.json(characters.filter(character => character.hogwartsStudent));
 })
 
-app.get('/api/characters/staff', function(req, res){
+app.get('/api/characters/staff', function(req, res) {
   res.setHeader('Access-Control-Allow-Origin', '*');
   res.json(characters.filter(character => character.hogwartsStaff));
 })
 
-app.get('/api/characters/house/:house', function(req, res){
+app.get('/api/characters/house/:house', function(req, res) {
   res.setHeader('Access-Control-Allow-Origin', '*');
   var house = req.params.house.toLowerCase();
-  res.json(characters.filter(character => character.house.toLowerCase() === house));
+  res.json(
+      characters.filter(character => character.house.toLowerCase() === house));
 })
 
 app.use(express.static('public'));
