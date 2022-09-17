@@ -1,64 +1,31 @@
 var express = require('express');
 var app = express();
-var path = require('path');
-var fs = require('fs');
-var CHARACTERS_JSON = path.join(__dirname, 'data/characters.json');
+
+var characters = require('./data/characters.json')
 
 app.get('/', function(req,res) {
   res.sendfile('public/index.html');
 });
 
 app.get('/api/characters', function(req, res){
-  fs.readFile(CHARACTERS_JSON, function(err, data){
-    if(err) process.exit(1);
-    res.setHeader('Access-Control-Allow-Origin', '*');
-    res.json(JSON.parse(data));
-  })
+  res.setHeader('Access-Control-Allow-Origin', '*');
+  res.json(characters);
 })
 
 app.get('/api/characters/students', function(req, res){
-  fs.readFile(CHARACTERS_JSON, function(err, data){
-    if(err) process.exit(1);
-    json = JSON.parse(data);
-    students_array = [];
-    for(character of json){
-      if(character.hogwartsStudent == true){
-      students_array.push(character);
-      }
-    }
-    res.setHeader('Access-Control-Allow-Origin', '*');
-    res.json(students_array);
-  })
+  res.setHeader('Access-Control-Allow-Origin', '*');
+  res.json(characters.filter(character => character.hogwartsStudent));
 })
 
 app.get('/api/characters/staff', function(req, res){
-  fs.readFile(CHARACTERS_JSON, function(err, data){
-    if(err) process.exit(1);
-    json = JSON.parse(data);
-    staff_array = [];
-    for(character of json){
-      if(character.hogwartsStaff == true){
-      staff_array.push(character);
-      }
-    }
-    res.setHeader('Access-Control-Allow-Origin', '*');
-    res.json(staff_array);
-  })
+  res.setHeader('Access-Control-Allow-Origin', '*');
+  res.json(characters.filter(character => character.hogwartsStaff));
 })
 
 app.get('/api/characters/house/:house', function(req, res){
-  fs.readFile(CHARACTERS_JSON, function(err, data){
-    if(err) process.exit(1);
-    json = JSON.parse(data);
-    house_array = [];
-    for(character of json){
-      if(character.house.toLowerCase() == req.params.house.toLowerCase()){
-      house_array.push(character);
-      }
-    }
-    res.setHeader('Access-Control-Allow-Origin', '*');
-    res.json(house_array);
-  })
+  res.setHeader('Access-Control-Allow-Origin', '*');
+  var house = req.params.house.toLowerCase();
+  res.json(characters.filter(character => character.house.toLowerCase() === house));
 })
 
 app.use(express.static('public'));
