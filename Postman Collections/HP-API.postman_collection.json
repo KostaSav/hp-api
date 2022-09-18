@@ -3,7 +3,8 @@
 		"_postman_id": "d22fb264-d54c-419f-b612-2637d9ccfe32",
 		"name": "HP-API",
 		"description": "# Introduction\nA simple JSON-based API for getting information on Harry Potter characters. Hosted at https://hp-api.herokuapp.com/\n\n# Overview\n* Using `GET All characters`, we can view everyone (people, animals, beasts) from the fantasy world of Harry Potter\n* Using `GET Hogwarts students` / `GET Hogwarts staff`, we can view characters who study or work at Hogwarts\n* Using `GET Characters in house`, we can view the particular characters who belong to one of the four houses (Gryffindor, Ravenclaw, Hufflepuff, Slytherin)\n\n# Authentication\nNo API key is required.\n\n# Error Codes\n* 404 Not Found: no path variable in `GET Characters in house`",
-		"schema": "https://schema.getpostman.com/json/collection/v2.0.0/collection.json"
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "16404714"
 	},
 	"item": [
 		{
@@ -12,7 +13,6 @@
 				{
 					"listen": "test",
 					"script": {
-						"id": "8bfd4590-f945-4516-b455-09750a28d8d6",
 						"exec": [
 							"var template = `\r",
 							"\r",
@@ -303,14 +303,19 @@
 					}
 				}
 			],
-			"_postman_id": "e6a31828-f853-4797-9048-f9401d0b9b4a",
-			"protocolProfileBehavior": {
-				"disableBodyPruning": true
-			},
 			"request": {
 				"method": "GET",
 				"header": [],
-				"url": "http://hp-api.herokuapp.com/api/characters",
+				"url": {
+					"raw": "{{heroku}}/api/characters",
+					"host": [
+						"{{heroku}}"
+					],
+					"path": [
+						"api",
+						"characters"
+					]
+				},
 				"description": "view all characters"
 			},
 			"response": []
@@ -321,7 +326,6 @@
 				{
 					"listen": "test",
 					"script": {
-						"id": "59e469aa-47c1-4d86-bea5-947eb45a3bfb",
 						"exec": [
 							"var template = `\r",
 							"\r",
@@ -612,14 +616,20 @@
 					}
 				}
 			],
-			"_postman_id": "62839813-7aa5-4eee-a6b7-c9f388bb7d0b",
-			"protocolProfileBehavior": {
-				"disableBodyPruning": true
-			},
 			"request": {
 				"method": "GET",
 				"header": [],
-				"url": "http://hp-api.herokuapp.com/api/characters/students",
+				"url": {
+					"raw": "{{heroku}}/api/characters/students",
+					"host": [
+						"{{heroku}}"
+					],
+					"path": [
+						"api",
+						"characters",
+						"students"
+					]
+				},
 				"description": "view all characters who are Hogwarts students during the book series"
 			},
 			"response": []
@@ -630,7 +640,6 @@
 				{
 					"listen": "test",
 					"script": {
-						"id": "cdcad1fb-f837-4505-b12f-6a6924c6ba05",
 						"exec": [
 							"var template = `\r",
 							"\r",
@@ -921,14 +930,20 @@
 					}
 				}
 			],
-			"_postman_id": "6b675a31-188c-4ee6-ba49-fe14685ade85",
-			"protocolProfileBehavior": {
-				"disableBodyPruning": true
-			},
 			"request": {
 				"method": "GET",
 				"header": [],
-				"url": "http://hp-api.herokuapp.com/api/characters/staff",
+				"url": {
+					"raw": "{{heroku}}/api/characters/staff",
+					"host": [
+						"{{heroku}}"
+					],
+					"path": [
+						"api",
+						"characters",
+						"staff"
+					]
+				},
 				"description": "view all characters who are Hogwarts staff during the book series"
 			},
 			"response": []
@@ -939,7 +954,6 @@
 				{
 					"listen": "test",
 					"script": {
-						"id": "347efeb1-1fa7-4708-be9a-0ca2199ef685",
 						"exec": [
 							"var template = `\r",
 							"\r",
@@ -1230,20 +1244,13 @@
 					}
 				}
 			],
-			"_postman_id": "4e6a3284-7e84-410e-bbac-c93ceeb25e61",
-			"protocolProfileBehavior": {
-				"disableBodyPruning": true
-			},
 			"request": {
 				"method": "GET",
 				"header": [],
 				"url": {
-					"raw": "http://hp-api.herokuapp.com/api/characters/house/:house",
-					"protocol": "http",
+					"raw": "{{heroku}}/api/characters/house/:house",
 					"host": [
-						"hp-api",
-						"herokuapp",
-						"com"
+						"{{heroku}}"
 					],
 					"path": [
 						"api",
@@ -1254,14 +1261,68 @@
 					"variable": [
 						{
 							"key": "house",
-							"value": "Slytherin",
-							"type": "string"
+							"value": "Slytherin"
 						}
 					]
 				},
 				"description": "view characters that belong to a specific Hogwarts house"
 			},
 			"response": []
+		},
+		{
+			"name": "Spells",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "{{heroku}}/api/spells",
+					"host": [
+						"{{heroku}}"
+					],
+					"path": [
+						"api",
+						"spells"
+					]
+				}
+			},
+			"response": []
+		}
+	],
+	"event": [
+		{
+			"listen": "prerequest",
+			"script": {
+				"type": "text/javascript",
+				"exec": [
+					""
+				]
+			}
+		},
+		{
+			"listen": "test",
+			"script": {
+				"type": "text/javascript",
+				"exec": [
+					""
+				]
+			}
+		}
+	],
+	"variable": [
+		{
+			"key": "local",
+			"value": "http://localhost:5000",
+			"type": "string"
+		},
+		{
+			"key": "heroku",
+			"value": "http://hp-api.herokuapp.com",
+			"type": "string"
+		},
+		{
+			"value": "",
+			"type": "string",
+			"disabled": true
 		}
 	]
 }
