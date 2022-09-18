@@ -2,7 +2,8 @@
 
 A JSON-based API for getting information on Harry Potter characters and spells. 
 
-Hosted at https://hp-api.herokuapp.com/
+Hosted at https://hp-api.herokuapp.com/ and https://hp-api.onrender.com/  
+(Heroku free hosting tier support ends on November 28, 2022, as announced [here](https://devcenter.heroku.com/changelog-items/2461))
 
 ## Postman Collections
 Download the .json file, import it  into Postman and use the [Visualizer feature](https://learning.postman.com/docs/sending-requests/visualizer/#viewing-visualizations), to view the characters as cards.
