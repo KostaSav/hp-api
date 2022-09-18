@@ -22,7 +22,7 @@
     "actor": "Daniel Radcliffe",
     "alternate_actors": [],
     "alive": true,
-    "image": "http://hp-api.herokuapp.com/images/harry.jpg"
+    "image": "https://hp-api.herokuapp.com/images/harry.jpg"
   },
   {
     "name": "Hermione Granger",
@@ -47,7 +47,7 @@
     "actor": "Emma Watson",
     "alternate_actors": [],
     "alive": true,
-    "image": "http://hp-api.herokuapp.com/images/hermione.jpeg"
+    "image": "https://hp-api.herokuapp.com/images/hermione.jpeg"
   },
   {
     "name": "Ron Weasley",
@@ -72,7 +72,7 @@
     "actor": "Rupert Grint",
     "alternate_actors": [],
     "alive": true,
-    "image": "http://hp-api.herokuapp.com/images/ron.jpg"
+    "image": "https://hp-api.herokuapp.com/images/ron.jpg"
   },
   {
     "name": "Draco Malfoy",
@@ -97,7 +97,7 @@
     "actor": "Tom Felton",
     "alternate_actors": [],
     "alive": true,
-    "image": "http://hp-api.herokuapp.com/images/draco.jpg"
+    "image": "https://hp-api.herokuapp.com/images/draco.jpg"
   },
   {
     "name": "Minerva McGonagall",
@@ -122,7 +122,7 @@
     "actor": "Dame Maggie Smith",
     "alternate_actors": [],
     "alive": true,
-    "image": "http://hp-api.herokuapp.com/images/mcgonagall.jpg"
+    "image": "https://hp-api.herokuapp.com/images/mcgonagall.jpg"
   },
   {
     "name": "Cedric Diggory",
@@ -147,7 +147,7 @@
     "actor": "Robert Pattinson",
     "alternate_actors": [],
     "alive": false,
-    "image": "http://hp-api.herokuapp.com/images/cedric.png"
+    "image": "https://hp-api.herokuapp.com/images/cedric.png"
   },
   {
     "name": "Cho Chang",
@@ -172,7 +172,7 @@
     "actor": "Katie Leung",
     "alternate_actors": [],
     "alive": true,
-    "image": "http://hp-api.herokuapp.com/images/cho.jpg"
+    "image": "https://hp-api.herokuapp.com/images/cho.jpg"
   },
   {
     "name": "Severus Snape",
@@ -197,7 +197,7 @@
     "actor": "Alan Rickman",
     "alternate_actors": [],
     "alive": false,
-    "image": "http://hp-api.herokuapp.com/images/snape.jpg"
+    "image": "https://hp-api.herokuapp.com/images/snape.jpg"
   },
   {
     "name": "Rubeus Hagrid",
@@ -222,7 +222,7 @@
     "actor": "Robbie Coltrane",
     "alternate_actors": [],
     "alive": true,
-    "image": "http://hp-api.herokuapp.com/images/hagrid.png"
+    "image": "https://hp-api.herokuapp.com/images/hagrid.png"
   },
   {
     "name": "Neville Longbottom",
@@ -247,7 +247,7 @@
     "actor": "Matthew Lewis",
     "alternate_actors": [],
     "alive": true,
-    "image": "http://hp-api.herokuapp.com/images/neville.jpg"
+    "image": "https://hp-api.herokuapp.com/images/neville.jpg"
   },
   {
     "name": "Luna Lovegood",
@@ -272,7 +272,7 @@
     "actor": "Evanna Lynch",
     "alternate_actors": [],
     "alive": true,
-    "image": "http://hp-api.herokuapp.com/images/luna.jpg"
+    "image": "https://hp-api.herokuapp.com/images/luna.jpg"
   },
   {
     "name": "Ginny Weasley",
@@ -297,7 +297,7 @@
     "actor": "Bonnie Wright",
     "alternate_actors": [],
     "alive": true,
-    "image": "http://hp-api.herokuapp.com/images/ginny.jpg"
+    "image": "https://hp-api.herokuapp.com/images/ginny.jpg"
   },
   {
     "name": "Sirius Black",
@@ -322,7 +322,7 @@
     "actor": "Gary Oldman",
     "alternate_actors": ["James Walters", "Rohan Gotobed"],
     "alive": false,
-    "image": "http://hp-api.herokuapp.com/images/sirius.JPG"
+    "image": "https://hp-api.herokuapp.com/images/sirius.JPG"
   },
   {
     "name": "Remus Lupin",
@@ -347,7 +347,7 @@
     "actor": "David Thewlis",
     "alternate_actors": [],
     "alive": false,
-    "image": "http://hp-api.herokuapp.com/images/lupin.jpg"
+    "image": "https://hp-api.herokuapp.com/images/lupin.jpg"
   },
   {
     "name": "Arthur Weasley",
@@ -372,7 +372,7 @@
     "actor": "Mark Williams",
     "alternate_actors": [],
     "alive": true,
-    "image": "http://hp-api.herokuapp.com/images/arthur.jpg"
+    "image": "https://hp-api.herokuapp.com/images/arthur.jpg"
   },
   {
     "name": "Bellatrix Lestrange",
@@ -397,7 +397,7 @@
     "actor": "Helena Bonham Carter",
     "alternate_actors": [],
     "alive": false,
-    "image": "http://hp-api.herokuapp.com/images/bellatrix.jpg"
+    "image": "https://hp-api.herokuapp.com/images/bellatrix.jpg"
   },
   {
     "name": "Lord Voldemort",
@@ -422,7 +422,7 @@
     "actor": "Ralph Fiennes",
     "alternate_actors": [],
     "alive": false,
-    "image": "http://hp-api.herokuapp.com/images/voldemort.jpg"
+    "image": "https://hp-api.herokuapp.com/images/voldemort.jpg"
   },
   {
     "name": "Horace Slughorn",
@@ -447,7 +447,7 @@
     "actor": "Jim Broadbent",
     "alternate_actors": [],
     "alive": true,
-    "image": "http://hp-api.herokuapp.com/images/slughorn.JPG"
+    "image": "https://hp-api.herokuapp.com/images/slughorn.JPG"
   },
   {
     "name": "Kingsley Shacklebolt",
@@ -472,7 +472,7 @@
     "actor": "George Harris",
     "alternate_actors": [],
     "alive": true,
-    "image": "http://hp-api.herokuapp.com/images/kingsley.jpg"
+    "image": "https://hp-api.herokuapp.com/images/kingsley.jpg"
   },
   {
     "name": "Dolores Umbridge",
@@ -497,7 +497,7 @@
     "actor": "Imelda Staunton",
     "alternate_actors": [],
     "alive": true,
-    "image": "http://hp-api.herokuapp.com/images/umbridge.jpg"
+    "image": "https://hp-api.herokuapp.com/images/umbridge.jpg"
   },
   {
     "name": "Lucius Malfoy",
@@ -522,7 +522,7 @@
     "actor": "Jason Isaacs",
     "alternate_actors": [],
     "alive": true,
-    "image": "http://hp-api.herokuapp.com/images/lucius.jpg"
+    "image": "https://hp-api.herokuapp.com/images/lucius.jpg"
   },
   {
     "name": "Vincent Crabbe",
@@ -547,7 +547,7 @@
     "actor": "Jamie Waylett",
     "alternate_actors": [],
     "alive": false,
-    "image": "http://hp-api.herokuapp.com/images/crabbe.jpg"
+    "image": "https://hp-api.herokuapp.com/images/crabbe.jpg"
   },
   {
     "name": "Gregory Goyle",
@@ -572,7 +572,7 @@
     "actor": "Josh Herdman",
     "alternate_actors": [],
     "alive": true,
-    "image": "http://hp-api.herokuapp.com/images/goyle.jpg"
+    "image": "https://hp-api.herokuapp.com/images/goyle.jpg"
   },
   {
     "name": "Mrs Norris",
@@ -597,7 +597,7 @@
     "actor": "Maxime, Alanis and Tommy the cats",
     "alternate_actors": [],
     "alive": true,
-    "image": "http://hp-api.herokuapp.com/images/norris.JPG"
+    "image": "https://hp-api.herokuapp.com/images/norris.JPG"
   },
   {
     "name": "Argus Filch",
@@ -622,7 +622,7 @@
     "actor": "David Bradley",
     "alternate_actors": [],
     "alive": true,
-    "image": "http://hp-api.herokuapp.com/images/filch.jpg"
+    "image": "https://hp-api.herokuapp.com/images/filch.jpg"
   },
   {
     "name": "Vernon Dursley",
