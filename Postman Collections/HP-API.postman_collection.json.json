@@ -12,7 +12,7 @@
 				{
 					"listen": "test",
 					"script": {
-						"id": "8bfd4590-f945-4516-b455-09750a28d8d6",
+						"id": "3a83a7ca-442e-4889-9632-7b8c5284daef",
 						"exec": [
 							"var template = `\r",
 							"\r",
@@ -44,12 +44,10 @@
 							"                        <div class=\"table-responsive\">\r",
 							"                        <table id=\"test\" class=\"table table-bordered table-hover\">\r",
 							"                            <tbody>\r",
-							"                                {{#if alternate_names}}\r",
 							"                                <tr>\r",
 							"                                    <td class=\"titles\">Alternate Names</td>\r",
 							"                                    <td class=\"text-center\" id =\"alt_names\">{{alternate_names}}</td>\r",
 							"                                </tr>\r",
-							"                                {{/if}}\r",
 							"                                <tr>\r",
 							"                                    <td class=\"titles\">Species</td>\r",
 							"                                    <td class=\"text-center\">{{species}}</td>\r",
@@ -303,7 +301,7 @@
 					}
 				}
 			],
-			"_postman_id": "e6a31828-f853-4797-9048-f9401d0b9b4a",
+			"id": "e6a31828-f853-4797-9048-f9401d0b9b4a",
 			"protocolProfileBehavior": {
 				"disableBodyPruning": true
 			},
@@ -612,7 +610,7 @@
 					}
 				}
 			],
-			"_postman_id": "62839813-7aa5-4eee-a6b7-c9f388bb7d0b",
+			"id": "62839813-7aa5-4eee-a6b7-c9f388bb7d0b",
 			"protocolProfileBehavior": {
 				"disableBodyPruning": true
 			},
@@ -921,7 +919,7 @@
 					}
 				}
 			],
-			"_postman_id": "6b675a31-188c-4ee6-ba49-fe14685ade85",
+			"id": "6b675a31-188c-4ee6-ba49-fe14685ade85",
 			"protocolProfileBehavior": {
 				"disableBodyPruning": true
 			},
@@ -1230,7 +1228,7 @@
 					}
 				}
 			],
-			"_postman_id": "4e6a3284-7e84-410e-bbac-c93ceeb25e61",
+			"id": "4e6a3284-7e84-410e-bbac-c93ceeb25e61",
 			"protocolProfileBehavior": {
 				"disableBodyPruning": true
 			},
@@ -1251,8 +1249,7 @@
 					"variable": [
 						{
 							"key": "house",
-							"value": "Slytherin",
-							"type": "string"
+							"value": "Slytherin"
 						}
 					]
 				},
@@ -1328,7 +1325,7 @@
 					}
 				}
 			],
-			"_postman_id": "eac406f4-1ddf-444e-938b-1ae33d494301",
+			"id": "eac406f4-1ddf-444e-938b-1ae33d494301",
 			"protocolProfileBehavior": {
 				"disableBodyPruning": true
 			},
@@ -1364,19 +1361,19 @@
 	],
 	"variable": [
 		{
-			"id": "5badf230-4c85-480e-990a-267b070e0c9b",
+			"id": "ec36e2bf-3d8e-4c14-a868-960c793fb42d",
 			"key": "local",
 			"value": "http://localhost:5000",
 			"type": "string"
 		},
 		{
-			"id": "d720a404-81a3-4e98-9696-383a47756689",
+			"id": "5aa488d7-1c9a-47e1-be89-28df45914996",
 			"key": "heroku",
 			"value": "http://hp-api.herokuapp.com",
 			"type": "string"
 		},
 		{
-			"id": "7d83e733-12b6-41e9-ac06-4e7e7d21fa0f",
+			"id": "f018b26d-233a-494e-856a-1f3526d8d643",
 			"key": "render",
 			"value": "https://hp-api.onrender.com",
 			"type": "string"
