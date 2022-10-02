@@ -1332,7 +1332,7 @@
 			"request": {
 				"method": "GET",
 				"header": [],
-				"url": "{{master}}/api/spells"
+				"url": "{{render}}/api/spells"
 			},
 			"response": []
 		}
@@ -1361,19 +1361,19 @@
 	],
 	"variable": [
 		{
-			"id": "4a27e5b7-1a67-4889-a5bb-d24a13572a83",
+			"id": "6ad87a0c-bbcc-4f5f-9e5f-aa67e522db68",
 			"key": "local",
 			"value": "http://localhost:5000",
 			"type": "string"
 		},
 		{
-			"id": "432fb34f-5c0b-4c53-9186-21e479ce1022",
+			"id": "2383594e-344e-47ab-a175-c51f312b0b2f",
 			"key": "heroku",
 			"value": "http://hp-api.herokuapp.com",
 			"type": "string"
 		},
 		{
-			"id": "805068b3-9274-4813-91b5-c9f1553bb535",
+			"id": "480040b8-b978-4911-9fa2-699539784481",
 			"key": "render",
 			"value": "https://hp-api.onrender.com",
 			"type": "string"
