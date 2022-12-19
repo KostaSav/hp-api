@@ -10,6 +10,6 @@ Hosted at https://hp-api.onrender.com/
 ![image](https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/001/604/818/datas/original.jpg)
 Based on the [submission](https://devpost.com/software/postman-visualization-harry-potter-api) for the DevPost hackathon: Visualize for the Prize.
 
-ALternatively, just press this button.
+Alternatively, just press the button :point_down:.
 
 [![Run in Postman](https://run.pstmn.io/button.svg)](https://app.getpostman.com/run-collection/24483733-50d72fab-4f6e-4544-a106-a347d0630abd?action=collection%2Ffork&collection-url=entityId%3D24483733-50d72fab-4f6e-4544-a106-a347d0630abd%26entityType%3Dcollection%26workspaceId%3D085999bd-03e7-4ed0-ac39-7cf8845da531)
