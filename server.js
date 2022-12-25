@@ -13,26 +13,23 @@ app.get("/", function (req, res) {
 });
 
 app.get("/api/characters", function (req, res) {
-  res.json(characters);
+  res.json("Please use the new route (https://hp-api.onrender.com/api/characters), as described here(https://hp-api.onrender.com/)");
 });
 
 app.get("/api/characters/students", function (req, res) {
-  res.json(characters.filter((character) => character.hogwartsStudent));
+  res.json("Please use the new route (https://hp-api.onrender.com/api/characters/students), as described here(https://hp-api.onrender.com/)");
 });
 
 app.get("/api/characters/staff", function (req, res) {
-  res.json(characters.filter((character) => character.hogwartsStaff));
+  res.json("Please use the new route (https://hp-api.onrender.com/api/characters/staff), as described here(https://hp-api.onrender.com/)");
 });
 
 app.get("/api/characters/house/:house", function (req, res) {
-  var house = req.params.house.toLowerCase();
-  res.json(
-    characters.filter((character) => character.house.toLowerCase() === house)
-  );
+  res.json("Please use the new route (https://hp-api.onrender.com/api/charactershouse/:house), as described here(https://hp-api.onrender.com/)")
 });
 
 app.get("/api/spells", function(req, res){
-  res.json(spells);
+  res.json("Please use the new route (https://hp-api.onrender.com/api/spells), as described here(https://hp-api.onrender.com/)");
 });
 
 app.use(express.static("public"));
