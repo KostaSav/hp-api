@@ -6845,32 +6845,6 @@
     "image": ""
   },
   {
-    "id": "28cd46ec-9b04-4467-beac-cf9ab3bcf5e9",
-    "name": "Stubby Boardman",
-    "alternate_names": [],
-    "species": "human",
-    "gender": "male",
-    "house": "",
-    "dateOfBirth": "",
-    "yearOfBirth": null,
-    "wizard": true,
-    "ancestry": "",
-    "eyeColour": "",
-    "hairColour": "",
-    "wand": {
-      "wood": "",
-      "core": "",
-      "length": null
-    },
-    "patronus": "",
-    "hogwartsStudent": false,
-    "hogwartsStaff": false,
-    "actor": "",
-    "alternate_actors": [],
-    "alive": true,
-    "image": ""
-  },
-  {
     "id": "2b846267-2df3-4e13-8219-712d92dda9c1",
     "name": "Doris Purkiss",
     "alternate_names": [],
