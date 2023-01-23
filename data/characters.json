@@ -115,12 +115,12 @@
     "dateOfBirth": "04-10-1925",
     "yearOfBirth": 1925,
     "wizard": true,
-    "ancestry": "fir",
-    "eyeColour": "dragon heartstring",
+    "ancestry": "half-blood",
+    "eyeColour": "",
     "hairColour": "black",
     "wand": {
-      "wood": "",
-      "core": "",
+      "wood": "fir",
+      "core": "dragon heartstring",
       "length": null
     },
     "patronus": "tabby cat",
