@@ -7,7 +7,7 @@ Hosted at https://hp-api.onrender.com/
 
 ## Postman Collections
 [Download the .json file](Postman%20Collections/HP-API.postman_collection.json), [import it  into Postman](https://learning.postman.com/docs/getting-started/importing-and-exporting-data/#importing-postman-data) and use the [Visualizer feature](https://learning.postman.com/docs/sending-requests/visualizer/#viewing-visualizations), to view the characters as cards.
-![image](https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/001/604/818/datas/original.jpg)
+![image](https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/001/604/818/datas/original.jpg)
 Based on the [submission](https://devpost.com/software/postman-visualization-harry-potter-api) for the DevPost hackathon: Visualize for the Prize.
 
 Alternatively, just press the button :point_down:.
