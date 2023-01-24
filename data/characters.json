@@ -119,8 +119,8 @@
     "eyeColour": "",
     "hairColour": "black",
     "wand": {
-      "wood": "",
-      "core": "",
+      "wood": "fir",
+      "core": "dragon heartstring",
       "length": null
     },
     "patronus": "tabby cat",
