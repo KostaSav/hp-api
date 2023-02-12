@@ -1210,13 +1210,13 @@
     ],
     "species": "human",
     "gender": "male",
-    "house": "",
-    "dateOfBirth": null,
-    "yearOfBirth": null,
+    "house": "Hufflepuff",
+    "dateOfBirth": "24-02-1897",
+    "yearOfBirth": 1897,
     "wizard": true,
     "ancestry": "",
-    "eyeColour": "",
-    "hairColour": "",
+    "eyeColour": "hazel",
+    "hairColour": "brown",
     "wand": {
       "wood": "",
       "core": "",
@@ -1230,7 +1230,7 @@
       "Joshua Shea",
       "Callum Turner"
     ],
-    "alive": false,
+    "alive": true,
     "image": ""
   },
   {
