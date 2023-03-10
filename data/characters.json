@@ -121,7 +121,7 @@
     "wand": {
       "wood": "fir",
       "core": "dragon heartstring",
-      "length": null
+      "length": 9.5
     },
     "patronus": "tabby cat",
     "hogwartsStudent": false,
@@ -164,8 +164,8 @@
     "species": "human",
     "gender": "female",
     "house": "Ravenclaw",
-    "dateOfBirth": null,
-    "yearOfBirth": null,
+    "dateOfBirth": "07-04-1979",
+    "yearOfBirth": 1979,
     "wizard": true,
     "ancestry": "",
     "eyeColour": "brown",
