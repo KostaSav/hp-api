@@ -41,7 +41,7 @@
     "wand": {
       "wood": "vine",
       "core": "dragon heartstring",
-      "length": null
+      "length": 10.75
     },
     "patronus": "otter",
     "hogwartsStudent": true,
