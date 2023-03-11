@@ -2,7 +2,7 @@
   {
     "id": "9e3f7ce4-b9a7-4244-b709-dae5c1f1d4a8",
     "name": "Harry Potter",
-    "alternate_names": [],
+    "alternate_names": ["The Boy Who Lived", "The Chosen One"],
     "species": "human",
     "gender": "male",
     "house": "Gryffindor",
@@ -41,7 +41,7 @@
     "wand": {
       "wood": "vine",
       "core": "dragon heartstring",
-      "length": null
+      "length": 10.75
     },
     "patronus": "otter",
     "hogwartsStudent": true,
@@ -121,7 +121,7 @@
     "wand": {
       "wood": "fir",
       "core": "dragon heartstring",
-      "length": null
+      "length": 9.5
     },
     "patronus": "tabby cat",
     "hogwartsStudent": false,
@@ -164,8 +164,8 @@
     "species": "human",
     "gender": "female",
     "house": "Ravenclaw",
-    "dateOfBirth": null,
-    "yearOfBirth": null,
+    "dateOfBirth": "07-04-1979",
+    "yearOfBirth": 1979,
     "wizard": true,
     "ancestry": "",
     "eyeColour": "brown",
@@ -802,7 +802,7 @@
   {
     "id": "b415c867-1cff-455e-b194-748662ac2cca",
     "name": "Albus Dumbledore",
-    "alternate_names": [],
+    "alternate_names": ["Professor Dumbledore"],
     "species": "human",
     "gender": "male",
     "house": "Gryffindor",
