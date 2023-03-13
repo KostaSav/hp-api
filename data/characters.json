@@ -141,7 +141,7 @@
     "dateOfBirth": null,
     "yearOfBirth": 1977,
     "wizard": true,
-    "ancestry": "",
+    "ancestry": "pure-blood",
     "eyeColour": "grey",
     "hairColour": "brown",
     "wand": {
@@ -167,7 +167,7 @@
     "dateOfBirth": "07-04-1979",
     "yearOfBirth": 1979,
     "wizard": true,
-    "ancestry": "",
+    "ancestry": "pure-blood",
     "eyeColour": "brown",
     "hairColour": "black",
     "wand": {
@@ -248,7 +248,7 @@
     "yearOfBirth": 1980,
     "wizard": true,
     "ancestry": "pure-blood",
-    "eyeColour": "",
+    "eyeColour": "black",
     "hairColour": "blonde",
     "wand": {
       "wood": "cherry",
@@ -273,7 +273,7 @@
     "dateOfBirth": "13-02-1981",
     "yearOfBirth": 1981,
     "wizard": true,
-    "ancestry": "",
+    "ancestry": "pure-blood",
     "eyeColour": "grey",
     "hairColour": "blonde",
     "wand": {
@@ -477,7 +477,7 @@
       "core": "dragon heartstring",
       "length": 10.25
     },
-    "patronus": "",
+    "patronus": "fish",
     "hogwartsStudent": false,
     "hogwartsStaff": true,
     "actor": "Jim Broadbent",
@@ -652,7 +652,7 @@
     "yearOfBirth": null,
     "wizard": false,
     "ancestry": "squib",
-    "eyeColour": "",
+    "eyeColour": "pale",
     "hairColour": "grey",
     "wand": {
       "wood": "",
@@ -679,7 +679,7 @@
     "wizard": false,
     "ancestry": "muggle",
     "eyeColour": "",
-    "hairColour": "",
+    "hairColour": "blonde-grey",
     "wand": {
       "wood": "",
       "core": "",
@@ -757,13 +757,13 @@
     "wizard": true,
     "ancestry": "muggleborn",
     "eyeColour": "green",
-    "hairColour": "",
+    "hairColour": "dark red",
     "wand": {
       "wood": "willow",
       "core": "",
       "length": 10.25
     },
-    "patronus": "",
+    "patronus": "doe",
     "hogwartsStudent": false,
     "hogwartsStaff": false,
     "actor": "Geraldine Somerville",
@@ -784,7 +784,7 @@
     "yearOfBirth": 1960,
     "wizard": true,
     "ancestry": "pure-blood",
-    "eyeColour": "",
+    "eyeColour": "hazel",
     "hairColour": "black",
     "wand": {
       "wood": "mahogany",
@@ -817,7 +817,7 @@
       "core": "",
       "length": null
     },
-    "patronus": "",
+    "patronus": "phoenix",
     "hogwartsStudent": false,
     "hogwartsStaff": true,
     "actor": "Richard Harris",
@@ -840,14 +840,14 @@
     "yearOfBirth": null,
     "wizard": true,
     "ancestry": "",
-    "eyeColour": "",
-    "hairColour": "",
+    "eyeColour": "brown",
+    "hairColour": "brown",
     "wand": {
       "wood": "",
       "core": "",
       "length": null
     },
-    "patronus": "",
+    "patronus": "Non-Corporeal",
     "hogwartsStudent": false,
     "hogwartsStaff": true,
     "actor": "Gemma Jones",
@@ -869,7 +869,7 @@
     "wizard": false,
     "ancestry": "squib",
     "eyeColour": "",
-    "hairColour": "",
+    "hairColour": "grey",
     "wand": {
       "wood": "",
       "core": "",
@@ -900,7 +900,7 @@
     "wizard": false,
     "ancestry": "muggle",
     "eyeColour": "",
-    "hairColour": "",
+    "hairColour": "grey",
     "wand": {
       "wood": "",
       "core": "",
@@ -1055,8 +1055,8 @@
     "yearOfBirth": null,
     "wizard": true,
     "ancestry": "",
-    "eyeColour": "",
-    "hairColour": "",
+    "eyeColour": "blue",
+    "hairColour": "grey",
     "wand": {
       "wood": "",
       "core": "",
@@ -9680,7 +9680,7 @@
     "dateOfBirth": null,
     "yearOfBirth": null,
     "wizard": true,
-    "ancestry": "",
+    "ancestry": "pure-blood",
     "eyeColour": "",
     "hairColour": "",
     "wand": {
@@ -9735,8 +9735,8 @@
     "yearOfBirth": null,
     "wizard": true,
     "ancestry": "",
-    "eyeColour": "",
-    "hairColour": "",
+    "eyeColour": "green",
+    "hairColour": "greyish red",
     "wand": {
       "wood": "",
       "core": "",
