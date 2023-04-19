@@ -16,6 +16,13 @@ app.get("/api/characters", function (req, res) {
   res.json(characters);
 });
 
+app.get("/api/character/:id", function (req, res) {
+  var id = req.params.id.toLowerCase();
+  res.json(
+      characters.filter((character) => character.id.toLowerCase() === id)
+  );
+});
+
 app.get("/api/characters/students", function (req, res) {
   res.json(characters.filter((character) => character.hogwartsStudent));
 });
