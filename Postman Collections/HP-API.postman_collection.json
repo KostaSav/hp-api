@@ -1,10 +1,11 @@
 {
 	"info": {
-		"_postman_id": "851b6832-6af0-4b14-a47a-50915a412697",
+		"_postman_id": "d967066c-87b6-4f7a-af4d-385b5dc6c616",
 		"name": "HP-API",
-		"description": "# Introduction\n\nA simple JSON-based API for getting information on Harry Potter characters. Hosted at [https://hp-api.onrender.com](https://hp-api.onrender.comVisualizationEvery)\n\n# Overview\n\n- Using `GET All characters`, we can view everyone (people, animals, beasts) from the fantasy world of Harry Potter\n- Using `GET Hogwarts students` / `GET Hogwarts staff`, we can view characters who study or work at Hogwarts\n- Using `GET Characters in house`, we can view the particular characters who belong to one of the four houses (Gryffindor, Ravenclaw, Hufflepuff, Slytherin)\n    \n\n# Visualization\n\nEvery request comes with a nice viualization in Postman, you need to switch to the Visualization tab once you have sent a response.\n\n<img src=\"https://content.pstmn.io/bc2b974b-f4b7-4564-a94d-b9077cfa4bcf/aW1hZ2UucG5n\" alt=\"Visualization%20of%20GET%20Characters%20in%20house\" width=\"3576\" height=\"1750\">\n\n# Authentication\n\nNo API key is required.\n\n# Error Codes\n\n- 404 Not Found: no path variable in `GET Characters in house`",
+		"description": "# Introduction\n\nA simple JSON-based API for getting information on Harry Potter characters. Hosted at [https://hp-api.onrender.com](https://hp-api.onrender.comVisualizationEvery)\n\n# Overview\n\n- Using `GET All characters`, we can view information about everyone (people, animals, beasts) from the fantasy world of Harry Potter\n- Using `Get character detail`, we can view information about a specific character, based on their unique ID\n- Using `GET Hogwarts students` / `GET Hogwarts staff`, we can view information about characters who study or work at Hogwarts\n- Using `GET Characters in house`, we can view information about the particular characters who belong to one of the four houses (Gryffindor, Ravenclaw, Hufflepuff, Slytherin)\n- Using `GET Spells`, we can view a list of spells and their description\n    \n\n# Visualization\n\nEvery request comes with a nice viualization in Postman, you need to switch to the Visualization tab once you have sent a response.\n\n<img src=\"https://content.pstmn.io/bc2b974b-f4b7-4564-a94d-b9077cfa4bcf/aW1hZ2UucG5n\" alt=\"Visualization%20of%20GET%20Characters%20in%20house\" width=\"3576\" height=\"1750\">\n\n# Authentication\n\nNo API key is required.\n\n# Error Codes\n\n- 404 Not Found: no path variable in `GET Characters in house`",
 		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
-		"_exporter_id": "7949735"
+		"_exporter_id": "16404714",
+		"_collection_link": "https://www.postman.com/bold-spaceship-813335/workspace/harry-potter-api/collection/16404714-d967066c-87b6-4f7a-af4d-385b5dc6c616?action=share&creator=16404714&source=collection_link"
 	},
 	"item": [
 		{
@@ -632,7 +633,7 @@
 						}
 					]
 				},
-				"description": "view all characters"
+				"description": "view the character with the specific unique ID"
 			},
 			"response": []
 		},
@@ -1664,7 +1665,8 @@
 						"api",
 						"spells"
 					]
-				}
+				},
+				"description": "view all spells"
 			},
 			"response": []
 		}
