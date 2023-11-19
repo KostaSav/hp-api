@@ -2,7 +2,12 @@
   {
     "id": "9e3f7ce4-b9a7-4244-b709-dae5c1f1d4a8",
     "name": "Harry Potter",
-    "alternate_names": ["The Boy Who Lived", "The Chosen One"],
+    "alternate_names": [
+      "The Boy Who Lived",
+      "The Chosen One",
+      "Undesirable No. 1",
+      "Potty"
+    ],
     "species": "human",
     "gender": "male",
     "house": "Gryffindor",
@@ -14,7 +19,7 @@
     "hairColour": "black",
     "wand": {
       "wood": "holly",
-      "core": "phoenix feather",
+      "core": "phoenix tail feather",
       "length": 11
     },
     "patronus": "stag",
@@ -28,7 +33,12 @@
   {
     "id": "4c7e6819-a91a-45b2-a454-f931e4a7cce3",
     "name": "Hermione Granger",
-    "alternate_names": [],
+    "alternate_names": [
+      "Hermy",
+      "Know-it-all",
+      "Miss Grant",
+      "Herm-own-ninny"
+    ],
     "species": "human",
     "gender": "female",
     "house": "Gryffindor",
@@ -55,7 +65,13 @@
     "id": "c3b1f9a5-b87b-48bf-b00d-95b093ea6390",
     "name": "Ron Weasley",
     "alternate_names": [
-      "Dragomir Despard"
+      "Dragomir Despard",
+      "Ronald",
+      "Ickle Ronniekins",
+      "Ronnie",
+      "Wheezy",
+      "Won-Won",
+      "Roonil Wazlib"
     ],
     "species": "human",
     "gender": "male",
@@ -68,7 +84,7 @@
     "hairColour": "red",
     "wand": {
       "wood": "willow",
-      "core": "unicorn tail-hair",
+      "core": "unicorn tail hair",
       "length": 14
     },
     "patronus": "Jack Russell terrier",
@@ -94,7 +110,7 @@
     "hairColour": "blonde",
     "wand": {
       "wood": "hawthorn",
-      "core": "unicorn tail-hair",
+      "core": "unicorn tail hair",
       "length": 10
     },
     "patronus": "",
@@ -187,7 +203,9 @@
     "id": "3569d265-bd27-44d8-88e8-82fb0a848374",
     "name": "Severus Snape",
     "alternate_names": [
-      "Half-Blood Prince"
+      "Half-Blood Prince",
+      "Snivellus",
+      "Sev"
     ],
     "species": "human",
     "gender": "male",
@@ -214,7 +232,10 @@
   {
     "id": "36bfefd0-e0bb-4d11-be98-d1ef6117a77a",
     "name": "Rubeus Hagrid",
-    "alternate_names": [],
+    "alternate_names": [
+      "Professor Hagrid",
+      "Hagger"
+    ],
     "species": "half-giant",
     "gender": "male",
     "house": "Gryffindor",
@@ -252,7 +273,7 @@
     "hairColour": "blonde",
     "wand": {
       "wood": "cherry",
-      "core": "unicorn tail-hair",
+      "core": "unicorn tail hair",
       "length": 13
     },
     "patronus": "Non-Corporeal",
@@ -266,7 +287,9 @@
   {
     "id": "861c4cde-2f0f-4796-8d8f-9492e74b2573",
     "name": "Luna Lovegood",
-    "alternate_names": [],
+    "alternate_names": [
+      "Loony Lovegood"
+    ],
     "species": "human",
     "gender": "female",
     "house": "Ravenclaw",
@@ -274,7 +297,7 @@
     "yearOfBirth": 1981,
     "wizard": true,
     "ancestry": "",
-    "eyeColour": "grey",
+    "eyeColour": "silver",
     "hairColour": "blonde",
     "wand": {
       "wood": "",
@@ -366,7 +389,7 @@
     "hairColour": "brown",
     "wand": {
       "wood": "cypress",
-      "core": "unicorn tail-hair",
+      "core": "unicorn tail hair",
       "length": 10.25
     },
     "patronus": "wolf",
@@ -435,7 +458,11 @@
     "id": "efa802c8-ae18-4ae1-a524-49df21d05939",
     "name": "Lord Voldemort",
     "alternate_names": [
-      "Tom Marvolo Riddle"
+      "Tom Marvolo Riddle",
+      "You-Know-Who",
+      "He Who Must Not Be Named",
+      "the Dark Lord",
+      "the Heir of Slytherin"
     ],
     "species": "human",
     "gender": "male",
@@ -444,11 +471,11 @@
     "yearOfBirth": 1926,
     "wizard": true,
     "ancestry": "half-blood",
-    "eyeColour": "red",
+    "eyeColour": "Scarlet",
     "hairColour": "bald",
     "wand": {
       "wood": "yew",
-      "core": "phoenix feather",
+      "core": "phoenix tail feather",
       "length": 13.5
     },
     "patronus": "",
@@ -802,7 +829,9 @@
   {
     "id": "b415c867-1cff-455e-b194-748662ac2cca",
     "name": "Albus Dumbledore",
-    "alternate_names": ["Professor Dumbledore"],
+    "alternate_names": [
+      "Professor Dumbledore"
+    ],
     "species": "human",
     "gender": "male",
     "house": "Gryffindor",
@@ -817,7 +846,7 @@
       "core": "",
       "length": null
     },
-    "patronus": "",
+    "patronus": "Phoenix",
     "hogwartsStudent": false,
     "hogwartsStaff": true,
     "actor": "Richard Harris",
@@ -6022,7 +6051,33 @@
     "patronus": "",
     "hogwartsStudent": false,
     "hogwartsStaff": false,
-    "actor": "Lisa Wood ",
+    "actor": "Lisa Wood",
+    "alternate_actors": [],
+    "alive": true,
+    "image": ""
+  },
+  {
+    "id": "b5e2cf01-8bb6-4fcd-ad88-0efb611195da",
+    "name": "Augusta Longbottom",
+    "alternate_names": [],
+    "species": "human",
+    "gender": "female",
+    "house": "",
+    "dateOfBirth": null,
+    "yearOfBirth": null,
+    "wizard": true,
+    "ancestry": "pure-blood",
+    "eyeColour": "",
+    "hairColour": "",
+    "wand": {
+      "wood": "",
+      "core": "",
+      "length": null
+    },
+    "patronus": "",
+    "hogwartsStudent": false,
+    "hogwartsStaff": false,
+    "actor": "Leila Hoffman",
     "alternate_actors": [],
     "alive": true,
     "image": ""
@@ -9638,6 +9693,32 @@
     "actor": "Rhys Ifans",
     "alternate_actors": [],
     "alive": true,
+    "image": ""
+  },
+  {
+    "id": "20354d7a-e4fe-47af-8ff6-187bca92f3f9",
+    "name": "Pandora Lovegood",
+    "alternate_names": [],
+    "species": "human",
+    "gender": "female",
+    "house": "Ravenclaw",
+    "dateOfBirth": null,
+    "yearOfBirth": null,
+    "wizard": true,
+    "ancestry": "",
+    "eyeColour": "",
+    "hairColour": "",
+    "wand": {
+      "wood": "",
+      "core": "",
+      "length": null
+    },
+    "patronus": "",
+    "hogwartsStudent": false,
+    "hogwartsStaff": false,
+    "actor": "",
+    "alternate_actors": [],
+    "alive": false,
     "image": ""
   },
   {
