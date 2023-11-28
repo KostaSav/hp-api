@@ -458,6 +458,7 @@
     "id": "efa802c8-ae18-4ae1-a524-49df21d05939",
     "name": "Lord Voldemort",
     "alternate_names": [
+      "Tom Riddle",
       "Tom Marvolo Riddle",
       "You-Know-Who",
       "He Who Must Not Be Named",
@@ -1358,9 +1359,9 @@
     "eyeColour": "",
     "hairColour": "",
     "wand": {
-      "wood": "",
-      "core": "",
-      "length": null
+      "wood": "alder",
+      "core": "unicorn hair",
+      "length": 9
     },
     "patronus": "",
     "hogwartsStudent": false,
@@ -1464,9 +1465,9 @@
     "eyeColour": "pale, silvery",
     "hairColour": "",
     "wand": {
-      "wood": "",
-      "core": "",
-      "length": null
+      "wood": "hornbeam",
+      "core": "dragon heartstring",
+      "length": 12.75
     },
     "patronus": "",
     "hogwartsStudent": false,
@@ -3984,9 +3985,9 @@
     "eyeColour": "",
     "hairColour": "",
     "wand": {
-      "wood": "",
-      "core": "",
-      "length": null
+      "wood": "hazel",
+      "core": "unicorn hair",
+      "length": 9.5
     },
     "patronus": "",
     "hogwartsStudent": false,
