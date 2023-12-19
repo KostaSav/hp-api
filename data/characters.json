@@ -1949,9 +1949,10 @@
   },
   {
     "id": "1413e1b3-2903-4a47-a2d5-e8abc5ce8014",
-    "name": "Seamus Finnegan",
+    "name": "Seamus Finnigan",
     "alternate_names": [
-      "O'Flaherty"
+      "O'Flaherty",
+      "Seamus Finnegan"
     ],
     "species": "human",
     "gender": "male",
