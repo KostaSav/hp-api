@@ -1,36 +1,133 @@
 body {
-  font-family: "Roboto", "Trebuchet MS", sans-serif;
+  font-family: 'Roboto', sans-serif;
   margin: 0;
-}
-
-main {
-  width: 70%;
-  margin: 0 auto;
-  padding-top: 30px;
+  padding: 0;
+  background-color: #f5f5f5;
 }
 
 header {
-  width: 100%;
+  background-color: #333;
+  color: #fff;
   text-align: center;
-  background-color: #444444;
-  color: white;
-  height: 150px;
+  padding: 1em 0;
 }
 
-h2 {
+h2 span.title {
+  color: #ffd700; /* Gold color for the title */
+}
+
+main {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  max-width: 800px;
+  margin: 20px auto;
+  padding: 20px;
+  background-color: #fff;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  border-radius: 8px;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
   margin: 0;
-  line-height: 150px;
-  font-size: 50px;
+  width: 100%;
 }
 
-.title {
-  color: #E5E55B;
+li {
+  margin-bottom: 10px;
 }
 
 a {
-  color: #5a86d5;
+  color: #333;
+  text-decoration: none;
+  font-weight: bold;
 }
 
 a:hover {
-  color: #83aaf0;
+  text-decoration: none;
+  color: #333;
+}
+
+p {
+  margin-bottom: 20px;
+  text-align: center;
+  color: #555;
+}
+
+footer {
+  margin-top: 20px;
+  text-align: center;
+  color: #777;
+}
+
+body{
+  background-color: #f2f2f2;
+  padding: 100px;
+  font-family: 'Roboto';
+}
+
+.container{
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: space-around;
+  width: 100%;
+  height: 40%;
+  background-color: #333;;
+  margin: 10px auto;
+  margin-top: 30px;
+  border-radius: 50px;
+  padding-top: 20px;
+  padding-bottom: 10px;
+  box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px;
+}
+
+.title, .container_list{
+  margin: auto;
+  display: flex;
+  justify-content: center;
+}
+
+
+.container_li a {
+  display: block;
+  text-decoration: none;
+}
+
+
+.container_style{
+  list-style-type: none;
+  
+}
+
+.container_title{
+  color: #cccccc;
+  font-size: 0.5rem;
+}
+.container_title:hover{
+  color: #ffd700;
+  cursor: default;
+}
+
+.container_li{
+  margin: 20px;
+  background-color: #dbdbdb;
+  color: white;
+  width: 300px;
+  height: 30px;
+  text-align: center;
+  padding: 2px;
+  padding-top: 13px;
+  border-radius: 18px;
+}
+.container_li:hover{
+  background-color: #ffd700;
+  color: white;
+  cursor: pointer;
+}
+
+.dev:hover{
+  color: #ffd700;
 }
