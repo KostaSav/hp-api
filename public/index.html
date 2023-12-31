@@ -1,57 +1,37 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>HP-API // The Harry Potter API</title>
   <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
   <link rel="stylesheet" type="text/css" href="./style.css">
 </head>
 <body>
-  <header>    
+  <header>
     <h2>Welcome to the <span class="title">HP-API!</span></h2>
   </header>
   <main>
-    <p>Use these routes to request data on Harry Potter characters:</p>
-    View
-    <ul>
-    <li>all characters: 
-      <ul>
-        <li><a href="https://hp-api.onrender.com/api/characters">https://hp-api.onrender.com/api/characters</a></li>
-      </ul>
-    </li>
-    <br>
-    <li>a specific character, based on their unique ID: 
-      <ul>
-        <li><a href="https://hp-api.onrender.com/api/character/:id">https://hp-api.onrender.com/api/character/:id</a></li>
-      </ul>
-    </li>
-    <br>
-    <li>characters who are Hogwarts students during the book series: 
-      <ul>
-        <li><a href="https://hp-api.onrender.com/api/characters/students">https://hp-api.onrender.com/api/characters/students</a></li>
-      </ul>
-    </li>
-    <br>
-    <li>characters who are Hogwarts staff during the book series:
-      <ul>
-        <li><a href="https://hp-api.onrender.com/api/characters/staff">https://hp-api.onrender.com/api/characters/staff</a></li>
-      </ul>
-    </li>
-    <br>
-    <li>characters in a certain house, e.g. /gryffindor: 
-      <ul>
-        <li><a href="https://hp-api.onrender.com/api/characters/house/gryffindor">https://hp-api.onrender.com/api/characters/house/:house</a></li>
-      </ul>
-    </li>
-    <br>
-    <li>all spells:
-      <ul>
-        <li><a href="https://hp-api.onrender.com/api/spells">https://hp-api.onrender.com/api/spells</a></li>
-      </ul>
-    </li>
-    </ul>
-    <br>
-    <p>No API key is required.</p>
-    <p>Project created by Beth and maintained by <a href="https://github.com/KostaSav">Kostas</a> - feel free to get in touch. To see the code for this project, go to the <a href="https://github.com/bethfraser/hp-api">GitHub repo</a> - feel free to fork/clone the project for your own use.
+    <div class="container">
+      <div class="container_title">
+        <h1>Use these routes to request data on Harry Potter characters:</h1>
+      </div>
+      <div class="container_list">
+        <ul class="container_style">
+          <li class="container_li"><a href="https://hp-api.onrender.com/api/characters">All Characters</a></li>
+          <li class="container_li"><a href="https://hp-api.onrender.com/api/character/:id">Specific Character by ID</a></li>
+          <li class="container_li"><a href="https://hp-api.onrender.com/api/characters/students">Hogwarts Students</a></li>
+          <li class="container_li"><a href="https://hp-api.onrender.com/api/characters/staff">Hogwarts Staff</a></li>
+          <li class="container_li"><a href="https://hp-api.onrender.com/api/characters/house/gryffindor">Characters in a House</a></li>
+          <li class="container_li"><a href="https://hp-api.onrender.com/api/spells">All Spells</a></li>
+        </ul>
+      </div>
+    </div>
+    <p>No API key is required. Feel free to explore and enjoy the magic!</p>
+    <p>Project created by Beth and maintained by <a href="https://github.com/KostaSav" class="dev">Kostas</a>. Visit the <a href="https://github.com/bethfraser/hp-api" class="dev">GitHub repo</a> to see the code.</p>
   </main>
+  <footer>
+    &copy; 2023 HP-API. All rights reserved.
+  </footer>
 </body>
 </html>
