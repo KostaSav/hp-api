@@ -31,7 +31,13 @@
     <p>Project created by Beth and maintained by <a href="https://github.com/KostaSav" class="dev">Kostas</a>. Visit the <a href="https://github.com/bethfraser/hp-api" class="dev">GitHub repo</a> to see the code.</p>
   </main>
   <footer>
-    &copy; 2023 HP-API. All rights reserved.
+    &copy; <span id="footer_year">2023</span> HP-API. All rights reserved.
   </footer>
+
+  <!-- Updating the year automatically using js -->
+  <script>
+    const date = new Date;
+    document.getElementById('footer_year').innerHTML=date.getFullYear();
+  </script>
 </body>
 </html>
