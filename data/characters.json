@@ -1489,7 +1489,7 @@
     "wizard": false,
     "ancestry": "",
     "eyeColour": "amber",
-    "hairColour": "",
+    "hairColour": "white",
     "wand": {
       "wood": "",
       "core": "",
@@ -1509,6 +1509,58 @@
       "Bandit"
     ],
     "alive": false,
+    "image": ""
+  },
+  {
+    "id": "dfdeddee-63b8-45c6-a594-a74d7e2f786f",
+    "name": "Trevor",
+    "alternate_names": [],
+    "species": "toad",
+    "gender": "male",
+    "house": "",
+    "dateOfBirth": null,
+    "yearOfBirth": null,
+    "wizard": false,
+    "ancestry": "",
+    "eyeColour": "black",
+    "hairColour": "",
+    "wand": {
+      "wood": "",
+      "core": "",
+      "length": null
+    },
+    "patronus": "",
+    "hogwartsStudent": false,
+    "hogwartsStaff": false,
+    "actor": "",
+    "alternate_actors": [],
+    "alive": true,
+    "image": ""
+  },
+  {
+    "id": "895be996-d91d-441a-87d0-806d945d14e0",
+    "name": "Hermes",
+    "alternate_names": [],
+    "species": "owl",
+    "gender": "male",
+    "house": "",
+    "dateOfBirth": null,
+    "yearOfBirth": null,
+    "wizard": false,
+    "ancestry": "",
+    "eyeColour": "",
+    "hairColour": "grey",
+    "wand": {
+      "wood": "",
+      "core": "",
+      "length": null
+    },
+    "patronus": "",
+    "hogwartsStudent": false,
+    "hogwartsStaff": false,
+    "actor": "",
+    "alternate_actors": [],
+    "alive": true,
     "image": ""
   },
   {
@@ -2709,7 +2761,7 @@
   },
   {
     "id": "9ac09267-92ea-444a-a395-28f3b0f6fe6f",
-    "name": "Terrence Higgs",
+    "name": "Terence Higgs",
     "alternate_names": [],
     "species": "human",
     "gender": "male",
@@ -2730,6 +2782,39 @@
     "hogwartsStaff": false,
     "actor": "Will Theakston",
     "alternate_actors": [],
+    "alive": true,
+    "image": ""
+  },
+  {
+    "id": "45819bd4-ae30-4bd4-b24f-5dd11d16ffda",
+    "name": "Fang",
+    "alternate_names": [],
+    "species": "dog",
+    "gender": "male",
+    "house": "",
+    "dateOfBirth": null,
+    "yearOfBirth": null,
+    "wizard": false,
+    "ancestry": "",
+    "eyeColour": "",
+    "hairColour": "black",
+    "wand": {
+      "wood": "",
+      "core": "",
+      "length": null
+    },
+    "patronus": "",
+    "hogwartsStudent": false,
+    "hogwartsStaff": false,
+    "actor": "Hugo",
+    "alternate_actors": [
+      "Bully",
+      "Bella",
+      "Vito",
+      "Luigi",
+      "Monkey",
+      "Uno"
+    ],
     "alive": true,
     "image": ""
   },
@@ -2818,7 +2903,9 @@
   {
     "id": "5e4d5e25-5393-435b-81c8-556fa78af659",
     "name": "Norberta",
-    "alternate_names": [],
+    "alternate_names": [
+      "Norbert"
+    ],
     "species": "dragon",
     "gender": "female",
     "house": "",
@@ -4057,6 +4144,60 @@
       "Charles Hughes"
     ],
     "alive": false,
+    "image": ""
+  },
+  {
+    "id": "6537b3ec-eb39-4243-8977-237d8afae058",
+    "name": "The Trolley Witch",
+    "alternate_names": [],
+    "species": "human",
+    "gender": "female",
+    "house": "",
+    "dateOfBirth": null,
+    "yearOfBirth": null,
+    "wizard": true,
+    "ancestry": "",
+    "eyeColour": "dark",
+    "hairColour": "grey",
+    "wand": {
+      "wood": "",
+      "core": "",
+      "length": null
+    },
+    "patronus": "",
+    "hogwartsStudent": false,
+    "hogwartsStaff": false,
+    "actor": "Jean Southern",
+    "alternate_actors": [
+      "Margery Mason"
+    ],
+    "alive": true,
+    "image": ""
+  },
+  {
+    "id": "ca888b7c-456e-4ad4-a344-9d68de4ff5d6",
+    "name": "The Sorting Hat",
+    "alternate_names": [],
+    "species": "hat",
+    "gender": "",
+    "house": "",
+    "dateOfBirth": null,
+    "yearOfBirth": null,
+    "wizard": true,
+    "ancestry": "",
+    "eyeColour": "",
+    "hairColour": "",
+    "wand": {
+      "wood": "",
+      "core": "",
+      "length": null
+    },
+    "patronus": "",
+    "hogwartsStudent": false,
+    "hogwartsStaff": false,
+    "actor": "Leslie Phillips",
+    "alternate_actors": [],
+    "alive": true,
     "image": ""
   },
   {
