@@ -774,6 +774,34 @@
     "image": ""
   },
   {
+    "id": "5711b801-20fc-43e4-831c-31427cf3023f",
+    "name": "Boa constrictor",
+    "alternate_names": [
+      "A Brazilian Boa Constrictor"
+    ],
+    "species": "snake",
+    "gender": "",
+    "house": "",
+    "dateOfBirth": "",
+    "yearOfBirth": null,
+    "wizard": false,
+    "ancestry": "",
+    "eyeColour": "beady",
+    "hairColour": "",
+    "wand": {
+      "wood": "",
+      "core": "",
+      "length": null
+    },
+    "patronus": "",
+    "hogwartsStudent": false,
+    "hogwartsStaff": false,
+    "actor": "",
+    "alternate_actors": [],
+    "alive": true,
+    "image": ""
+  },
+  {
     "id": "41cd0bbe-a943-431b-9bde-bb2cad3491a1",
     "name": "Lily Potter",
     "alternate_names": [],
@@ -3084,6 +3112,32 @@
     "hogwartsStudent": false,
     "hogwartsStaff": true,
     "actor": "Ray Fearon",
+    "alternate_actors": [],
+    "alive": true,
+    "image": ""
+  },
+  {
+    "id": "d9a33169-462b-41f0-9da3-a8ca04c30736",
+    "name": "The Giant Squid",
+    "alternate_names": [],
+    "species": "cephalopod",
+    "gender": "",
+    "house": "",
+    "dateOfBirth": null,
+    "yearOfBirth": null,
+    "wizard": false,
+    "ancestry": "",
+    "eyeColour": "",
+    "hairColour": "",
+    "wand": {
+      "wood": "",
+      "core": "",
+      "length": null
+    },
+    "patronus": "",
+    "hogwartsStudent": false,
+    "hogwartsStaff": false,
+    "actor": "",
     "alternate_actors": [],
     "alive": true,
     "image": ""
