@@ -10303,6 +10303,32 @@
     "image": ""
   },
   {
+    "id": "01657fd1-aa13-482a-a5d0-25c19c95b9c9",
+    "name": "Wakanda",
+    "alternate_names": [],
+    "species": "human",
+    "gender": "female",
+    "house": "",
+    "dateOfBirth": null,
+    "yearOfBirth": null,
+    "wizard": true,
+    "ancestry": "",
+    "eyeColour": "",
+    "hairColour": "blonde",
+    "wand": {
+      "wood": "",
+      "core": "",
+      "length": null
+    },
+    "patronus": "",
+    "hogwartsStudent": false,
+    "hogwartsStaff": false,
+    "actor": "Harriet Thorpe",
+    "alternate_actors": [],
+    "alive": true,
+    "image": ""
+  },
+  {
     "id": "61d78dce-890b-4f02-844f-b41d66553802",
     "name": "Charity Burbage",
     "alternate_names": [],
@@ -10592,7 +10618,8 @@
     "id": "f7457448-8382-4e5e-b72a-0044fc6f8958",
     "name": "Muriel",
     "alternate_names": [
-      "Aunt Muriel"
+      "Aunt Muriel",
+      "Auntie Muriel"
     ],
     "species": "human",
     "gender": "female",
