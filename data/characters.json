@@ -999,6 +999,32 @@
     "image": ""
   },
   {
+    "id": "8c4a6cad-4cc9-4821-a703-30b628a1c72e",
+    "name": "Ripper",
+    "alternate_names": [],
+    "species": "dog",
+    "gender": "male",
+    "house": "",
+    "dateOfBirth": null,
+    "yearOfBirth": null,
+    "wizard": false,
+    "ancestry": "",
+    "eyeColour": "black",
+    "hairColour": "",
+    "wand": {
+      "wood": "",
+      "core": "",
+      "length": null
+    },
+    "patronus": "",
+    "hogwartsStudent": false,
+    "hogwartsStaff": false,
+    "actor": "",
+    "alternate_actors": [],
+    "alive": true,
+    "image": ""
+  },
+  {
     "id": "d70f60ae-81ea-4230-905d-cb52c801c1fb",
     "name": "Yvonne",
     "alternate_names": [],
@@ -1621,6 +1647,35 @@
     "id": "59ffaed8-446f-46b6-bcdc-2ffbf59b11ac",
     "name": "Errol",
     "alternate_names": [],
+    "species": "owl",
+    "gender": "male",
+    "house": "",
+    "dateOfBirth": null,
+    "yearOfBirth": null,
+    "wizard": false,
+    "ancestry": "",
+    "eyeColour": "",
+    "hairColour": "grey",
+    "wand": {
+      "wood": "",
+      "core": "",
+      "length": null
+    },
+    "patronus": "",
+    "hogwartsStudent": false,
+    "hogwartsStaff": false,
+    "actor": "",
+    "alternate_actors": [],
+    "alive": true,
+    "image": ""
+  },
+  {
+    "id": "aba1bca5-d3e6-4dc7-b431-5b9a16d8cc12",
+    "name": "Pigwidgeon",
+    "alternate_names": [
+      "Pig",
+      "Piggy"
+    ],
     "species": "owl",
     "gender": "male",
     "house": "",
@@ -4302,6 +4357,35 @@
       "Charles Hughes"
     ],
     "alive": false,
+    "image": ""
+  },
+  {
+    "id": "c8025d43-ad41-4ac2-95b3-00af18a2d843",
+    "name": "Crookshanks",
+    "alternate_names": [],
+    "species": "cat",
+    "gender": "male",
+    "house": "",
+    "dateOfBirth": null,
+    "yearOfBirth": null,
+    "wizard": false,
+    "ancestry": "",
+    "eyeColour": "yellow",
+    "hairColour": "ginger",
+    "wand": {
+      "wood": "",
+      "core": "",
+      "length": null
+    },
+    "patronus": "",
+    "hogwartsStudent": false,
+    "hogwartsStaff": false,
+    "actor": "Crackerjack",
+    "alternate_actors": [
+      "Prince",
+      "Pumpkin"
+    ],
+    "alive": true,
     "image": ""
   },
   {
