@@ -858,6 +858,32 @@
     "image": ""
   },
   {
+    "id": "7f29cc65-168d-429d-92f6-7e6f8c72280b",
+    "name": "Fawkes",
+    "alternate_names": [],
+    "species": "phoenix",
+    "gender": "male",
+    "house": "",
+    "dateOfBirth": null,
+    "yearOfBirth": null,
+    "wizard": false,
+    "ancestry": "",
+    "eyeColour": "black",
+    "hairColour": "red",
+    "wand": {
+      "wood": "",
+      "core": "",
+      "length": null
+    },
+    "patronus": "",
+    "hogwartsStudent": false,
+    "hogwartsStaff": false,
+    "actor": "",
+    "alternate_actors": [],
+    "alive": true,
+    "image": ""
+  },
+  {
     "id": "e9457467-d10a-4893-afa9-19f9602b218a",
     "name": "Madam Pomfrey",
     "alternate_names": [
@@ -1540,6 +1566,32 @@
   {
     "id": "895be996-d91d-441a-87d0-806d945d14e0",
     "name": "Hermes",
+    "alternate_names": [],
+    "species": "owl",
+    "gender": "male",
+    "house": "",
+    "dateOfBirth": null,
+    "yearOfBirth": null,
+    "wizard": false,
+    "ancestry": "",
+    "eyeColour": "",
+    "hairColour": "grey",
+    "wand": {
+      "wood": "",
+      "core": "",
+      "length": null
+    },
+    "patronus": "",
+    "hogwartsStudent": false,
+    "hogwartsStaff": false,
+    "actor": "",
+    "alternate_actors": [],
+    "alive": true,
+    "image": ""
+  },
+  {
+    "id": "59ffaed8-446f-46b6-bcdc-2ffbf59b11ac",
+    "name": "Errol",
     "alternate_names": [],
     "species": "owl",
     "gender": "male",
@@ -2321,6 +2373,32 @@
     "hogwartsStudent": false,
     "hogwartsStaff": false,
     "actor": "Terence Bayler",
+    "alternate_actors": [],
+    "alive": false,
+    "image": ""
+  },
+  {
+    "id": "45ca6279-6b41-4137-b38c-9547902aa0ce",
+    "name": "The Wailing Widow",
+    "alternate_names": [],
+    "species": "ghost",
+    "gender": "female",
+    "house": "",
+    "dateOfBirth": null,
+    "yearOfBirth": null,
+    "wizard": true,
+    "ancestry": "",
+    "eyeColour": "",
+    "hairColour": "",
+    "wand": {
+      "wood": "",
+      "core": "",
+      "length": null
+    },
+    "patronus": "",
+    "hogwartsStudent": false,
+    "hogwartsStaff": false,
+    "actor": "",
     "alternate_actors": [],
     "alive": false,
     "image": ""
@@ -3244,6 +3322,32 @@
     "actor": "Kenneth Branagh",
     "alternate_actors": [],
     "alive": true,
+    "image": ""
+  },
+  {
+    "id": "f5b414bc-d173-459c-bfae-177ca4a8b171",
+    "name": "The Basilisk",
+    "alternate_names": [],
+    "species": "serpent",
+    "gender": "",
+    "house": "",
+    "dateOfBirth": null,
+    "yearOfBirth": null,
+    "wizard": false,
+    "ancestry": "",
+    "eyeColour": "yellow",
+    "hairColour": "",
+    "wand": {
+      "wood": "",
+      "core": "",
+      "length": null
+    },
+    "patronus": "",
+    "hogwartsStudent": false,
+    "hogwartsStaff": false,
+    "actor": "",
+    "alternate_actors": [],
+    "alive": false,
     "image": ""
   },
   {
