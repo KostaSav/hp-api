@@ -3460,6 +3460,34 @@
     "image": ""
   },
   {
+    "id": "ecd3572f-0694-41cc-a59d-392dc3922212",
+    "name": "Kreacher",
+    "alternate_names": [],
+    "species": "house-elf",
+    "gender": "male",
+    "house": "",
+    "dateOfBirth": null,
+    "yearOfBirth": null,
+    "wizard": false,
+    "ancestry": "",
+    "eyeColour": "",
+    "hairColour": "white",
+    "wand": {
+      "wood": "",
+      "core": "",
+      "length": null
+    },
+    "patronus": "",
+    "hogwartsStudent": false,
+    "hogwartsStaff": false,
+    "actor": "Timothy Bateson",
+    "alternate_actors": [
+      "Simon McBurney"
+    ],
+    "alive": false,
+    "image": ""
+  },
+  {
     "id": "cd022893-b7ea-4bd8-a4fb-c9933c695813",
     "name": "Mr Mason",
     "alternate_names": [],
@@ -7183,6 +7211,34 @@
     "image": ""
   },
   {
+    "id": "6dc3e8c4-e634-4f92-aaf2-93ba0f9d3d35",
+    "name": "Mrs Black",
+    "alternate_names": [
+      "Walburga Black"
+    ],
+    "species": "human",
+    "gender": "female",
+    "house": "",
+    "dateOfBirth": null,
+    "yearOfBirth": null,
+    "wizard": true,
+    "ancestry": "pure-blood",
+    "eyeColour": "brown",
+    "hairColour": "brown",
+    "wand": {
+      "wood": "",
+      "core": "",
+      "length": null
+    },
+    "patronus": "",
+    "hogwartsStudent": false,
+    "hogwartsStaff": false,
+    "actor": "",
+    "alternate_actors": [],
+    "alive": false,
+    "image": ""
+  },
+  {
     "id": "d08ba2a1-2104-4719-89ec-4aab5d9b9072",
     "name": "Andromeda Tonks",
     "alternate_names": [],
@@ -7291,7 +7347,9 @@
   {
     "id": "d072aa84-ec4d-4c2f-a0a1-8831e1f6396a",
     "name": "Eric Munch",
-    "alternate_names": [],
+    "alternate_names": [
+      "Eric"
+    ],
     "species": "human",
     "gender": "male",
     "house": "",
@@ -8049,7 +8107,9 @@
   {
     "id": "4de07608-5dd6-451d-9efc-ccceefb9a2f6",
     "name": "Dilys Derwent",
-    "alternate_names": [],
+    "alternate_names": [
+      "Professor Dilys Derwent"
+    ],
     "species": "human",
     "gender": "female",
     "house": "",
@@ -8354,6 +8414,32 @@
     "hogwartsStudent": false,
     "hogwartsStaff": false,
     "actor": "Richard Leaf",
+    "alternate_actors": [],
+    "alive": true,
+    "image": ""
+  },
+  {
+    "id": "b15d184d-b595-4cd5-8881-70a7ed191606",
+    "name": "Williamson",
+    "alternate_names": [],
+    "species": "human",
+    "gender": "male",
+    "house": "",
+    "dateOfBirth": null,
+    "yearOfBirth": null,
+    "wizard": true,
+    "ancestry": "",
+    "eyeColour": "",
+    "hairColour": "",
+    "wand": {
+      "wood": "",
+      "core": "",
+      "length": null
+    },
+    "patronus": "",
+    "hogwartsStudent": false,
+    "hogwartsStaff": false,
+    "actor": "",
     "alternate_actors": [],
     "alive": true,
     "image": ""
@@ -8705,6 +8791,58 @@
     "image": ""
   },
   {
+    "id": "64108512-af58-4c1c-af8b-0cfa74a41b93",
+    "name": "The British Prime Minister",
+    "alternate_names": [],
+    "species": "human",
+    "gender": "male",
+    "house": "",
+    "dateOfBirth": null,
+    "yearOfBirth": null,
+    "wizard": false,
+    "ancestry": "muggle",
+    "eyeColour": "",
+    "hairColour": "",
+    "wand": {
+      "wood": "",
+      "core": "",
+      "length": null
+    },
+    "patronus": "",
+    "hogwartsStudent": false,
+    "hogwartsStaff": false,
+    "actor": "",
+    "alternate_actors": [],
+    "alive": true,
+    "image": ""
+  },
+  {
+    "id": "4fe08098-1ee3-4196-a3be-3fe78a7d208b",
+    "name": "Ulick Gamp",
+    "alternate_names": [],
+    "species": "human",
+    "gender": "male",
+    "house": "",
+    "dateOfBirth": null,
+    "yearOfBirth": null,
+    "wizard": true,
+    "ancestry": "",
+    "eyeColour": "yellow",
+    "hairColour": "silver",
+    "wand": {
+      "wood": "",
+      "core": "",
+      "length": null
+    },
+    "patronus": "",
+    "hogwartsStudent": false,
+    "hogwartsStaff": false,
+    "actor": "",
+    "alternate_actors": [],
+    "alive": false,
+    "image": ""
+  },
+  {
     "id": "2859f35c-8c47-4a8e-8649-61499a9352df",
     "name": "Rufus Scrimgeour",
     "alternate_names": [],
@@ -8925,6 +9063,32 @@
     "ancestry": "",
     "eyeColour": "",
     "hairColour": "blonde",
+    "wand": {
+      "wood": "",
+      "core": "",
+      "length": null
+    },
+    "patronus": "",
+    "hogwartsStudent": false,
+    "hogwartsStaff": false,
+    "actor": "",
+    "alternate_actors": [],
+    "alive": true,
+    "image": ""
+  },
+  {
+    "id": "da1dc2c1-49cf-4499-b169-b0b342ae8245",
+    "name": "Arnold",
+    "alternate_names": [],
+    "species": "pygmy puff",
+    "gender": "male",
+    "house": "",
+    "dateOfBirth": null,
+    "yearOfBirth": null,
+    "wizard": false,
+    "ancestry": "",
+    "eyeColour": "",
+    "hairColour": "purple",
     "wand": {
       "wood": "",
       "core": "",
@@ -9724,7 +9888,7 @@
   },
   {
     "id": "c86421d3-d5a1-4ab3-a980-1ba6bca5e572",
-    "name": "Sangwini",
+    "name": "Sanguini",
     "alternate_names": [],
     "species": "vampire",
     "gender": "male",
@@ -10139,6 +10303,32 @@
     "image": ""
   },
   {
+    "id": "01657fd1-aa13-482a-a5d0-25c19c95b9c9",
+    "name": "Wakanda",
+    "alternate_names": [],
+    "species": "human",
+    "gender": "female",
+    "house": "",
+    "dateOfBirth": null,
+    "yearOfBirth": null,
+    "wizard": true,
+    "ancestry": "",
+    "eyeColour": "",
+    "hairColour": "blonde",
+    "wand": {
+      "wood": "",
+      "core": "",
+      "length": null
+    },
+    "patronus": "",
+    "hogwartsStudent": false,
+    "hogwartsStaff": false,
+    "actor": "Harriet Thorpe",
+    "alternate_actors": [],
+    "alive": true,
+    "image": ""
+  },
+  {
     "id": "61d78dce-890b-4f02-844f-b41d66553802",
     "name": "Charity Burbage",
     "alternate_names": [],
@@ -10428,7 +10618,8 @@
     "id": "f7457448-8382-4e5e-b72a-0044fc6f8958",
     "name": "Muriel",
     "alternate_names": [
-      "Aunt Muriel"
+      "Aunt Muriel",
+      "Auntie Muriel"
     ],
     "species": "human",
     "gender": "female",
@@ -11255,7 +11446,9 @@
   {
     "id": "2550709a-d94b-4794-bb5f-a8d6ba546011",
     "name": "Dexter Fortescue",
-    "alternate_names": [],
+    "alternate_names": [
+      "Professor Dexter Fortescue"
+    ],
     "species": "human",
     "gender": "male",
     "house": "",
