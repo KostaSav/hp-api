@@ -3460,6 +3460,34 @@
     "image": ""
   },
   {
+    "id": "ecd3572f-0694-41cc-a59d-392dc3922212",
+    "name": "Kreacher",
+    "alternate_names": [],
+    "species": "house-elf",
+    "gender": "male",
+    "house": "",
+    "dateOfBirth": null,
+    "yearOfBirth": null,
+    "wizard": false,
+    "ancestry": "",
+    "eyeColour": "",
+    "hairColour": "white",
+    "wand": {
+      "wood": "",
+      "core": "",
+      "length": null
+    },
+    "patronus": "",
+    "hogwartsStudent": false,
+    "hogwartsStaff": false,
+    "actor": "Timothy Bateson",
+    "alternate_actors": [
+      "Simon McBurney"
+    ],
+    "alive": false,
+    "image": ""
+  },
+  {
     "id": "cd022893-b7ea-4bd8-a4fb-c9933c695813",
     "name": "Mr Mason",
     "alternate_names": [],
@@ -7183,6 +7211,34 @@
     "image": ""
   },
   {
+    "id": "6dc3e8c4-e634-4f92-aaf2-93ba0f9d3d35",
+    "name": "Mrs Black",
+    "alternate_names": [
+      "Walburga Black"
+    ],
+    "species": "human",
+    "gender": "female",
+    "house": "",
+    "dateOfBirth": null,
+    "yearOfBirth": null,
+    "wizard": true,
+    "ancestry": "pure-blood",
+    "eyeColour": "brown",
+    "hairColour": "brown",
+    "wand": {
+      "wood": "",
+      "core": "",
+      "length": null
+    },
+    "patronus": "",
+    "hogwartsStudent": false,
+    "hogwartsStaff": false,
+    "actor": "",
+    "alternate_actors": [],
+    "alive": false,
+    "image": ""
+  },
+  {
     "id": "d08ba2a1-2104-4719-89ec-4aab5d9b9072",
     "name": "Andromeda Tonks",
     "alternate_names": [],
@@ -7291,7 +7347,9 @@
   {
     "id": "d072aa84-ec4d-4c2f-a0a1-8831e1f6396a",
     "name": "Eric Munch",
-    "alternate_names": [],
+    "alternate_names": [
+      "Eric"
+    ],
     "species": "human",
     "gender": "male",
     "house": "",
@@ -8049,7 +8107,9 @@
   {
     "id": "4de07608-5dd6-451d-9efc-ccceefb9a2f6",
     "name": "Dilys Derwent",
-    "alternate_names": [],
+    "alternate_names": [
+      "Professor Dilys Derwent"
+    ],
     "species": "human",
     "gender": "female",
     "house": "",
@@ -8354,6 +8414,32 @@
     "hogwartsStudent": false,
     "hogwartsStaff": false,
     "actor": "Richard Leaf",
+    "alternate_actors": [],
+    "alive": true,
+    "image": ""
+  },
+  {
+    "id": "b15d184d-b595-4cd5-8881-70a7ed191606",
+    "name": "Williamson",
+    "alternate_names": [],
+    "species": "human",
+    "gender": "male",
+    "house": "",
+    "dateOfBirth": null,
+    "yearOfBirth": null,
+    "wizard": true,
+    "ancestry": "",
+    "eyeColour": "",
+    "hairColour": "",
+    "wand": {
+      "wood": "",
+      "core": "",
+      "length": null
+    },
+    "patronus": "",
+    "hogwartsStudent": false,
+    "hogwartsStaff": false,
+    "actor": "",
     "alternate_actors": [],
     "alive": true,
     "image": ""
@@ -11255,7 +11341,9 @@
   {
     "id": "2550709a-d94b-4794-bb5f-a8d6ba546011",
     "name": "Dexter Fortescue",
-    "alternate_names": [],
+    "alternate_names": [
+      "Professor Dexter Fortescue"
+    ],
     "species": "human",
     "gender": "male",
     "house": "",
