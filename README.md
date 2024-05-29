@@ -19,4 +19,6 @@ Alternatively, just press the button :point_down:.
 1. [ ] Beautify website
 2. [ ] Implement website SEO
 3. [ ] Add missing character images
+4. [ ] Add the Weird Sisters members
+5. [ ] Configure URLs under index.html to point to the corresponding host (Render, Heroku) (Issue #85)
 
