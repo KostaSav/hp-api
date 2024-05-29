@@ -618,6 +618,32 @@
     "image": "https://ik.imagekit.io/hpapi/crabbe.jpg"
   },
   {
+    "id": "32923dab-16e1-4da1-8af7-bf9bec9ece1b",
+    "name": "Mr Crabbe",
+    "alternate_names": [],
+    "species": "human",
+    "gender": "male",
+    "house": "",
+    "dateOfBirth": null,
+    "yearOfBirth": null,
+    "wizard": true,
+    "ancestry": "pure-blood",
+    "eyeColour": "",
+    "hairColour": "",
+    "wand": {
+      "wood": "",
+      "core": "",
+      "length": null
+    },
+    "patronus": "",
+    "hogwartsStudent": false,
+    "hogwartsStaff": false,
+    "actor": "Paschal Friel",
+    "alternate_actors": [],
+    "alive": false,
+    "image": ""
+  },
+  {
     "id": "a31ddc78-af12-4978-929c-3cc8a00a833e",
     "name": "Gregory Goyle",
     "alternate_names": [],
@@ -642,6 +668,32 @@
     "alternate_actors": [],
     "alive": true,
     "image": "https://ik.imagekit.io/hpapi/goyle.jpg"
+  },
+  {
+    "id": "0d72d9ce-9560-4e72-bd2e-f0af02f32caa",
+    "name": "Mr Goyle",
+    "alternate_names": [],
+    "species": "human",
+    "gender": "male",
+    "house": "",
+    "dateOfBirth": null,
+    "yearOfBirth": null,
+    "wizard": true,
+    "ancestry": "pure-blood",
+    "eyeColour": "",
+    "hairColour": "",
+    "wand": {
+      "wood": "",
+      "core": "",
+      "length": null
+    },
+    "patronus": "",
+    "hogwartsStudent": true,
+    "hogwartsStaff": false,
+    "actor": "Alex Palmer",
+    "alternate_actors": [],
+    "alive": true,
+    "image": ""
   },
   {
     "id": "b0620914-858d-46fc-8e6d-033c565e138b",
@@ -2164,6 +2216,58 @@
     "image": ""
   },
   {
+    "id": "ac4b1b72-bf4b-4034-a638-9b6526756e79",
+    "name": "Mrs Finnigan",
+    "alternate_names": [],
+    "species": "human",
+    "gender": "female",
+    "house": "",
+    "dateOfBirth": null,
+    "yearOfBirth": null,
+    "wizard": true,
+    "ancestry": "",
+    "eyeColour": "",
+    "hairColour": "sandy",
+    "wand": {
+      "wood": "",
+      "core": "",
+      "length": null
+    },
+    "patronus": "",
+    "hogwartsStudent": false,
+    "hogwartsStaff": false,
+    "actor": "",
+    "alternate_actors": [],
+    "alive": true,
+    "image": ""
+  },
+  {
+    "id": "856f747e-7617-42a8-9b80-5f0d8df3cb49",
+    "name": "Mr Finnigan",
+    "alternate_names": [],
+    "species": "human",
+    "gender": "male",
+    "house": "",
+    "dateOfBirth": null,
+    "yearOfBirth": null,
+    "wizard": false,
+    "ancestry": "muggle",
+    "eyeColour": "",
+    "hairColour": "",
+    "wand": {
+      "wood": "",
+      "core": "",
+      "length": null
+    },
+    "patronus": "",
+    "hogwartsStudent": false,
+    "hogwartsStaff": false,
+    "actor": "",
+    "alternate_actors": [],
+    "alive": true,
+    "image": ""
+  },
+  {
     "id": "ec714982-e604-40d4-bd4c-dc5155506957",
     "name": "Morag MacDougal",
     "alternate_names": [],
@@ -2237,6 +2341,32 @@
     "hogwartsStudent": true,
     "hogwartsStaff": false,
     "actor": "",
+    "alternate_actors": [],
+    "alive": true,
+    "image": ""
+  },
+  {
+    "id": "343cbce6-6dc2-4fb7-b982-92375a64995f",
+    "name": "Mr Nott",
+    "alternate_names": [],
+    "species": "human",
+    "gender": "male",
+    "house": "",
+    "dateOfBirth": null,
+    "yearOfBirth": null,
+    "wizard": true,
+    "ancestry": "pure-blood",
+    "eyeColour": "",
+    "hairColour": "",
+    "wand": {
+      "wood": "",
+      "core": "",
+      "length": null
+    },
+    "patronus": "",
+    "hogwartsStudent": true,
+    "hogwartsStaff": false,
+    "actor": "Philip Rham",
     "alternate_actors": [],
     "alive": true,
     "image": ""
@@ -3198,6 +3328,34 @@
     "image": ""
   },
   {
+    "id": "629c375a-d126-4df4-8f8e-ed63360ecc97",
+    "name": "Murcus",
+    "alternate_names": [
+      "Merchieftainess Murcus"
+    ],
+    "species": "selkie",
+    "gender": "female",
+    "house": "",
+    "dateOfBirth": null,
+    "yearOfBirth": null,
+    "wizard": false,
+    "ancestry": "",
+    "eyeColour": "yellow",
+    "hairColour": "green",
+    "wand": {
+      "wood": "",
+      "core": "",
+      "length": null
+    },
+    "patronus": "",
+    "hogwartsStudent": false,
+    "hogwartsStaff": false,
+    "actor": "",
+    "alternate_actors": [],
+    "alive": true,
+    "image": ""
+  },
+  {
     "id": "c8f7f244-97ac-449e-922d-a30f063a1ad0",
     "name": "Elfrick the Eager",
     "alternate_names": [],
@@ -4084,6 +4242,34 @@
     "image": ""
   },
   {
+    "id": "7eb08ad7-b452-40ec-969a-32443f66a171",
+    "name": "Oblansk",
+    "alternate_names": [
+      "Obalonsk"
+    ],
+    "species": "human",
+    "gender": "male",
+    "house": "",
+    "dateOfBirth": null,
+    "yearOfBirth": null,
+    "wizard": true,
+    "ancestry": "",
+    "eyeColour": "",
+    "hairColour": "",
+    "wand": {
+      "wood": "",
+      "core": "",
+      "length": null
+    },
+    "patronus": "",
+    "hogwartsStudent": false,
+    "hogwartsStaff": false,
+    "actor": "",
+    "alternate_actors": [],
+    "alive": true,
+    "image": ""
+  },
+  {
     "id": "a08aebd0-49fb-4d5d-b3db-52bf8f7ce594",
     "name": "Aragog",
     "alternate_names": [],
@@ -4759,6 +4945,60 @@
     "image": ""
   },
   {
+    "id": "47213655-b48e-46a4-9e1f-adf6e3c5ceb8",
+    "name": "Barty Crouch Junior",
+    "alternate_names": [
+      "Bartemius Crouch Junior"
+    ],
+    "species": "human",
+    "gender": "male",
+    "house": "",
+    "dateOfBirth": null,
+    "yearOfBirth": null,
+    "wizard": true,
+    "ancestry": "",
+    "eyeColour": "",
+    "hairColour": "blond",
+    "wand": {
+      "wood": "",
+      "core": "",
+      "length": null
+    },
+    "patronus": "",
+    "hogwartsStudent": false,
+    "hogwartsStaff": false,
+    "actor": "David Tennant",
+    "alternate_actors": [],
+    "alive": true,
+    "image": ""
+  },
+  {
+    "id": "a9f81472-647b-4e28-ae82-6eaebed0a523",
+    "name": "Mrs Crouch",
+    "alternate_names": [],
+    "species": "human",
+    "gender": "female",
+    "house": "",
+    "dateOfBirth": null,
+    "yearOfBirth": null,
+    "wizard": true,
+    "ancestry": "",
+    "eyeColour": "",
+    "hairColour": "",
+    "wand": {
+      "wood": "",
+      "core": "",
+      "length": null
+    },
+    "patronus": "",
+    "hogwartsStudent": false,
+    "hogwartsStaff": false,
+    "actor": "",
+    "alternate_actors": [],
+    "alive": false,
+    "image": ""
+  },
+  {
     "id": "13f1edc7-e2e2-4f3d-9637-f3e897a484b7",
     "name": "Ludo Bagman",
     "alternate_names": [
@@ -4813,6 +5053,32 @@
     "image": ""
   },
   {
+    "id": "c823ba3c-1c0c-4916-8c3a-43b4719eff5c",
+    "name": "Mrs Diggory",
+    "alternate_names": [],
+    "species": "human",
+    "gender": "female",
+    "house": "",
+    "dateOfBirth": null,
+    "yearOfBirth": null,
+    "wizard": true,
+    "ancestry": "",
+    "eyeColour": "",
+    "hairColour": "",
+    "wand": {
+      "wood": "",
+      "core": "",
+      "length": null
+    },
+    "patronus": "",
+    "hogwartsStudent": false,
+    "hogwartsStaff": false,
+    "actor": "",
+    "alternate_actors": [],
+    "alive": true,
+    "image": ""
+  },
+  {
     "id": "2d25ada6-801e-4943-acca-adffc942820b",
     "name": "Mr Roberts",
     "alternate_names": [],
@@ -4823,6 +5089,58 @@
     "yearOfBirth": null,
     "wizard": false,
     "ancestry": "muggle",
+    "eyeColour": "",
+    "hairColour": "",
+    "wand": {
+      "wood": "",
+      "core": "",
+      "length": null
+    },
+    "patronus": "",
+    "hogwartsStudent": false,
+    "hogwartsStaff": false,
+    "actor": "",
+    "alternate_actors": [],
+    "alive": true,
+    "image": ""
+  },
+  {
+    "id": "007484ab-9a1f-4a6c-a219-21a626a215d4",
+    "name": "Mrs Roberts",
+    "alternate_names": [],
+    "species": "human",
+    "gender": "female",
+    "house": "",
+    "dateOfBirth": null,
+    "yearOfBirth": null,
+    "wizard": false,
+    "ancestry": "muggle",
+    "eyeColour": "",
+    "hairColour": "",
+    "wand": {
+      "wood": "",
+      "core": "",
+      "length": null
+    },
+    "patronus": "",
+    "hogwartsStudent": false,
+    "hogwartsStaff": false,
+    "actor": "",
+    "alternate_actors": [],
+    "alive": true,
+    "image": ""
+  },
+  {
+    "id": "6997fac6-0bbf-434b-af95-eff4b9f1fd33",
+    "name": "Kevin",
+    "alternate_names": [],
+    "species": "human",
+    "gender": "male",
+    "house": "",
+    "dateOfBirth": null,
+    "yearOfBirth": null,
+    "wizard": true,
+    "ancestry": "",
     "eyeColour": "",
     "hairColour": "",
     "wand": {
