@@ -2,7 +2,7 @@
 
 A JSON-based API for getting information on Harry Potter characters and spells. 
 
-Hosted at:  https://hp-api.onrender.com
+Hosted at:  https://hp-api.onrender.com  
 Fallback:   https://hp-api.herokuapp.com
 
 ## Postman Collections
