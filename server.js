@@ -3,6 +3,12 @@ var app = express();
 var characters = require("./data/characters.json");
 var spells = require("./data/spells.json");
 
+/*
+Remove the X-Powered-By HTTP header
+https://www.npmjs.com/package/hide-powered-by
+*/
+app.disable('x-powered-by');
+
 app.use("/api", function (req, res, next) {
   res.setHeader("Access-Control-Allow-Origin", "*");
   next();
