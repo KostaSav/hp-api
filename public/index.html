@@ -1,69 +1,515 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>HP-API // The Harry Potter API</title>
-  <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
-  <link rel="stylesheet" type="text/css" href="./style.css">
-  <link type="image/png" sizes="16x16" rel="icon" href="./images/Favicons/icons8-harry-potter-papercut-16.png">
-  <link type="image/png" sizes="32x32" rel="icon" href="./images/Favicons/icons8-harry-potter-papercut-32.png">
-  <link type="image/png" sizes="96x96" rel="icon" href="./images/Favicons/icons8-harry-potter-papercut-96.png">
-  <link type="image/png" sizes="120x120" rel="icon" href="./images/Favicons/icons8-harry-potter-papercut-120.png">
-  <link rel="icon" type="image/png" sizes="72x72" href="./images/Favicons/icons8-harry-potter-papercut-72.png">
-  <link rel="icon" type="image/png" sizes="96x96" href="./images/Favicons/icons8-harry-potter-papercut-96.png">
-  <link rel="icon" type="image/png" sizes="144x144" href="./images/Favicons/icons8-harry-potter-papercut-144.png">
-  <link rel="icon" type="image/png" sizes="192x192" href="./images/Favicons/icons8-harry-potter-papercut-192.png">
-  <link rel="icon" type="image/png" sizes="512x512" href="./images/Favicons/icons8-harry-potter-papercut-512.png">
-  <link rel="apple-touch-icon" type="image/png" sizes="57x57" href="./images/Favicons/icons8-harry-potter-papercut-57.png">
-  <link rel="apple-touch-icon" type="image/png" sizes="60x60" href="./images/Favicons/icons8-harry-potter-papercut-60.png">
-  <link rel="apple-touch-icon" type="image/png" sizes="72x72" href="./images/Favicons/icons8-harry-potter-papercut-72.png">
-  <link rel="apple-touch-icon" type="image/png" sizes="76x76" href="./images/Favicons/icons8-harry-potter-papercut-76.png">
-  <link rel="apple-touch-icon" type="image/png" sizes="114x114" href="./images/Favicons/icons8-harry-potter-papercut-114.png">
-  <link rel="apple-touch-icon" type="image/png" sizes="120x120" href="./images/Favicons/icons8-harry-potter-papercut-120.png">
-  <link rel="apple-touch-icon" type="image/png" sizes="144x144" href="./images/Favicons/icons8-harry-potter-papercut-144.png">
-  <link rel="apple-touch-icon" type="image/png" sizes="152x152" href="./images/Favicons/icons8-harry-potter-papercut-152.png">
-  <link rel="apple-touch-icon" type="image/png" sizes="180x180" href="./images/Favicons/icons8-harry-potter-papercut-180.png">
-  <link color="#26E07F" rel="mask-icon" href="./images/Favicons/icons8-harry-potter-papercut-120.svg">
-  <meta name="msapplication-square70x70logo" content="./images/Favicons/icons8-harry-potter-papercut-70.png">
-  <meta name="msapplication-TileImage" content="./images/Favicons/icons8-harry-potter-papercut-144.png">
-  <meta name="msapplication-square150x150logo" content="./images/Favicons/icons8-harry-potter-papercut-150.png">
-  <meta name="msapplication-square310x310logo" content="./images/Favicons/icons8-harry-potter-papercut-310.png">
-  <meta name="msapplication-TileColor" content="#C0FFEE">
-  <meta name="application-name" content="Beautiful application name">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>HP-API // The Harry Potter API</title>
+    <link
+      href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400;600;700&family=Lora:wght@300;400;500&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" type="text/css" href="./style.css" />
+    <link
+      type="image/png"
+      sizes="16x16"
+      rel="icon"
+      href="./images/Favicons/icons8-harry-potter-papercut-16.png"
+    />
+    <link
+      type="image/png"
+      sizes="32x32"
+      rel="icon"
+      href="./images/Favicons/icons8-harry-potter-papercut-32.png"
+    />
+    <link
+      type="image/png"
+      sizes="96x96"
+      rel="icon"
+      href="./images/Favicons/icons8-harry-potter-papercut-96.png"
+    />
+    <link
+      rel="icon"
+      type="image/png"
+      sizes="192x192"
+      href="./images/Favicons/icons8-harry-potter-papercut-192.png"
+    />
   </head>
-<body>
-  <header>
-    <h2>Welcome to the <span class="title">HP-API!</span></h2>
-  </header>
-  <main>
-    <div class="container">
-      <div class="container_title">
-        <h1>Use these routes to request data on Harry Potter characters or spells:</h1>
-      </div>
-      <div class="container_list">
-        <ul class="container_style">
-          <li class="container_li"><a href="https://hp-api.onrender.com/api/characters">All Characters</a></li>
-          <li class="container_li"><a href="https://hp-api.onrender.com/api/character/:id">Specific Character by ID</a></li>
-          <li class="container_li"><a href="https://hp-api.onrender.com/api/characters/students">Hogwarts Students</a></li>
-          <li class="container_li"><a href="https://hp-api.onrender.com/api/characters/staff">Hogwarts Staff</a></li>
-          <li class="container_li"><a href="https://hp-api.onrender.com/api/characters/house/gryffindor">Characters in a House</a></li>
-          <li class="container_li"><a href="https://hp-api.onrender.com/api/spells">All Spells</a></li>
-        </ul>
-      </div>
+  <body>
+    <div class="magical-background">
+      <div class="sparkles"></div>
+      <div class="floating-symbols">⚡✨⚡</div>
     </div>
-    <p>No API key is required. Feel free to explore and enjoy the magic!</p>
-    <p>Project created by Beth and maintained by <a href="https://github.com/KostaSav" class="dev">Kostas</a>. Visit the <a href="https://github.com/bethfraser/hp-api" class="dev">GitHub repo</a> to see the code.</p>
-  </main>
-  <footer>
-    <p><a target="_blank" href="https://icons8.com/icon/HW150WXZyOKQ/harry-potter">Harry Potter</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a></p>
-    &copy; <span id="footer_year">2023</span> HP-API. All rights reserved.
-  </footer>
 
-  <!-- Updating the year automatically using js -->
-  <script>
-    const date = new Date;
-    document.getElementById('footer_year').innerHTML=date.getFullYear();
-  </script>
-</body>
+    <header class="hp-header">
+      <div class="header-content">
+        <div class="title-container">
+          <div class="logo-icon">⚡</div>
+          <h1>HP-API</h1>
+          <div class="logo-icon">⚡</div>
+        </div>
+        <p class="subtitle">
+          <span class="magic-underline">A magical JSON API</span> for Harry
+          Potter characters, spells, and the wizarding world
+        </p>
+        <div class="hogwarts-houses">
+          <span class="house gryffindor">Gryffindor</span>
+          <span class="house hufflepuff">Hufflepuff</span>
+          <span class="house ravenclaw">Ravenclaw</span>
+          <span class="house slytherin">Slytherin</span>
+        </div>
+      </div>
+    </header>
+
+    <main class="doc-root">
+      <section class="controls magical-section">
+        <div class="section-header">
+          <div class="wand-icon">🪄</div>
+          <h2>Configure Your Base URL</h2>
+        </div>
+        <div class="control-group">
+          <label for="baseUrl" class="control-label">Choose Your Server:</label>
+          <select id="baseUrl" class="magical-select">
+            <option value="https://hp-api.onrender.com">
+              🌍 Production - https://hp-api.onrender.com
+            </option>
+            <option value="http://localhost:5000">
+              🏠 Local - http://localhost:5000
+            </option>
+          </select>
+        </div>
+      </section>
+
+      <section class="endpoints-section">
+        <div class="section-header">
+          <div class="scroll-icon">📜</div>
+          <h2>Magical Endpoints</h2>
+        </div>
+
+        <div class="endpoints-grid">
+          <div
+            class="endpoint-card gryffindor-card"
+            data-path="/api/characters"
+          >
+            <div class="card-header">
+              <div class="card-icon">👤</div>
+              <h3>/api/characters</h3>
+              <span class="card-badge">GET</span>
+            </div>
+            <p class="card-description">
+              Returns all characters (wizards, witches, magical creatures)
+            </p>
+            <div class="card-examples">
+              <div class="example">
+                <label>curl</label>
+                <pre><code id="curl--api-characters">curl -s {base}/api/characters | jq .</code></pre>
+              </div>
+              <div class="example">
+                <label>fetch (JavaScript)</label>
+                <pre><code id="fetch--api-characters">fetch('{base}/api/characters').then(r=>r.json())</code></pre>
+              </div>
+            </div>
+            <div class="card-footer">
+              <button class="try-btn" data-path="/api/characters">
+                <span class="btn-icon">✨</span> Try This Spell
+              </button>
+            </div>
+          </div>
+
+          <div
+            class="endpoint-card ravenclaw-card"
+            data-path="/api/character/:id"
+          >
+            <div class="card-header">
+              <div class="card-icon">🔍</div>
+              <h3>/api/character/:id</h3>
+              <span class="card-badge">GET</span>
+            </div>
+            <p class="card-description">
+              Find a specific character by their unique ID
+            </p>
+            <div class="card-input">
+              <input
+                id="characterId"
+                type="text"
+                placeholder="Enter character ID (e.g., 1, 2, 3...)"
+                class="magical-input"
+              />
+            </div>
+            <div class="card-examples">
+              <div class="example">
+                <label>Example</label>
+                <pre><code id="curl--api-character">curl -s {base}/api/character/9e3f7ce4-b9a7-4244-b709-dae5c1f1d4a8 | jq .</code></pre>
+              </div>
+            </div>
+            <div class="card-footer">
+              <button class="try-btn" data-path="/api/character/">
+                <span class="btn-icon">🔮</span> Locate Character
+              </button>
+            </div>
+          </div>
+
+          <div
+            class="endpoint-card hufflepuff-card"
+            data-path="/api/characters/students"
+          >
+            <div class="card-header">
+              <div class="card-icon">🎓</div>
+              <h3>/api/characters/students</h3>
+              <span class="card-badge">GET</span>
+            </div>
+            <p class="card-description">
+              Retrieve all Hogwarts students (past and present)
+            </p>
+            <div class="card-examples">
+              <div class="example">
+                <label>Quick Access</label>
+                <pre><code id="curl--api-students">curl -s {base}/api/characters/students</code></pre>
+              </div>
+            </div>
+            <div class="card-footer">
+              <button class="try-btn" data-path="/api/characters/students">
+                <span class="btn-icon">📚</span> Find Students
+              </button>
+            </div>
+          </div>
+
+          <div
+            class="endpoint-card slytherin-card"
+            data-path="/api/characters/staff"
+          >
+            <div class="card-header">
+              <div class="card-icon">👨‍🏫</div>
+              <h3>/api/characters/staff</h3>
+              <span class="card-badge">GET</span>
+            </div>
+            <p class="card-description">
+              Access information about Hogwarts faculty and staff
+            </p>
+            <div class="card-examples">
+              <div class="example">
+                <label>Staff List</label>
+                <pre><code id="curl--api-staff">curl -s {base}/api/characters/staff</code></pre>
+              </div>
+            </div>
+            <div class="card-footer">
+              <button class="try-btn" data-path="/api/characters/staff">
+                <span class="btn-icon">🏰</span> View Staff
+              </button>
+            </div>
+          </div>
+
+          <div
+            class="endpoint-card gryffindor-card"
+            data-path="/api/characters/house/:house"
+          >
+            <div class="card-header">
+              <div class="card-icon">🏠</div>
+              <h3>/api/characters/house/:house</h3>
+              <span class="card-badge">GET</span>
+            </div>
+            <p class="card-description">
+              Find characters from a specific Hogwarts house
+            </p>
+            <div class="card-input">
+              <select id="houseName" class="house-select">
+                <option value="gryffindor">Gryffindor 🦁</option>
+                <option value="slytherin">Slytherin 🐍</option>
+                <option value="ravenclaw">Ravenclaw 🦅</option>
+                <option value="hufflepuff">Hufflepuff 🦡</option>
+              </select>
+            </div>
+            <div class="card-examples">
+              <div class="example">
+                <label>House Query</label>
+                <pre><code id="curl--api-house">curl -s {base}/api/characters/house/gryffindor</code></pre>
+              </div>
+            </div>
+            <div class="card-footer">
+              <button class="try-btn" data-path="/api/characters/house/">
+                <span class="btn-icon">🛡️</span> Enter Common Room
+              </button>
+            </div>
+          </div>
+
+          <div class="endpoint-card ravenclaw-card" data-path="/api/spells">
+            <div class="card-header">
+              <div class="card-icon">⚡</div>
+              <h3>/api/spells</h3>
+              <span class="card-badge">GET</span>
+            </div>
+            <p class="card-description">
+              Discover all magical spells and their incantations
+            </p>
+            <div class="card-examples">
+              <div class="example">
+                <label>Spellbook</label>
+                <pre><code id="curl--api-spells">curl -s {base}/api/spells | jq .</code></pre>
+              </div>
+            </div>
+            <div class="card-footer">
+              <button class="try-btn" data-path="/api/spells">
+                <span class="btn-icon">📖</span> Open Spellbook
+              </button>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <section class="response-section">
+        <div class="section-header">
+          <div class="parchment-icon">📃</div>
+          <h2>Magical Response</h2>
+        </div>
+        <div class="response-container">
+          <div class="response-controls">
+            <button id="clearResponse" class="control-btn">
+              <span class="btn-icon">🧹</span> Clear
+            </button>
+            <button id="downloadResponse" class="control-btn primary">
+              <span class="btn-icon">💾</span> Download JSON
+            </button>
+            <button id="prettyPrint" class="control-btn">
+              <span class="btn-icon">✨</span> Format
+            </button>
+          </div>
+          <div class="response-viewer">
+            <div class="viewer-header">
+              <span class="status-light"></span>
+              <span class="viewer-title">Response from Hogwarts</span>
+            </div>
+            <pre id="responseViewer" class="json-output">
+{
+  "message": "Cast a spell by clicking any endpoint above...",
+  "hint": "The magic will appear here!"
+}</pre
+            >
+          </div>
+        </div>
+      </section>
+
+      <section class="instructions-section">
+        <div class="instructions-card">
+          <div class="section-header">
+            <div class="owl-icon">🦉</div>
+            <h2>How to Use This Magic</h2>
+          </div>
+          <div class="steps">
+            <div class="step">
+              <div class="step-number">1</div>
+              <div class="step-content">
+                <h3>Choose Your Server</h3>
+                <p>
+                  Select between production or local server from the dropdown
+                </p>
+              </div>
+            </div>
+            <div class="step">
+              <div class="step-number">2</div>
+              <div class="step-content">
+                <h3>Select an Endpoint</h3>
+                <p>
+                  Pick from characters, spells, houses, or specific searches
+                </p>
+              </div>
+            </div>
+            <div class="step">
+              <div class="step-number">3</div>
+              <div class="step-content">
+                <h3>Cast Your Spell</h3>
+                <p>Click "Try This Spell" or customize parameters first</p>
+              </div>
+            </div>
+            <div class="step">
+              <div class="step-number">4</div>
+              <div class="step-content">
+                <h3>Receive Magic</h3>
+                <p>View, format, or download the magical JSON response</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <section class="footer-section">
+        <div class="magical-footer">
+          <p class="footer-message">
+            <span class="sparkle">✨</span>
+            No API key required. This magic is free for all witches, wizards,
+            and muggles!
+            <span class="sparkle">✨</span>
+          </p>
+          <div class="footer-links">
+            <a href="https://github.com/bethfraser/hp-api" class="footer-link">
+              <span class="link-icon">⚡</span> Original Source
+            </a>
+            <a href="https://github.com/KostaSav" class="footer-link">
+              <span class="link-icon">🪄</span> Maintained by KostaSav
+            </a>
+          </div>
+          <div class="copyright">
+            <small
+              >&copy; <span id="footer_year">2023</span> HP-API - The Harry
+              Potter API</small
+            >
+            <small class="disclaimer"
+              >This project is not affiliated with J.K. Rowling or Warner
+              Bros.</small
+            >
+          </div>
+        </div>
+      </section>
+    </main>
+
+    <script>
+      // Enhanced JavaScript with magical effects
+      document.addEventListener("DOMContentLoaded", function () {
+        const baseSelect = document.getElementById("baseUrl");
+        const responseViewer = document.getElementById("responseViewer");
+        const clearBtn = document.getElementById("clearResponse");
+        const downloadBtn = document.getElementById("downloadResponse");
+        const prettyPrintBtn = document.getElementById("prettyPrint");
+
+        // Set current year in footer
+        document.getElementById("footer_year").textContent =
+          new Date().getFullYear();
+
+        // Magical sparkle effect
+        function createSparkle() {
+          const sparkle = document.createElement("div");
+          sparkle.className = "sparkle";
+          sparkle.style.left = Math.random() * 100 + "vw";
+          sparkle.style.animationDuration = Math.random() * 2 + 1 + "s";
+          document.querySelector(".sparkles").appendChild(sparkle);
+          setTimeout(() => sparkle.remove(), 3000);
+        }
+
+        // Initialize sparkles
+        setInterval(createSparkle, 500);
+
+        // Update example templates with selected base URL
+        function renderExamples() {
+          const base = baseSelect.value;
+          document.querySelectorAll("code").forEach((code) => {
+            code.textContent = code.textContent.replace(/\{base\}/g, base);
+          });
+        }
+
+        baseSelect.addEventListener("change", renderExamples);
+
+        // Enhanced try button functionality with magical effects
+        document.querySelectorAll(".try-btn").forEach((btn) => {
+          btn.addEventListener("click", async (e) => {
+            btn.classList.add("casting");
+            setTimeout(() => btn.classList.remove("casting"), 600);
+
+            const base = baseSelect.value;
+            const path = btn.getAttribute("data-path");
+            let url = "";
+
+            if (path.endsWith("/")) {
+              if (path.includes("character") && !path.includes("house")) {
+                const id = document.getElementById("characterId")?.value.trim();
+                if (!id) {
+                  showMessage("🔮 Please enter a character ID", "warning");
+                  return;
+                }
+                url = base + path + encodeURIComponent(id);
+              } else if (path.includes("house")) {
+                const house =
+                  document.getElementById("houseName")?.value || "gryffindor";
+                url = base + path + encodeURIComponent(house);
+              }
+            } else {
+              url = base + path;
+            }
+
+            updateResponseViewer("🪄 Casting spell...", "loading");
+            document.querySelector(".status-light").className =
+              "status-light loading";
+
+            try {
+              const res = await fetch(url);
+              const statusLight = document.querySelector(".status-light");
+              statusLight.className =
+                "status-light " + (res.ok ? "success" : "error");
+
+              const data = await res.json();
+              updateResponseViewer(JSON.stringify(data, null, 2), "success");
+            } catch (err) {
+              document.querySelector(".status-light").className =
+                "status-light error";
+              updateResponseViewer(`❌ Error: ${err.message}`, "error");
+            }
+          });
+        });
+
+        function updateResponseViewer(content, type = "normal") {
+          responseViewer.textContent = content;
+          responseViewer.className = `json-output ${type}`;
+        }
+
+        // Copy button functionality
+        document.querySelectorAll(".example").forEach((example) => {
+          const copyBtn = document.createElement("button");
+          copyBtn.className = "copy-btn";
+          copyBtn.innerHTML = "📋";
+          copyBtn.title = "Copy to clipboard";
+          example.appendChild(copyBtn);
+
+          copyBtn.addEventListener("click", () => {
+            const code = example.querySelector("code").textContent;
+            navigator.clipboard.writeText(code).then(() => {
+              copyBtn.innerHTML = "✅";
+              setTimeout(() => (copyBtn.innerHTML = "📋"), 2000);
+            });
+          });
+        });
+
+        // Control buttons
+        clearBtn.addEventListener("click", () => {
+          updateResponseViewer("✨ Response cleared", "info");
+          document.querySelector(".status-light").className = "status-light";
+        });
+
+        downloadBtn.addEventListener("click", () => {
+          const content = responseViewer.textContent || "";
+          const blob = new Blob([content], { type: "application/json" });
+          const url = URL.createObjectURL(blob);
+          const a = document.createElement("a");
+          a.href = url;
+          a.download = `hp-api-response-${Date.now()}.json`;
+          document.body.appendChild(a);
+          a.click();
+          a.remove();
+          URL.revokeObjectURL(url);
+        });
+
+        prettyPrintBtn.addEventListener("click", () => {
+          try {
+            const json = JSON.parse(responseViewer.textContent);
+            responseViewer.textContent = JSON.stringify(json, null, 2);
+          } catch {
+            // If not JSON, just leave as is
+          }
+        });
+
+        // Show welcome message
+        function showMessage(text, type = "info") {
+          const message = document.createElement("div");
+          message.className = `floating-message ${type}`;
+          message.textContent = text;
+          document.body.appendChild(message);
+          setTimeout(() => message.remove(), 3000);
+        }
+
+        // Initial render
+        renderExamples();
+
+        // Welcome message
+        setTimeout(() => {
+          showMessage("✨ Welcome to the Harry Potter API!", "welcome");
+        }, 1000);
+      });
+    </script>
+  </body>
 </html>

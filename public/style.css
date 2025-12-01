@@ -1,133 +1,901 @@
+/* style.css */
+:root {
+  --gryffindor-red: #740001;
+  --gryffindor-gold: #d3a625;
+  --slytherin-green: #1a472a;
+  --slytherin-silver: #aaaaaa;
+  --ravenclaw-blue: #0e1a40;
+  --ravenclaw-bronze: #946b2d;
+  --hufflepuff-yellow: #ffdb00;
+  --hufflepuff-black: #000000;
+  --parchment: #f5e9d4;
+  --dark-parchment: #e8d9b5;
+  --magic-purple: #8a2be2;
+  --sparkle-gold: #ffd700;
+  --spell-blue: #4169e1;
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
 body {
-  font-family: 'Roboto', sans-serif;
-  margin: 0;
-  padding: 0;
-  background-color: #f5f5f5;
+  font-family: "Lora", serif;
+  background: linear-gradient(135deg, #0a0e1a 0%, #1a1a2e 50%, #16213e 100%);
+  color: var(--parchment);
+  min-height: 100vh;
+  position: relative;
+  overflow-x: hidden;
 }
 
-header {
-  background-color: #333;
-  color: #fff;
+.magical-background {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  z-index: -1;
+  background: radial-gradient(
+      circle at 20% 30%,
+      rgba(116, 0, 1, 0.1) 0%,
+      transparent 50%
+    ),
+    radial-gradient(
+      circle at 80% 70%,
+      rgba(26, 71, 42, 0.1) 0%,
+      transparent 50%
+    ),
+    radial-gradient(
+      circle at 40% 80%,
+      rgba(14, 26, 64, 0.1) 0%,
+      transparent 50%
+    );
+}
+
+.sparkles {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  pointer-events: none;
+}
+
+.sparkle {
+  position: absolute;
+  width: 4px;
+  height: 4px;
+  background: var(--sparkle-gold);
+  border-radius: 50%;
+  filter: blur(1px);
+  animation: sparkle 2s linear forwards;
+}
+
+@keyframes sparkle {
+  0% {
+    opacity: 0;
+    transform: translateY(0) scale(0);
+  }
+  50% {
+    opacity: 1;
+    transform: translateY(-20px) scale(1);
+  }
+  100% {
+    opacity: 0;
+    transform: translateY(-40px) scale(0);
+  }
+}
+
+.floating-symbols {
+  position: absolute;
+  font-size: 24px;
+  opacity: 0.1;
+  animation: float 20s infinite linear;
+}
+
+@keyframes float {
+  0% {
+    transform: translateX(-100px) rotate(0deg);
+  }
+  100% {
+    transform: translateX(100vw) rotate(360deg);
+  }
+}
+
+/* Header Styles */
+.hp-header {
+  background: linear-gradient(
+    135deg,
+    rgba(116, 0, 1, 0.9) 0%,
+    rgba(14, 26, 64, 0.9) 100%
+  );
+  padding: 2rem 1rem;
   text-align: center;
-  padding: 1em 0;
+  position: relative;
+  overflow: hidden;
+  border-bottom: 4px solid var(--gryffindor-gold);
 }
 
-h2 span.title {
-  color: #ffd700; /* Gold color for the title */
+.hp-header::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><path fill="none" stroke="%23d3a625" stroke-width="0.5" d="M20,20 Q50,10 80,20 M20,50 Q50,40 80,50 M20,80 Q50,70 80,80"/></svg>');
+  opacity: 0.1;
 }
 
-main {
+.header-content {
+  position: relative;
+  z-index: 1;
+}
+
+.title-container {
   display: flex;
-  flex-direction: column;
   align-items: center;
-  max-width: 800px;
-  margin: 20px auto;
-  padding: 20px;
-  background-color: #fff;
-  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-  border-radius: 8px;
+  justify-content: center;
+  gap: 1rem;
+  margin-bottom: 1rem;
 }
 
-ul {
-  list-style-type: none;
-  padding: 0;
-  margin: 0;
+.logo-icon {
+  font-size: 2.5rem;
+  animation: pulse 2s infinite;
+}
+
+@keyframes pulse {
+  0%,
+  100% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 0.5;
+  }
+}
+
+h1 {
+  font-family: "Cinzel", serif;
+  font-size: 3.5rem;
+  font-weight: 700;
+  background: linear-gradient(
+    to right,
+    var(--gryffindor-gold),
+    var(--sparkle-gold)
+  );
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  text-shadow: 0 0 30px rgba(211, 166, 37, 0.3);
+  letter-spacing: 2px;
+}
+
+.subtitle {
+  font-size: 1.2rem;
+  margin-bottom: 1.5rem;
+  opacity: 0.9;
+}
+
+.magic-underline {
+  position: relative;
+  display: inline-block;
+}
+
+.magic-underline::after {
+  content: "";
+  position: absolute;
+  bottom: -2px;
+  left: 0;
   width: 100%;
+  height: 2px;
+  background: linear-gradient(
+    90deg,
+    transparent,
+    var(--magic-purple),
+    transparent
+  );
+  animation: underline-glow 2s infinite;
 }
 
-li {
-  margin-bottom: 10px;
+@keyframes underline-glow {
+  0%,
+  100% {
+    opacity: 0.3;
+  }
+  50% {
+    opacity: 1;
+  }
 }
 
-a {
-  color: #333;
-  text-decoration: none;
-  font-weight: bold;
-}
-
-a:hover {
-  text-decoration: none;
-  color: #333;
-}
-
-p {
-  margin-bottom: 20px;
-  text-align: center;
-  color: #555;
-}
-
-footer {
-  margin-top: 20px;
-  text-align: center;
-  color: #777;
-}
-
-body{
-  background-color: #f2f2f2;
-  padding: 100px;
-  font-family: 'Roboto';
-}
-
-.container{
-  display: flex;
-  align-items: center;
-  flex-direction: column;
-  justify-content: space-around;
-  width: 100%;
-  height: 40%;
-  background-color: #333;;
-  margin: 10px auto;
-  margin-top: 30px;
-  border-radius: 50px;
-  padding-top: 20px;
-  padding-bottom: 10px;
-  box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px;
-}
-
-.title, .container_list{
-  margin: auto;
+.hogwarts-houses {
   display: flex;
   justify-content: center;
+  gap: 2rem;
+  margin-top: 1.5rem;
+  flex-wrap: wrap;
 }
 
-
-.container_li a {
-  display: block;
-  text-decoration: none;
+.house {
+  padding: 0.5rem 1rem;
+  border-radius: 20px;
+  font-weight: 600;
+  font-size: 0.9rem;
+  letter-spacing: 1px;
+  transition: transform 0.3s, box-shadow 0.3s;
 }
 
-
-.container_style{
-  list-style-type: none;
-
+.house:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.3);
 }
 
-.container_title{
-  color: #cccccc;
-  font-size: 0.5rem;
-}
-.container_title:hover{
-  color: #ffd700;
-  cursor: default;
+.gryffindor {
+  background: var(--gryffindor-red);
+  color: var(--gryffindor-gold);
+  border: 1px solid var(--gryffindor-gold);
 }
 
-.container_li{
-  margin: 20px;
-  background-color: #dbdbdb;
-  color: white;
-  width: 300px;
-  height: 30px;
-  text-align: center;
-  padding: 2px;
-  padding-top: 13px;
-  border-radius: 18px;
+.slytherin {
+  background: var(--slytherin-green);
+  color: var(--slytherin-silver);
+  border: 1px solid var(--slytherin-silver);
 }
-.container_li:hover{
-  background-color: #ffd700;
-  color: white;
+
+.ravenclaw {
+  background: var(--ravenclaw-blue);
+  color: var(--ravenclaw-bronze);
+  border: 1px solid var(--ravenclaw-bronze);
+}
+
+.hufflepuff {
+  background: var(--hufflepuff-yellow);
+  color: var(--hufflepuff-black);
+  border: 1px solid var(--hufflepuff-black);
+}
+
+/* Main Content */
+.doc-root {
+  max-width: 1400px;
+  margin: 0 auto;
+  padding: 2rem 1rem;
+}
+
+.magical-section {
+  background: rgba(255, 255, 255, 0.05);
+  backdrop-filter: blur(10px);
+  border: 1px solid rgba(211, 166, 37, 0.2);
+  border-radius: 15px;
+  padding: 2rem;
+  margin-bottom: 2rem;
+  position: relative;
+  overflow: hidden;
+}
+
+.magical-section::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 3px;
+  background: linear-gradient(
+    90deg,
+    var(--gryffindor-red),
+    var(--slytherin-green),
+    var(--ravenclaw-blue),
+    var(--hufflepuff-yellow)
+  );
+}
+
+.section-header {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  margin-bottom: 1.5rem;
+}
+
+.section-header h2 {
+  font-family: "Cinzel", serif;
+  font-size: 1.8rem;
+  color: var(--gryffindor-gold);
+  margin: 0;
+}
+
+.control-group {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
+.control-label {
+  font-weight: 600;
+  color: var(--sparkle-gold);
+}
+
+.magical-select {
+  background: rgba(0, 0, 0, 0.3);
+  color: var(--parchment);
+  border: 2px solid var(--gryffindor-gold);
+  border-radius: 8px;
+  padding: 0.8rem 1rem;
+  font-family: "Lora", serif;
+  font-size: 1rem;
   cursor: pointer;
+  transition: all 0.3s;
 }
 
-.dev:hover{
-  color: #ffd700;
+.magical-select:focus {
+  outline: none;
+  box-shadow: 0 0 20px rgba(211, 166, 37, 0.3);
+  border-color: var(--sparkle-gold);
+}
+
+/* Endpoint Cards */
+.endpoints-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(450px, 1fr));
+  gap: 2rem;
+  margin-top: 2rem;
+}
+
+.endpoint-card {
+  background: rgba(0, 0, 0, 0.4);
+  border-radius: 15px;
+  padding: 1.5rem;
+  position: relative;
+  overflow: hidden;
+  transition: transform 0.3s, box-shadow 0.3s;
+  border: 1px solid;
+}
+
+.endpoint-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 15px 30px rgba(0, 0, 0, 0.4);
+}
+
+.gryffindor-card {
+  border-color: var(--gryffindor-red);
+  background: linear-gradient(
+    145deg,
+    rgba(116, 0, 1, 0.2) 0%,
+    rgba(211, 166, 37, 0.1) 100%
+  );
+}
+
+.ravenclaw-card {
+  border-color: var(--ravenclaw-blue);
+  background: linear-gradient(
+    145deg,
+    rgba(14, 26, 64, 0.2) 0%,
+    rgba(148, 107, 45, 0.1) 100%
+  );
+}
+
+.hufflepuff-card {
+  border-color: var(--hufflepuff-yellow);
+  background: linear-gradient(
+    145deg,
+    rgba(255, 219, 0, 0.2) 0%,
+    rgba(0, 0, 0, 0.1) 100%
+  );
+}
+
+.slytherin-card {
+  border-color: var(--slytherin-green);
+  background: linear-gradient(
+    145deg,
+    rgba(26, 71, 42, 0.2) 0%,
+    rgba(170, 170, 170, 0.1) 100%
+  );
+}
+
+.card-header {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  margin-bottom: 1rem;
+}
+
+.card-icon {
+  font-size: 1.5rem;
+}
+
+.card-header h3 {
+  font-family: "Cinzel", serif;
+  font-size: 1.2rem;
+  color: var(--parchment);
+  margin: 0;
+  flex-grow: 1;
+}
+
+.card-badge {
+  background: var(--magic-purple);
+  color: white;
+  padding: 0.3rem 0.8rem;
+  border-radius: 12px;
+  font-size: 0.8rem;
+  font-weight: 600;
+}
+
+.card-description {
+  color: var(--dark-parchment);
+  margin-bottom: 1.5rem;
+  line-height: 1.5;
+}
+
+.card-input {
+  margin-bottom: 1.5rem;
+}
+
+.magical-input,
+.house-select {
+  width: 100%;
+  padding: 0.8rem;
+  background: rgba(0, 0, 0, 0.3);
+  border: 1px solid rgba(211, 166, 37, 0.3);
+  border-radius: 8px;
+  color: var(--parchment);
+  font-family: "Lora", serif;
+}
+
+.card-examples {
+  background: rgba(0, 0, 0, 0.5);
+  border-radius: 8px;
+  padding: 1rem;
+  margin-bottom: 1.5rem;
+  position: relative;
+}
+
+.example {
+  margin-bottom: 1rem;
+  position: relative;
+}
+
+.example:last-child {
+  margin-bottom: 0;
+}
+
+.example label {
+  display: block;
+  font-size: 0.8rem;
+  color: var(--sparkle-gold);
+  margin-bottom: 0.5rem;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+
+pre {
+  background: rgba(0, 0, 0, 0.7);
+  padding: 1rem;
+  border-radius: 6px;
+  overflow-x: auto;
+  margin: 0;
+  position: relative;
+}
+
+code {
+  font-family: "Courier New", monospace;
+  color: #7fffd4;
+  font-size: 0.9rem;
+}
+
+.copy-btn {
+  position: absolute;
+  top: 0.5rem;
+  right: 0.5rem;
+  background: rgba(211, 166, 37, 0.2);
+  border: 1px solid var(--gryffindor-gold);
+  color: var(--gryffindor-gold);
+  border-radius: 4px;
+  padding: 0.3rem 0.6rem;
+  cursor: pointer;
+  font-size: 0.8rem;
+  transition: all 0.2s;
+}
+
+.copy-btn:hover {
+  background: var(--gryffindor-gold);
+  color: black;
+}
+
+.card-footer {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.try-btn {
+  background: linear-gradient(135deg, var(--spell-blue), var(--magic-purple));
+  color: white;
+  border: none;
+  padding: 0.8rem 1.5rem;
+  border-radius: 25px;
+  font-family: "Cinzel", serif;
+  font-weight: 600;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  transition: all 0.3s;
+  position: relative;
+  overflow: hidden;
+}
+
+.try-btn::before {
+  content: "";
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  width: 0;
+  height: 0;
+  border-radius: 50%;
+  background: rgba(255, 255, 255, 0.2);
+  transform: translate(-50%, -50%);
+  transition: width 0.6s, height 0.6s;
+}
+
+.try-btn:hover::before {
+  width: 300px;
+  height: 300px;
+}
+
+.try-btn:hover {
+  transform: scale(1.05);
+  box-shadow: 0 0 20px rgba(138, 43, 226, 0.5);
+}
+
+.try-btn.casting {
+  animation: cast-spell 0.6s ease;
+}
+
+@keyframes cast-spell {
+  0% {
+    transform: scale(1);
+  }
+  50% {
+    transform: scale(0.95);
+    box-shadow: 0 0 30px var(--magic-purple);
+  }
+  100% {
+    transform: scale(1);
+  }
+}
+
+.btn-icon {
+  font-size: 1.1rem;
+}
+
+/* Response Section */
+.response-section {
+  background: linear-gradient(
+    135deg,
+    rgba(14, 26, 64, 0.9) 0%,
+    rgba(26, 71, 42, 0.9) 100%
+  );
+  border-radius: 15px;
+  padding: 2rem;
+  margin: 2rem 0;
+}
+
+.response-container {
+  background: rgba(0, 0, 0, 0.3);
+  border-radius: 10px;
+  padding: 1.5rem;
+}
+
+.response-controls {
+  display: flex;
+  gap: 1rem;
+  margin-bottom: 1.5rem;
+  flex-wrap: wrap;
+}
+
+.control-btn {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  padding: 0.7rem 1.2rem;
+  border: none;
+  border-radius: 8px;
+  background: rgba(255, 255, 255, 0.1);
+  color: var(--parchment);
+  font-family: "Lora", serif;
+  cursor: pointer;
+  transition: all 0.3s;
+}
+
+.control-btn:hover {
+  background: rgba(255, 255, 255, 0.2);
+  transform: translateY(-2px);
+}
+
+.control-btn.primary {
+  background: linear-gradient(
+    135deg,
+    var(--gryffindor-red),
+    var(--gryffindor-gold)
+  );
+  font-weight: 600;
+}
+
+.response-viewer {
+  background: rgba(0, 0, 0, 0.5);
+  border-radius: 10px;
+  overflow: hidden;
+}
+
+.viewer-header {
+  background: rgba(0, 0, 0, 0.7);
+  padding: 1rem;
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  border-bottom: 1px solid rgba(211, 166, 37, 0.3);
+}
+
+.status-light {
+  width: 12px;
+  height: 12px;
+  border-radius: 50%;
+  background: #666;
+}
+
+.status-light.loading {
+  background: var(--gryffindor-gold);
+  animation: pulse 1s infinite;
+}
+
+.status-light.success {
+  background: #00ff00;
+  box-shadow: 0 0 10px #00ff00;
+}
+
+.status-light.error {
+  background: #ff0000;
+  box-shadow: 0 0 10px #ff0000;
+}
+
+.viewer-title {
+  font-family: "Cinzel", serif;
+  font-weight: 600;
+  color: var(--sparkle-gold);
+}
+
+.json-output {
+  padding: 1.5rem;
+  max-height: 500px;
+  overflow: auto;
+  margin: 0;
+  font-family: "Courier New", monospace;
+  font-size: 0.9rem;
+  line-height: 1.6;
+  transition: all 0.3s;
+}
+
+.json-output.loading {
+  color: var(--gryffindor-gold);
+  animation: typing 1s infinite;
+}
+
+.json-output.success {
+  color: #7fffd4;
+}
+
+.json-output.error {
+  color: #ff6b6b;
+}
+
+@keyframes typing {
+  0%,
+  100% {
+    opacity: 0.5;
+  }
+  50% {
+    opacity: 1;
+  }
+}
+
+/* Instructions Section */
+.instructions-section {
+  margin: 3rem 0;
+}
+
+.instructions-card {
+  background: linear-gradient(
+    135deg,
+    rgba(245, 233, 212, 0.1) 0%,
+    rgba(232, 217, 181, 0.05) 100%
+  );
+  border: 1px solid rgba(211, 166, 37, 0.2);
+  border-radius: 15px;
+  padding: 2rem;
+}
+
+.steps {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 2rem;
+  margin-top: 2rem;
+}
+
+.step {
+  display: flex;
+  gap: 1rem;
+  align-items: flex-start;
+}
+
+.step-number {
+  background: linear-gradient(
+    135deg,
+    var(--gryffindor-red),
+    var(--magic-purple)
+  );
+  color: white;
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: "Cinzel", serif;
+  font-weight: 700;
+  font-size: 1.2rem;
+  flex-shrink: 0;
+}
+
+.step-content h3 {
+  font-family: "Cinzel", serif;
+  color: var(--gryffindor-gold);
+  margin-bottom: 0.5rem;
+  font-size: 1.2rem;
+}
+
+.step-content p {
+  color: var(--dark-parchment);
+  line-height: 1.5;
+}
+
+/* Footer */
+.footer-section {
+  margin-top: 3rem;
+  padding-top: 2rem;
+  border-top: 1px solid rgba(211, 166, 37, 0.3);
+}
+
+.magical-footer {
+  text-align: center;
+}
+
+.footer-message {
+  font-size: 1.1rem;
+  margin-bottom: 2rem;
+  line-height: 1.6;
+}
+
+.sparkle {
+  display: inline-block;
+  animation: sparkle 2s infinite;
+}
+
+.footer-links {
+  display: flex;
+  justify-content: center;
+  gap: 3rem;
+  margin-bottom: 2rem;
+  flex-wrap: wrap;
+}
+
+.footer-link {
+  color: var(--gryffindor-gold);
+  text-decoration: none;
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  padding: 0.8rem 1.5rem;
+  border: 1px solid rgba(211, 166, 37, 0.3);
+  border-radius: 25px;
+  transition: all 0.3s;
+}
+
+.footer-link:hover {
+  background: rgba(211, 166, 37, 0.1);
+  transform: translateY(-3px);
+  box-shadow: 0 5px 15px rgba(211, 166, 37, 0.2);
+}
+
+.link-icon {
+  font-size: 1.2rem;
+}
+
+.copyright {
+  color: var(--dark-parchment);
+  font-size: 0.9rem;
+}
+
+.disclaimer {
+  display: block;
+  margin-top: 0.5rem;
+  font-size: 0.8rem;
+  opacity: 0.7;
+}
+
+/* Floating Messages */
+.floating-message {
+  position: fixed;
+  top: 20px;
+  right: 20px;
+  background: linear-gradient(
+    135deg,
+    var(--gryffindor-red),
+    var(--magic-purple)
+  );
+  color: white;
+  padding: 1rem 2rem;
+  border-radius: 10px;
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.3);
+  z-index: 1000;
+  animation: slideIn 0.3s ease, fadeOut 0.3s ease 2.7s forwards;
+}
+
+@keyframes slideIn {
+  from {
+    transform: translateX(100%);
+    opacity: 0;
+  }
+  to {
+    transform: translateX(0);
+    opacity: 1;
+  }
+}
+
+@keyframes fadeOut {
+  to {
+    opacity: 0;
+  }
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+  h1 {
+    font-size: 2.5rem;
+  }
+
+  .endpoints-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .hogwarts-houses {
+    gap: 1rem;
+  }
+
+  .steps {
+    grid-template-columns: 1fr;
+  }
+
+  .footer-links {
+    flex-direction: column;
+    align-items: center;
+    gap: 1rem;
+  }
+
+  .response-controls {
+    justify-content: center;
+  }
+}
+
+@media (max-width: 480px) {
+  .magical-section {
+    padding: 1rem;
+  }
+
+  .try-btn,
+  .control-btn {
+    width: 100%;
+    justify-content: center;
+  }
+
+  .card-header {
+    flex-wrap: wrap;
+  }
 }
